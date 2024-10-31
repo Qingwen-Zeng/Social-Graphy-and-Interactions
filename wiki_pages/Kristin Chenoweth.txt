@@ -7,6 +7,7 @@
 | birth_name = Kristi<!-- Not a typo. Birth name was Kristi, not Kristin, according to Chenoweth's autobiography, cited below. --> Dawn Chenoweth
 | birth_date = {{birth date and age|1968|07|24}}
 | birth_place = [[Broken Arrow, Oklahoma]], U.S.
+| alma_mater = [[Oklahoma City University]]
 | occupation = {{hlist|Actress|singer}}
 | years_active = 1991–present
 | spouse       = {{marriage|Josh Bryant|2023}}

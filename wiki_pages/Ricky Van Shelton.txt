@@ -6,8 +6,9 @@
 |image_size        = 200
 A|background      = solo_singer
 |alias           =
-|birth_date            = {{Birth date and age|1952|1|12}}
-|birth_place           = [[Danville, Virginia]], United States
+|birth_date      = {{Birth date and age|1952|1|12}}
+|birth_place     = [[Danville, Virginia]], U.S.
+|origin          = [[Nashville, Tennessee]], U.S.
 |instrument      = Vocals, guitar
 |genre           = [[Country music|Country]]
 |occupation      = Singer

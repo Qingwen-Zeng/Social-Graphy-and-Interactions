@@ -164,12 +164,12 @@ DateFormat  = dd/mm/yyyy
 Period = from:01/01/1984 till:01/01/2022
 TimeAxis = orientation:horizontal format:yyyy
 Legend = orientation:vertical columns:4 position:bottom
-ScaleMajor = increment:2 start:1984
+ScaleMajor = increment:4 start:1984
 ScaleMinor = increment:1 start:1984
 
 Colors =
  id:voc      value:red         legend:Vocals
- id:lg       value:green       legend:Lead_guitar
+ id:lg       value:teal        legend:Lead_guitar
  id:rg       value:brightgreen legend:Rhythm_guitar
  id:key      value:purple      legend:Keyboards
  id:b        value:blue        legend:Bass

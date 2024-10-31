@@ -1,4 +1,4 @@
-{{short description|American singer and actress}}
+{{short description|American actress and singer (born 1993)}}
 {{for|the college basketball coach|Debbie Ryan}}
 {{pp-semi-indef|small=yes}}
 {{Use mdy dates|date=May 2020}}
@@ -285,7 +285,7 @@ Ryan has said that her musical style includes [[folk music|folk]], [[indie pop]]
 |-
 | ''[[Goldie & Bear]]''
 | Thumbelina
-| Voice; episode: "Thumbulina's Wild Ride"
+| Voice; episode: "Thumbelina's Wild Ride"
 |-
 | rowspan="2" | 2016
 | ''[[The Mysteries of Laura]]''
@@ -315,11 +315,15 @@ Ryan has said that her musical style includes [[folk music|folk]], [[indie pop]]
 | Hanna
 | Recurring role
 |-
-| 2023–present
+| 2023–2024
 | ''[[Velma (TV series)|Velma]]''
 | Krista
 | Voice; recurring role
 |-
+| 2024
+| ''[[American Horror Stories]]''
+| Jillian Fletcher
+| Episode: "The Thing Under the Bed"
 |}
 
 ==Discography==

@@ -58,12 +58,12 @@ Marlowe relocated to [[Nashville, Tennessee]] shortly before the start of the [[
 ! scope="col" rowspan="2"| Album
 |- style="font-size:smaller;"
 ! scope="col" width="45"| [[Bubbling Under Hot 100|US Bubbling]]<br /><ref>{{Cite magazine |title=Dylan Scott Chart History: Bubbling Under Hot 100 |url=http://www.billboard.com/artist/dylan-scott/chart-history/hbu/ |access-date=October 8, 2024 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
-! scope="col" width="45"| [[Hot Country Songs|US Country Songs]]<br /><ref>{{Cite magazine |title=Dylan Scott Chart History: Country Songs |url=http://www.billboard.com/artist/dylan-scott/chart-history/csi |access-date=July 9, 2024 |magazine=Billboard}}</ref>
+! scope="col" width="45"| [[Hot Country Songs|US Country Songs]]<br /><ref>{{Cite magazine |title=Dylan Scott Chart History: Country Songs |url=http://www.billboard.com/artist/dylan-scott/chart-history/csi |access-date=October 22, 2024 |magazine=Billboard}}</ref>
 ! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1004.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 4, 2024|access-date=October 5, 2024}}</ref>
 |-
 ! scope="row" | "[[Boys Back Home]]"<br />{{small|(with [[Dylan Scott]])}}
 | 2023
-| 18 || 36 || 24
+| 18 || 32 || 24
 | ''Mid-Twenties Crisis''
 |}
 

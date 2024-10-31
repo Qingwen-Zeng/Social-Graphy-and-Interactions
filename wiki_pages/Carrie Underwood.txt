@@ -1,5 +1,4 @@
 {{short description|American singer (born 1983)}}
-{{pp|small=yes}}
 {{Use mdy dates|date=March 2022}}
 {{Infobox musical artist
 | name              = Carrie Underwood
@@ -10,7 +9,7 @@
 | birth_place       = [[Muskogee, Oklahoma]], U.S.
 | occupation        = {{hlist|Singer|songwriter}}
 | years_active      = 2004–present
-| instrument = Vocals
+| instrument        = Vocals
 | genre             = {{hlist|[[Country music|Country]]|[[country pop]]|[[country rock]]|[[Gospel music|gospel]]}}
 | label             = {{hlist|[[19 Recordings|19]]|[[Arista Records|Arista]]|[[Arista Nashville]]|[[Capitol Records Nashville|Capitol Nashville]]}}
 | website           = {{URL|carrieunderwoodofficial.com}}

@@ -9,7 +9,7 @@
 | caption            = 
 | birth_name         = Ryan James Hurd
 | birth_date         = {{birth date and age|1986|11|2}}
-| birth_place        = [[Chicago, Illinois]], U.S.
+| birth_place        = [[Kalamazoo, Michigan]], U.S.
 | website            = {{URL|ryanhurd.com}}
 | spouse(s)          = {{marriage|[[Maren Morris]]|2018|2024|end={{abbr|div.|divorced}}}}
 | children           = 1
@@ -28,6 +28,7 @@
 | label           = {{flatlist|
 * [[RCA Records Nashville|RCA Nashville]]
 * [[Arista Nashville]]
+*[[Big Machine]]
 }}
 }}
 }}

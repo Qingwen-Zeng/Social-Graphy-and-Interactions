@@ -3,22 +3,23 @@
 {{Use mdy dates|date=August 2024}}
 {{Use American English|date=January 2021}}
 {{Infobox musical artist
-| background = person
-| name               = Ryan Adams
-| image              = Ryan Adams, Clapham Common, Calling Festival, London (cropped).jpg
-| alt                = A man with yellow sunglasses singing and playing guitar
-| caption            = Adams in 2015
-| birth_name         = David Ryan Adams
-| birth_date         = {{birth date and age|1974|11|5}}
-| birth_place        = [[Jacksonville, North Carolina]], U.S.
-| occupation         = {{hlist|Singer|songwriter|record producer}}
-| years_active       = 1990–present
-| spouse             = {{marriage|[[Mandy Moore]]|March 10, 2009|June 2016|end=divorced}}
-| website            = {{URL|ryanadamsofficial.com}}
-| instrument         = {{hlist|Vocals|guitar|piano|banjo||[[bass guitar]]|[[harmonica]]|[[percussion]]}}
-| genre              = {{hlist|[[Rock music|Rock]]|[[alternative country]]|[[folk rock]]|[[indie rock]]}}
-| past_member_of     = {{hlist|[[Whiskeytown]]|[[The Finger (band)|The Finger]]|[[Ryan Adams and the Cardinals|The Cardinals]]|[[Pornography (band)|Pornography]]}}
-| label              = {{hlist|[[Bloodshot Records|Bloodshot]]|[[Lost Highway Records|Lost Highway]]|[[PAX AM]]|[[Blue Note Records|Blue Note]]|[[Capitol Records|Capitol]]}}
+| background        = person
+| name              = Ryan Adams
+| image             = Ryan Adams, Clapham Common, Calling Festival, London (cropped).jpg
+| alt               = A man with yellow sunglasses singing and playing guitar
+| caption           = Adams in 2015
+| birth_name        = David Ryan Adams
+| birth_date        = {{birth date and age|1974|11|5}}
+| birth_place       = [[Jacksonville, North Carolina]], U.S.
+| occupation        = {{hlist|Singer|songwriter|record producer}}
+| years_active      = 1990–present
+| spouse            = {{marriage|[[Mandy Moore]]|March 10, 2009|June 2016|end=divorced}}
+| website           = {{URL|ryanadamsofficial.com}}
+| instrument        = {{hlist|Vocals|guitar|piano|banjo||[[bass guitar]]|[[harmonica]]|[[percussion]]}}
+| genre             = {{hlist|[[Rock music|Rock]]|[[alternative country]]|[[folk rock]]|[[indie rock]]}}
+| current_member_of = [[Ryan Adams and the Cardinals|The Cardinals]]
+| past_member_of    = {{hlist|[[Whiskeytown]]|[[The Finger (band)|The Finger]]|[[Pornography (band)|Pornography]]}}
+| label             = {{hlist|[[Bloodshot Records|Bloodshot]]|[[Lost Highway Records|Lost Highway]]|[[PAX AM]]|[[Blue Note Records|Blue Note]]|[[Capitol Records|Capitol]]}}
 }}
 
 '''David Ryan Adams''' (born November 5, 1974) is an American [[Rock music|rock]] and [[Country music|country]] singer-songwriter. He has released 29 studio albums and three as a former member of [[Whiskeytown]].
@@ -130,7 +131,7 @@ On April 23, 2021, Adams surprise-released "Do Not Disturb" as the lead single f
 
 On March 2, 2022, Adams announced his first headlining show since the ''New York Times'' article.<ref>{{Cite web|last=Shafer|first=Ellise|date=March 2, 2022|title=Ryan Adams Sets High-Profile Return With Carnegie Hall Concert|url=https://variety.com/2022/music/news/ryan-adams-concert-sexual-misconduct-allegations-1235192200/|access-date=March 25, 2022|website=[[Variety (website)|Variety]]|publisher=[[Penske Media Corporation]]|language=en-US}}</ref> It sold out within hours and took place at [[Carnegie Hall]] on May 14.<ref>{{Cite web|last=Yakas|first=Ben|date=March 3, 2022|title=Ryan Adams books Carnegie Hall for first major show since 2019 misconduct allegations|url=https://gothamist.com/arts-entertainment/ryan-adams-carnegie-hall-first-major-show-misconduct-allegations|access-date=March 25, 2022|website=[[Gothamist]]|language=en-US}}</ref> Additional concerts were announced later in March,<ref name="ChrisRockNYC">{{Cite web|last=Camus|first=Alyson|date=March 24, 2022|title=Ryan Adams Announces Two New Shows And The Release Of "Chris"|url=https://rocknyc.live/ryan-adams-announces-two-new-shows-and-the-release-of-chris.html|access-date=March 25, 2022|website=Rock NYC Live|language=en-US}}</ref> with another batch announced in June.<ref>{{Cite web|last=Willman|first=Chris|date=June 15, 2022|title=Ryan Adams Books More Tour Dates in Post-Scandal Comeback Bid|url=https://variety.com/2022/music/news/ryan-adams-tour-dates-midwest-south-comeback-bid-post-scandal-1235295071/|access-date=June 16, 2022|website=[[Variety (website)|Variety]]|publisher=[[Penske Media Corporation]]|language=en-US}}</ref> On March 25, Adams released ''Chris'' as the final installment of the trilogy.<ref name="ChrisRockNYC"/> It was followed by four other albums: ''Romeo & Juliet'' on April 25,<ref name="R&JRockNYC">{{Cite web|last=Lababedi|first=Iman|date=April 26, 2022|title=Ryan Adams Dropped Even Newer Double Album "Romeo And Juliet" On Pax Am On Monday, April 25th, 2022|url=https://rocknyc.live/ryan-adams-dropped-even-newer-double-album-romeo-and-juliet-on-pax-am-on-monday-april-25th-2022.html|access-date=April 30, 2022|website=Rock NYC Live|language=en-US}}</ref> ''FM'' on July 22,<ref>{{Cite web|last=Shah|first=Neil|date=July 14, 2022|title=From Morgan Wallen to Ryan Adams, Some of Music's Disgraced Stars Stage Their Comeback|url=https://www.wsj.com/articles/morgan-wallen-ryan-adams-11657807050|access-date=August 29, 2022|website=[[The Wall Street Journal]]|language=en-US|quote=On July 22, the alt-country singer-songwriter releases a new album, "FM."}}</ref> ''Devolver'' on September 23,<ref name="DevolverSobriety">{{Cite tweet|last=Adams|first=Ryan|user=TheRyanAdams|number=1573223780557750280|title=💭 Ryan Celebrates One Year of Sobriety today|date=September 23, 2022|access-date=October 15, 2022}}</ref><!-- Earliest release dates for 2022 albums! Although they were not serviced to streaming platforms immediately, the albums were available for purchase via Adams's official PAX AM webstore on those dates. Do not change to the streaming release dates. --> and ''Nebraska'' on December 7, a cover of the [[Nebraska (album)|Bruce Springsteen album]] of the same name. ''Devolver'' was released as a free download along with a statement from Adams thanking his fans for their support.<ref>{{cite web|url=https://paxam.shop/products/devolver|title="Devolver" - Digital Download|website=PAX AM Shop|date=September 23, 2022|access-date=October 15, 2022}}</ref> He announced further shows in Fall and Winter of 2022 <ref>{{Cite web |title=RYAN ADAMS ANNOUNCES ADDITIONAL 18-SHOW NORTH AMERICAN TOUR IN FALL / WINTER 2022 |url=https://www.gratefulweb.com/articles/ryan-adams-announces-additional-18-show-north-american-tour-fall-winter-2022 |access-date=November 1, 2022 |website=Grateful Web |language=en}}</ref> and then his long-awaited return to the U.K. for April 2023.<ref>{{Cite web |title=Ryan Adams – announced his long-awaited return to the UK |url=https://www.yo1radio.co.uk/news/entertainment/ryan-adams-announced-his-long-awaited-return-to-the-uk/ |access-date=November 1, 2022 |website=YO1 Radio |language=en}}</ref> On December 26, 2022, Adams released a cover of the [[Bob Dylan]] album ''[[Blood on the Tracks]]'', and on April 14, 2023, he released a cover of the [[Oasis (band)|Oasis]] album ''[[(What's the Story) Morning Glory?]]'', which also included covers of b-sides from that album's singles.<ref>{{cite news |last1=Laing |first1=Rob |title=Ryan Adams is now covering Oasis's What's The Story album in its entirety (plus "all the b-sides") |url=https://www.musicradar.com/news/ryan-adams-oasis-whats-the-story-morning-glory-covers |access-date=April 14, 2023 |publisher=Music Radar |date=January 5, 2023}}</ref>
 
-On January 1, 2024, Adams surprise-released four more studio albums: ''Sword & Stone'', ''Star Sign'', ''Heatwave'' and ''1985'', as well as a live version of ''Prisoner''.<ref>{{Cite web |last=Johnson |first=Christopher |date=January 4, 2024 |title=Ryan Adams surprise releases 5 albums at once: a total of 77 songs in a single day |url=https://www.wecb.fm/ryan-adams-surprise-releases-5-albums-at-once-a-total-of-77-songs-in-a-single-day/ |access-date=January 4, 2024 |website=WECB |language=en-US}}</ref> 
+On January 1, 2024, Adams surprise-released four more studio albums: ''Sword & Stone'', ''Star Sign'', ''Heatwave'' and ''1985'', as well as a live version of ''Prisoner''.<ref>{{Cite web |last=Johnson |first=Christopher |date=January 4, 2024 |title=Ryan Adams surprise releases 5 albums at once: a total of 77 songs in a single day |url=https://www.wecb.fm/ryan-adams-surprise-releases-5-albums-at-once-a-total-of-77-songs-in-a-single-day/ |access-date=January 4, 2024 |website=WECB |language=en-US}}</ref>
 
 == Personal life ==
 
@@ -318,7 +319,6 @@ His musical style and dynamism has been praised by various artists like [[Frank 
 {{sister project links|d=Q437970|n=no|b=no|v=no|voy=no|s=no|wikt=no|m=no|mw=no|species=no|c=category:Ryan Adams}}
 *[https://ryanadamsofficial.com Official website]
 *[http://paxamrecords.com PAX AM's site] {{Webarchive|url=https://web.archive.org/web/20190926070954/http://paxamrecords.com/ |date=September 26, 2019 }}
-*{{Curlie|Arts/Music/Bands_and_Artists/A/Adams%2C_Ryan/}}
 *{{IMDb name|1388227}}
 *{{Internet Archive music|id=RyanAdams}}
 

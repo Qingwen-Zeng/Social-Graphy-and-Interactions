@@ -89,7 +89,7 @@ title=Matt Lang Chart History (Canadian Albums)| magazine=[[Billboard (magazine)
 ! scope="col" rowspan="2"| Album
 |- style="font-size:smaller;"
 ! scope="col" style="width:4em;"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine|url=http://www.billboard.com/artist/matt-lang/chart-history/CAN|title=Matt Lang Chart History (Canadian Hot 100)|magazine=[[Billboard (magazine)|Billboard]]|access-date=December 1, 2021}}</ref>
-! scope="col" style="width:4em;"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url=http://www.billboard.com/artist/matt-lang/chart-history/ccw|title=Matt Lang Chart History (Canada Country)|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 12, 2024}}</ref>
+! scope="col" style="width:4em;"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url=http://www.billboard.com/artist/matt-lang/chart-history/ccw|title=Matt Lang Chart History (Canada Country)|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 19, 2024}}</ref>
 |-
 | 2019
 ! scope="row"| "Water Down the Whiskey"
@@ -138,7 +138,7 @@ title=Matt Lang Chart History (Canadian Albums)| magazine=[[Billboard (magazine)
 |-
 ! scope="row"| "Sweet on You"
 | —
-| 46
+| 44
 |
 |-
 | colspan="6" style="font-size:85%"| "—" denotes releases that did not chart 

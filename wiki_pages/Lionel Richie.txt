@@ -1,6 +1,6 @@
 {{Short description|American singer (born 1949)}}
 {{for|his eponymous album|Lionel Richie (album)}}
-{{Use mdy dates|date=September 2021}}
+{{Use mdy dates|date=October 2024}}
 {{Infobox person
 | name               = Lionel Richie
 | image              = Lionel Richie 2022 (51930307118) (cropped).jpg
@@ -25,6 +25,7 @@
 | background = solo_singer
 | instrument = {{flatlist|
 * Vocals
+* keyboards
 * piano
 * saxophone
 }}
@@ -147,6 +148,7 @@ Richie has been nominated for two [[Golden Globe]] awards and won one. In 1982, 
 * [[All the Hits Tour (Lionel Richie and Mariah Carey)|All the Hits Tour]] {{small|(with [[Mariah Carey]])}} (2017)
 * Hello! Hits Tour (2019)
 * Sing a Song All Night Long Tour {{small|(with [[Earth, Wind & Fire]])}} (2023–2024)
+* Say Hello To The Hits Tour (2024-2025)
 
 ==Discography==
 {{See also|Lionel Richie discography}}

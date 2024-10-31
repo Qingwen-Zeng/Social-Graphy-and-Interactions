@@ -47,6 +47,11 @@ The duo collaborated with American country star [[Zach Bryan]] on the track "Hey
 {| class="wikitable"
 |}
 
+==Personal Lives==
+From 2003-2011, Michael served in the [[United States Army]]. He was assigned to the 1st Batallion, 6th Infantry Regiment, 2nd Brigade, 1st Armored Divison and served in [[Iraq]] and [[Germany]]. His highest achieved ranking was [[Private First Class]].<ref>{{Cite web |title=Michael Trotter, Jr. Collection |website=loc.gov |url=https://www.loc.gov/item/afc2001001.91765/ |access-date=2024-10-22}}</ref>
+
+During his deployment, his unit was encamped in one of [[Saddam Hussein]]'s private palaces, which had a [[piano]] in its basement. Michael learned how to play the instrument when his commanding officer, Captain Robert Scheetz, encouraged him to toy around with the piano knowing he had a passion for singing. Sheetz was killed on a mission shortly after. Michael wrote his first song in Scheetz's honor and sang it at his memorial. He then began performing at the services of other fallen soldiers.<ref>{{Cite web |title=How The War and Treaty's Michael Trotter Jr., an Iraq War Veteran, Came Full Circle on a USO Tour (Exclusive) |website=people.com |url=https://people.com/war-and-treaty-uso-tour-full-circle-moment-michael-trotter-exclusive-8425088 |access-date=2024-10-22}}</ref>
+
 ==Discography==
 ===Studio albums===
 {| class="wikitable plainrowheaders" style="text-align:center;" border="1"
@@ -330,6 +335,28 @@ The duo collaborated with American country star [[Zach Bryan]] on the track "Hey
 |"Blank Page"
 |[[Grammy Award for Best American Roots Song|Best American Roots Song]]
 |{{Nominated}}
+|-
+| rowspan="4" |2024
+|Academy Of Country Music Awards
+|The War And Treaty
+|Duo of the Year
+|{{Nominated}}
+|<ref>{{Cite web |title=Winners {{!}} acmcountry.com |url=https://www.acmcountry.com/noms}}</ref>
+|-
+| rowspan="2" |People's Choice Country Awards
+|"Hey Driver" - Zach Bryan feat. The War and Treaty
+|The Collaboration Song of 2024
+|{{Nominated}}
+| rowspan="2" |<ref>{{Cite web |title=Morgan Wallen, Luke Combs Are Top Winners at 2024 People’s Choice Country Awards: Full List {{!}} billboard.com |url=https://www.billboard.com/music/awards/2024-peoples-choice-country-awards-full-winners-list-morgan-wallen-luke-combs-1235786459/}}</ref>
+|-
+| rowspan="2" |The War And Treaty
+|The Group/Duo of 2024
+|{{Nominated}}
+|-
+|Country Music Association Awards
+|Vocal Duo of the Year
+|TBA
+|rowspan="4" |<ref>{{Cite web |title=2024 CMA Award Nominations {{!}} cmaawards.com |url=https://cmaawards.com/nominees-winners/ |access-date=2024-10-02 |website=www.cmaawards.com}}</ref>
 |}
 
 ==Notes==

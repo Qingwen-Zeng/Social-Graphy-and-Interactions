@@ -8,7 +8,7 @@
 | caption           = Brady Seals
 | birth_date        = {{Birth date and age|1969|3|29}}
 | origin            = [[Fairfield, Ohio]], U.S.
-| instrument        = Vocals<br />keyboards
+| instrument        = Vocals, keyboards, guitar
 | genre             = [[Country music|Country]]
 | occupation        = Singer-songwriter
 | years_active      = 1988–present

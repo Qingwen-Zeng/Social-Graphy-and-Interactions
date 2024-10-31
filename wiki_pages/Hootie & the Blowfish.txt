@@ -107,6 +107,7 @@ Contrasting with the sound of their [[grunge]] contemporaries, the band's music 
 
 == Members ==
 [[File:Hootie and the Blowfish on stage.JPEG|alt=The band onstage|thumb|Hootie and the Blowfish with [[Peter Holsapple]] (center, playing mandolin) in 2004]]
+
 === Current members ===
 * [[Mark Bryan]]&nbsp;– lead guitar, backing vocals, piano (1986–2008, 2018–present)
 * Dean Felber&nbsp;– bass guitar, backing vocals, piano (1986–2008, 2018–present)
@@ -119,7 +120,7 @@ Contrasting with the sound of their [[grunge]] contemporaries, the band's music 
 ==== Current touring musicians ====
 * Gary Greene&nbsp;– percussion, drums, piano, [[banjo]], backing vocals (1995–2000, 2001–2008, 2018–present)
 * Garry Murray&nbsp;– banjo, mandolin, [[fiddle]], additional guitars, backing vocals (2019–present)
-* Lee Turner&nbsp;- keyboards, [[mandolin]], [[accordion]], additional guitars, backing vocals (2021–present) 
+* Lee Turner&nbsp;- keyboards, [[mandolin]], [[accordion]], additional guitars, backing vocals (2021–present)
 
 ==== Former touring musicians ====
 * John Nau&nbsp;– keyboards, mandolin, harmonica (1994–1998, studio and occasional fill-in only; 1998–2003, studio artist and touring musician)
@@ -770,10 +771,9 @@ The [[MTV Video Music Award]] is an award presented by the cable channel [[MTV]]
 {{Reflist}}
 
 == External links ==
-{{sisterlinks|d=Q1476499|c=category:Hootie and the Blowfish|n=no|b=no|v=no|voy=no|m=no|mw=no|wikt=no|s=no|species=no|q=no}}
+{{sister project links|d=Q1476499|c=category:Hootie and the Blowfish|n=no|b=no|v=no|voy=no|m=no|mw=no|wikt=no|s=no|species=no|q=no}}
 * {{Official website}}
 * [http://www.hootiegolf.com/ Hootie Golf site]
-* {{Curlie|Arts/Music/Bands_and_Artists/H/Hootie_and_the_Blowfish/}}
 
 {{Hootie & the Blowfish|state=expanded}}
 {{American Music Award for Favorite Pop/Rock Band/Duo/Group}}

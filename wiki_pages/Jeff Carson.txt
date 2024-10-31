@@ -102,7 +102,6 @@ Carson died from a heart attack at a hospital in Franklin, Tennessee, on March 2
 
 ===Singles===
 
-====1990s====
 {| class="wikitable plainrowheaders" style="text-align:center;"
 |-
 ! rowspan="2"| Year
@@ -121,7 +120,7 @@ Carson died from a heart attack at a hospital in Franklin, Tennessee, on March 2
 | —
 | align="left" rowspan="5"| ''Jeff Carson''
 |-
-! scope="row"| "[[Not on Your Love]]"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1995/BB-1995-06-10.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=61|date=June 10, 1995}}</ref>
+! scope="row"| "[[Not on Your Love]]"
 | 1
 | 97
 | 2
@@ -169,47 +168,36 @@ Carson died from a heart attack at a hospital in Franklin, Tennessee, on March 2
 | 49
 | —
 | —
-| align="left"| ''Real Life''
-|-
-| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
-|-
-|}
-
-====2000s and 2010s====
-{| class="wikitable plainrowheaders" style="text-align:center;"
-|-
-! rowspan="2"| Year
-! rowspan="2" style="width:20em;"| Single
-! colspan="2"| Peak chart<br />positions<ref name="whitburn"/>
-! rowspan="2"| Album
-|- style="font-size:smaller;"
-! width="45"| [[Hot Country Songs|US Country]]
-! width="45"| [[Billboard Hot 100|US]]
+| align="left" rowspan=4| ''Real Life''
 |-
 | 2000
 ! scope="row"| "Scars and All"
 | —
 | —
-| align="left" rowspan="3"| ''Real Life''
+| —
 |-
 | 2001
 ! scope="row"| "[[Real Life (I Never Was the Same Again)]]"
 | 14
 | —{{Efn|"Real Life" did not enter the ''Billboard'' Hot 100, but peaked at number 3 on Bubbling Under Hot 100 Singles.<ref name="whitburn"/>}}
+| —
 |-
 | 2002
 ! scope="row"| "Until We Fall Back in Love Again"
 | 46
+| —
 | —
 |-
 | 2003
 ! scope="row"| "[[I Can Only Imagine (MercyMe song)|I Can Only Imagine]]"
 | 50
 | —
+| —
 | align="left"| ''God Bless the USA 2003''<ref name="Tree 2022" />
 |-
 | 2005
 ! scope="row"| "God Save the World" <small>(with [[Lisa Brokop]])</small><ref name="WSIP FM 98.9 New Country 2022">{{cite web | title=Country singer Jeff Carson has passed away | website=WSIP FM 98.9 | date=March 27, 2022 | url=https://www.wsipfm.com/2022/03/26/country-singer-jeff-carson-has-passed-away/ | access-date=March 28, 2022}}</ref>
+| —
 | —
 | —
 | align="left"| ''Best of America, Vol. 2''
@@ -218,9 +206,10 @@ Carson died from a heart attack at a hospital in Franklin, Tennessee, on March 2
 ! scope="row"| "When You Said You Loved Me"<ref name="Country Universe 2007">{{cite web | title=Review: Jeff Carson, "When You Said You Loved Me" | website=Country Universe | date=January 15, 2007 | url=https://www.countryuniverse.net/2007/01/15/review-jeff-carson-when-you-said-you-loved-me/ | access-date=March 28, 2022}}</ref>
 | —
 | —
+| —
 | rowspan="1" {{n/a}}
 |-
-| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
 |-
 |}
 

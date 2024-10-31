@@ -127,13 +127,13 @@ Esten is national chairman for the annual Light the Night Walks, a fundraiser be
 |(as Charles 'Chip' Esten)
 |-
 |rowspan="1"|2024 
-|style="background:#FFFFCC;" | ''[[Grizzly Night]]'' {{dagger|alt=Films that have not yet been released}}
-| Gary Bunney
-| Post-production
+|''The Easy Kind'' 
+| Tye
+| 
 |-
 | rowspan="2"|{{TableTBA}}
-| style="background:#FFFFCC;" | ''Bad On Paper'' {{dagger|alt=Films that have not yet been released}}
-| Tye
+| style="background:#FFFFCC;" | ''Grizzly Night'' {{dagger|alt=Films that have not yet been released}}
+| Gary Bunney
 | Post-production
 |-
 | style="background:#FFFFCC;" | ''Signing Day'' {{dagger|alt=Films that have not yet been released}}
@@ -145,6 +145,7 @@ Esten is national chairman for the annual Light the Night Walks, a fundraiser be
 |style="background:#FFFFCC;" | {{dagger|alt=Films that have not yet been released}}
 |Denotes films that have not yet been released
 |}
+
 ===TV===
 {| class="wikitable sortable"
 |-
@@ -398,7 +399,7 @@ Esten is national chairman for the annual Light the Night Walks, a fundraiser be
 |2012–2018
 |''[[Nashville (2012 TV series)|Nashville]]''
 |Deacon Claybourne
-|124 episodes<br>Nominated—[[Guild of Music Supervisors Award for Best Song Written and/or Recorded for Television]]
+|Main cast; 124 episodes<br>Nominated—[[Guild of Music Supervisors Award for Best Song Written and/or Recorded for Television]]
 |-
 |2012
 |''Nashville: The Whole Story''
@@ -432,7 +433,7 @@ Esten is national chairman for the annual Light the Night Walks, a fundraiser be
 |2020–2023
 |''[[Outer Banks (TV series)|Outer Banks]]''
 | Ward Cameron
-|28 episodes
+|Main cast; 28 episodes
 |-
 |2020
 |''[[Country Music Association Awards]]''
@@ -448,6 +449,11 @@ Esten is national chairman for the annual Light the Night Walks, a fundraiser be
 |''[[The Kelly Clarkson Show]] ''
 | Self/Musical Guest
 | 2 episodes
+|-
+|TBA
+|''Homestead''
+| Cain Ross
+|
 |}
 
 ==Discography==

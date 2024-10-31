@@ -313,7 +313,7 @@ Parker McCollum's music incorporates genres as diverse as [[blues]], [[roots roc
 | 1
 | —
 | 33
-| rowspan="3" |
+|
 * RIAA: Platinum<ref name="RIAA" />
 |-
 |2022
@@ -323,7 +323,9 @@ Parker McCollum's music incorporates genres as diverse as [[blues]], [[roots roc
 | 2
 | 81
 | 4
-| style="text-align:center;" rowspan="2"|''Never Enough''
+|
+* RIAA: Platinum<ref name="RIAA" />
+| rowspan="2" style="text-align:center;" |''Never Enough''
 |-
 |2023
 !scope="row"|"[[Burn It Down (Parker McCollum song)|Burn It Down]]"
@@ -332,6 +334,8 @@ Parker McCollum's music incorporates genres as diverse as [[blues]], [[roots roc
 | 1
 | —
 | 4
+|
+* RIAA: Platinum<ref name="RIAA" />
 |-
 |2024
 !scope="row"|"What Kinda Man"
@@ -361,6 +365,7 @@ Parker McCollum's music incorporates genres as diverse as [[blues]], [[roots roc
 !scope="row"|"Like a Cowboy"
 | —{{efn|group=upper-alpha|"Like a Cowboy" did not enter the [[Hot Country Songs]] chart, but peaked at number 22 on the [[Country Digital Song Sales]] chart.<ref name="CountryDigital">{{cite magazine|url= https://www.billboard.com/artist/parker-mccollum/chart-history/cdt/|title=Parker McCollum Chart History: Country Digital Song Sales|magazine=[[Billboard (magazine)|Billboard]]|access-date=June 23, 2020}}</ref>}}
 |
+* RIAA: Gold<ref name="RIAA" />
 | rowspan="2" | ''Hollywood Gold''
 |-
 !scope="row"|"Young Man's Blues"

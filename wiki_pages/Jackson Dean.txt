@@ -73,7 +73,7 @@ Dean's second studio album, ''On the Back of My Dreams'', will be released on Se
 ! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref>Peaks on the Country Airplay chart:
 * "Don't Come Lookin'": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2022_1128.pdf|title=Billboard Country Update|magazine=Billboard|page=6|access-date=November 28, 2022}}
 * "Fearless (The Echo)": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0503.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=May 3, 2024|access-date=May 4, 2024}}
-* "Heavens to Betsy": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1011.pdf|title=Billboard Country Update|magazine=Billboard|date=October 11, 2024|access-date=October 12, 2024}}</ref>
+* "Heavens to Betsy": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1018.pdf|title=Billboard Country Update|magazine=Billboard|date=October 18, 2024|access-date=October 19, 2024}}</ref>
 ! scope="col" width="45"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canadian-hot-100/2022-10-29/|title=Canadian Hot 100: Week of October 29, 2022|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 25, 2022}}</ref>
 ! scope="col" width="45"| [[Canada Country|CAN Country]]<br /><ref>Peaks on the Canada Country chart:
 * "Don't Come Lookin'": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2022-11-12/|title=Canada Country: Week of November 12, 2022|magazine=[[Billboard (magazine)|Billboard]]|access-date=November 30, 2022}}
@@ -98,13 +98,14 @@ Dean's second studio album, ''On the Back of My Dreams'', will be released on Se
 | —
 | 29
 |
+* RIAA: Gold<ref name="RIAA" />
 * [[Music Canada|MC]]: Gold<ref name="MC">{{cite certification|region=Canada|artist=Jackson Dean|access-date=September 20, 2024}}</ref>
 |-
 | 2024
 ! scope="row"| "Heavens to Betsy"
 | —
 | —
-| 54
+| 51
 | —
 | —
 |

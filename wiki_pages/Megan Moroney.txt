@@ -97,25 +97,25 @@ On May 2, 2024, Moroney announced her second album ''[[Am I Okay?]]'' It was rel
 |- style="font-size:smaller;"
 ! scope="col" style="width:45px;"| [[Billboard Hot 100|US]]<br /><ref>Peaks on the ''Billboard'' Hot 100:
 * "Tennessee Orange": {{cite magazine | url=https://www.billboard.com/charts/hot-100/2023-05-20/ | title=Billboard Hot 100: Week of May 20, 2023 | magazine=Billboard | access-date=May 16, 2023}}
-* "Am I Okay?": {{cite magazine | url=https://www.billboard.com/charts/hot-100/2024-09-28/ | title=Billboard Hot 100: Week of September 28, 2024 | magazine=Billboard | access-date=September 24, 2024}}</ref>
+* "Am I Okay?": {{cite magazine | url=https://www.billboard.com/charts/hot-100/2024-10-19/ | title=Billboard Hot 100: Week of October 19, 2024 | magazine=Billboard | access-date=October 15, 2024}}</ref>
 ! scope="col" style="width:45px;"| [[Hot Country Songs|US Country]]<br /><ref>Peaks on the Hot Country Songs chart:
 * "Tennessee Orange": {{cite magazine | url=https://bulletins.billboard.com/country/country_update_2023_0515.pdf | title=Billboard Country Update | magazine=Billboard | date=May 15, 2023 | access-date=May 16, 2023}}
 * "I'm Not Pretty": {{cite magazine | url=http://bulletins.billboard.com/country/country_update_2024_0108.pdf | title=Billboard Country Update | magazine=Billboard | access-date=January 9, 2024}}
 * "Can't Break Up Now": {{cite magazine|url=https://www.billboard.com/artist/old-dominion/chart-history/csi/|title=Old Dominion Chart History: Hot Country Songs|magazine=Billboard|access-date=January 9, 2024}}
-* "Am I Okay?": {{cite magazine | url=http://bulletins.billboard.com/country/country_update_2024_0923.pdf | title=Billboard Country Update | magazine=Billboard | access-date=September 24, 2024}}</ref>
+* "Am I Okay?": {{cite magazine | url=http://bulletins.billboard.com/country/country_update_2024_1014.pdf | title=Billboard Country Update | magazine=Billboard | access-date=October 15, 2024}}</ref>
 ! scope="col" style="width:45px;"| [[Country Airplay|US Country Airplay]]<br /><ref>Peaks on the Country Airplay chart:
 * "Tennessee Orange": {{cite web | url=https://bulletins.billboard.com/country/country_update_2023_0616.pdf | title=Billboard Country Update | magazine=Billboard | date=June 16, 2023 | access-date=June 17, 2023}}
 * "I'm Not Pretty": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0705.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=July 5, 2024|access-date=July 6, 2024}}
 * "Can't Break Up Now": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0426.pdf|title=Billboard Country Update|magazine=Billboard|date=April 26, 2024|access-date=April 27, 2024}}
-* "Am I Okay?": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0927.pdf|title=Billboard Country Update|magazine=Billboard|date=September 27, 2024|access-date=September 28, 2024}}</ref>
+* "Am I Okay?": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1018.pdf|title=Billboard Country Update|magazine=Billboard|date=October 18, 2024|access-date=October 19, 2024}}</ref>
 ! scope="col" style="width:45px;"| [[Canadian Hot 100|CAN]]<br /><ref>Peaks on the Canadian Hot 100:
 * "Tennessee Orange": {{cite magazine | url=https://www.billboard.com/charts/canadian-hot-100/2023-07-01/ | title=Billboard Canadian Hot 100: Week of July 1, 2023 | magazine=Billboard | access-date=June 27, 2023}}
-* "Am I Okay?": {{cite magazine|url=https://www.billboard.com/charts/canadian-hot-100/2024-10-12/|title=''Billboard'' Canadian Hot 100: Week of October 12, 2024|magazine=Billboard|access-date=October 8, 2024}}</ref>
+* "Am I Okay?": {{cite magazine|url=https://www.billboard.com/charts/canadian-hot-100/2024-10-19/|title=''Billboard'' Canadian Hot 100: Week of October 19, 2024|magazine=Billboard|access-date=October 15, 2024}}</ref>
 ! scope="col" style="width:45px;"| [[Canada Country|CAN<br />Country]]<br /><ref>Peaks on the Canada Country chart:
 * "Tennessee Orange": {{cite web | url=https://www.billboard.com/charts/canada-country/2023-06-24/ | title=Canada Country: Week of June 24, 2023 | magazine=[[Billboard (magazine)|Billboard]] | access-date=June 22, 2023}}
 * "I'm Not Pretty": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-05-18/|title=Canada Country: Week of May 18, 2024|magazine=Billboard|access-date=May 14, 2024|url-access=subscription}}
 * "Can't Break Up Now": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-03-23/|title=Canada Country: Week of March 23, 2024|magazine=Billboard|access-date=March 20, 2024|url-access=subscription}}
-* "Am I Okay?": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-09-28/|title=Canada Country: Week of September 28, 2024|magazine=Billboard|access-date=September 24, 2024|url-access=subscription}}</ref>
+* "Am I Okay?": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-26/|title=Canada Country: Week of October 26, 2024|magazine=Billboard|access-date=October 22, 2024|url-access=subscription}}</ref>
 |-
 ! scope="row"| "[[Tennessee Orange]]"
 | 2022
@@ -149,11 +149,11 @@ On May 2, 2024, Moroney announced her second album ''[[Am I Okay?]]'' It was rel
 |-
 ! scope="row"| "[[Am I Okay? (song)|Am I Okay?]]"
 | 2024
-| 71
-| 20
-| 39
-| 100
-| 38
+| 63
+| 19
+| 34
+| 91
+| 36
 |
 | ''Am I Okay?''
 |}
@@ -208,20 +208,27 @@ On May 2, 2024, Moroney announced her second album ''[[Am I Okay?]]'' It was rel
 |+ List of other charted songs, with selected chart positions
 ! scope="col" rowspan="2"| Title
 ! scope="col" rowspan="2"| Year
-!Peak chart positions
+! scope="col" colspan="2"| Peak chart positions
 ! scope="col" rowspan="2"| Album
 |-
-! scope="col" style="width:3em;font-size:85%"| [[Hot Country Songs|US<br />Country]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0722.pdf|title=Billboard Country Update|magazine=Billboard|date=July 22, 2024|access-date=July 24, 2024}}</ref>
+! scope="col" style="width:3em;font-size:85%"| [[Bubbling Under Hot 100|US<br />Bubbling]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/bubbling-under-hot-100-singles/2024-10-19/|title=Bubbling Under Hot 100: Week of October 19, 2024|magazine=Billboard|access-date=October 15, 2024}}</ref>
+! scope="col" style="width:3em;font-size:85%"| [[Hot Country Songs|US<br />Country]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0722.pdf|title=Billboard Country Update|magazine=Billboard|date=July 22, 2024|access-date=July 24, 2024}}
+* "Break It Right Back": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1014.pdf|title=Billboard Country Update|magazine=Billboard|date=October 14, 2024|access-date=October 15, 2024}}</ref>
 |-
 ! scope="row" | "Mama I Lied"
-| rowspan="4" |2024|| 48
-|''Am I Okay?''
+| rowspan="2" | 2024
+| — || 48
+| rowspan="2" | ''Am I Okay?''
+|-
+! scope="row" | "Break It Right Back"
+| 10 || 33
 |}
 
 ==Concert tours==
 *Pistol Made of Roses Tour (2023)<ref>{{cite web|url= https://www.whiskeyriff.com/2022/11/16/megan-moroney-announces-first-headlining-pistol-made-of-roses-2023-tour/|title= Megan Moroney Announces First Headlining 'Pistol Made Of Roses' 2023 Tour|publisher=Whiskey Riff|accessdate=October 1, 2023}}</ref>
 *The Lucky Tour (2023)<ref>{{cite web|url= https://www.billboard.com/music/country/megan-moroney-the-lucky-tour-dates-1235289578/amp/|title=Megan Moroney Reveals 2023 Dates for The Lucky Tour|publisher=[[Billboard (magazine)|Billboard]]| accessdate=October 1, 2023}}</ref>
 *The Lucky Tour 2.0 (2024)<ref>{{Cite web |title=Megan Moroney's New Album 2024: Everything We Know So Far {{!}} Holler |url=https://holler.country/news/general/megan-moroneys-new-album-2024-everything-we-know-so-far |access-date=2024-03-16 |website=holler.country |language=en}}</ref>
+*Am I Okay? Tour (2025)<ref>{{cite web|url= https://www.billboard.com/culture/product-recommendations/megan-moroney-am-i-okay-tour-buy-tickets-online-1235777542/|title= Megan Moroney’s Am I Okay? Tour: How to Buy Your Tickets Online|publisher=[[Billboard (magazine)|Billboard]]|accessdate=October 23, 2024}}</ref>
 
 ==Awards and nominations==
 === CMT Music Awards ===

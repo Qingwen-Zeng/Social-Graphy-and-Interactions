@@ -100,7 +100,7 @@ On December 15, 2023, Johnson gave the [[commencement speech]] to the 2023 Fall 
 | 6
 | 28
 | style="text-align:left;"|
-* [[RIAA certification|US]]: Platinum{{Certification Cite Ref|region=United States|type=album|title=That Lonesome Song|artist=Jamey Johnson}}
+* [[RIAA certification|US]]: 2× Platinum{{Certification Cite Ref|region=United States|type=album|title=That Lonesome Song|artist=Jamey Johnson}}
 |-
 ! scope="row"| ''[[The Guitar Song]]''
 |
@@ -173,7 +173,7 @@ On December 15, 2023, Johnson gave the [[commencement speech]] to the 2023 Fall 
 |
 *US: 1,340,000<ref>{{cite news|url = http://roughstock.com/news/2016/02/39808-the-top-30-digital-country-singles-february-16-2016|title = The Top 30 Digital Country Singles: February 16, 2016|first = Matt|last = Bjorke|date = February 16, 2016|work = Roughstock|access-date = March 4, 2016|archive-url = https://web.archive.org/web/20160225052631/http://roughstock.com/news/2016/02/39808-the-top-30-digital-country-singles-february-16-2016|archive-date = February 25, 2016|url-status = live}}</ref>
 | align=left|
-* [[Recording Industry Association of America|US]]: Gold{{Certification Cite Ref|region=United States|type=single|title=In Color|artist=Jamey Johnson}}
+* [[Recording Industry Association of America|US]]: 5× Platinum{{Certification Cite Ref|region=United States|type=single|title=In Color|artist=Jamey Johnson}}
 | style="text-align:left;" rowspan="2"| ''That Lonesome Song''
 |-
 | rowspan="2"| 2009
@@ -182,6 +182,7 @@ On December 15, 2023, Johnson gave the [[commencement speech]] to the 2023 Fall 
 | —
 |
 |
+* US: Platinum{{Certification Cite Ref|region=United States|type=single|title=High Cost of Living|artist=Jamey Johnson}}
 |-
 ! scope="row"| "My Way to You"
 | 52
@@ -229,6 +230,27 @@ On December 15, 2023, Johnson gave the [[commencement speech]] to the 2023 Fall 
 | colspan="7" style="font-size:8pt"| "—" denotes releases that did not chart
 |}
 *<sup>A</sup>"The Dollar" did not enter the ''Billboard'' Hot 100, but peaked on the [[Bubbling Under Hot 100 Singles]] chart at number one.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=211|year=2008|isbn=978-0-89820-177-2}}</ref>
+
+=== Other certified songs ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="1" | Year
+! rowspan="1" style="width:10em;" | Single
+! rowspan="1" | [[Music recording sales certification|Certifications]]<br /><small>([[List of best selling music artists|sales threshold]])</small>
+! rowspan="1" | Album
+|- style="font-size:smaller;"
+
+|-
+| rowspan="2" | 2008
+! scope="row" | "That Lonesome Song"
+|
+* US: Gold{{Certification Cite Ref|region=United States|type=single|title=That Lonesome Song|artist=Jamey Johnson}}
+| rowspan="2" style="text-align:left;" | ''That Lonesome Song''
+|-
+! scope="row" | "Between Jennings and Jones"
+|
+* US: Gold{{Certification Cite Ref|region=United States|type=single|title=Between Jennings and Jones|artist=Jamey Johnson}}
+|}
 
 === Music videos ===
 {| class="wikitable"

@@ -1,3 +1,4 @@
+{{pp|small=yes}}
 {{Short description|British and Australian singer and actress (1948–2022)}}
 {{Use Australian English|date=August 2022}}
 {{Use dmy dates|date=May 2024}}
@@ -116,7 +117,7 @@ Newton-John's singles continued to top the AC chart, where she amassed ten No. 1
 * "[[Come on Over (1976 song)|Come on Over]]" (1976) – 1 week
 * "[[Don't Stop Believin' (Olivia Newton-John song)|Don't Stop Believin']]" (1976) – 1 week
 
-She provided a prominent, but uncredited, vocal on [[John Denver]]'s "[[Fly Away (John Denver song)|Fly Away]]" single, which was succeeded by her own single, "[[Let It Shine (Linda Hargrove song)|Let It Shine]]"/"[[He Ain't Heavy, He's My Brother]]", at No. 1 on the AC chart. ("[[Fly Away (John Denver song)|Fly Away]]" returned to No. 1 after the two-week reign of "[[Let It Shine (Linda Hargrove song)|Let It Shine]]".) In December, 1975, she appeared on the ABC special, “John Denver - A Rocky Mountain Christmas” where she performed the duet of “[[Fly Away]]” with John, as well as “[[Let It Shine]]. “ Newton-John also continued to reach the Country top 10 where she tallied seven top 10 singles through 1976's "[[Come on Over (1976 song)|Come on Over]]" (No. 23 Pop, No. 5 Country,<ref name="ReferenceB" /> No. 1 AC) (from the same-titled [[Come On Over (Olivia Newton-John album)|album)]] and six consecutive (of a career nine total) top 10 albums through 1976's ''[[Don't Stop Believin' (Olivia Newton-John album)|Don't Stop Believin'<nowiki/>]]'' (No. 30 Pop, No. 7 Country).<ref name="ReferenceB" /> She headlined her first US television special, ''A Special Olivia Newton-John'', in November 1976.<ref name="google1"/>
+She provided a prominent, but uncredited, vocal on [[John Denver]]'s "[[Fly Away (John Denver song)|Fly Away]]" single, which was succeeded by her own single, "[[Let It Shine (Linda Hargrove song)|Let It Shine]]"/"[[He Ain't Heavy, He's My Brother]]", at No. 1 on the AC chart. ("[[Fly Away (John Denver song)|Fly Away]]" returned to No. 1 after the two-week reign of "[[Let It Shine (Linda Hargrove song)|Let It Shine]]".) In December, 1975, she appeared on the ABC special ''John Denver - A Rocky Mountain Christmas'', where she performed the duet of “[[Fly Away]]” with John, as well as “[[Let It Shine (Linda Hargrove song)|Let It Shine]]". Newton-John also continued to reach the Country top 10 where she tallied seven top 10 singles through 1976's "[[Come on Over (1976 song)|Come on Over]]" (No. 23 Pop, No. 5 Country,<ref name="ReferenceB" /> No. 1 AC) (from the same-titled [[Come On Over (Olivia Newton-John album)|album)]] and six consecutive (of a career nine total) top 10 albums through 1976's ''[[Don't Stop Believin' (Olivia Newton-John album)|Don't Stop Believin'<nowiki/>]]'' (No. 30 Pop, No. 7 Country).<ref name="ReferenceB" /> She headlined her first US television special, ''A Special Olivia Newton-John'', in November 1976.<ref name="google1"/>
 
 In 1977, the single "[[Sam (Olivia Newton-John song)|Sam]]", a mid-tempo [[waltz]] from ''Don't Stop Believin''', returned her to the No. 1 spot on the AC (No. 40 Country) and also reached No. 20 Pop, her highest chart placement since "Something Better to Do". By mid-1977, Newton-John's pop, AC, and country success all suffered a slight blow. Her ''[[Making a Good Thing Better]]'' album (No. 34 Pop, No. 13 Country) was not certified gold, and its only single, the title track (No. 87 Pop, No. 20 AC), did not reach the AC top 10 or the Country chart. Later that year, ''[[Olivia Newton-John's Greatest Hits]]'' (No. 13 Pop, No. 7 Country) became her first [[platinum album]].<ref>{{cite web |title='Our Livvy' remembered: The beautiful life of Olivia Newton-John |url=https://7news.com.au/entertainment/celebrity/australian-singing-legend-and-grease-star-olivia-newton-john-dies-aged-73--c-7713317 |website=7NEWS |access-date=11 August 2022 |language=en |date=8 August 2022}}</ref>
 
@@ -419,11 +420,11 @@ The [[State of Victoria]] offered Newton-John's family a state funeral, which he
 |-
 | 1965, 1966 || ''[[Time for Terry]]'' || TV series, Australia
 |-
-| 1966 || ''[[Dick Emery Show]]'' || TV series UK, 2 episodes
+| 1966 || ''Dick Emery Show'' || TV series UK, 2 episodes
 |-
 | rowspan="4" | 1967 || ''It's That Time'' || TV series Australia, 1 episode
 |-
-| ''Pat And Olivia'' || Herself & Pat Carroll || TV special, Australia
+| ''Pat and Olivia'' || Herself & Pat Carroll || TV special, Australia
 |-
 | ''News Conference'' || rowspan="2" | Herself || TV series Australia, 1 episode
 |-
@@ -433,17 +434,17 @@ The [[State of Victoria]] offered Newton-John's family a state funeral, which he
 |-
 | 1969 || ''ABC News Report'' || Herself & Pat Carroll || TV series Australia, 1 episode
 |-
-| 1970 || ''[[The Cliff Richard Show]]'' || Herself || TV series UK, 1 episode
+| 1970 || ''The Cliff Richard Show'' || Herself || TV series UK, 1 episode
 |-
-| rowspan="8" | 1971 || ''[[Grand Amphi]]''|| Herself sings "Love Song" || TV series France, 1 episode
+| rowspan="8" | 1971 || ''Grand Amphi''|| Herself sings "Love Song" || TV series France, 1 episode
 |-
 | ''[[The Golden Shot]]''|| rowspan="6" | Herself || rowspan="3" | TV series UK, 1 episode
 |-
-| ''[[Big Lecture Hall]]''
+| ''Big Lecture Hall''
 |-
-| ''[[One Rosu Wine]]''
+| ''One Rosu Wine''
 |-
-| ''[[Getaway With Cliff]]''|| TV special UK
+| ''Getaway with Cliff''|| TV special UK
 |-
 | ''[[Lift Off with Ayshea]]''|| TV series UK, 1 episode
 |-
@@ -461,7 +462,7 @@ The [[State of Victoria]] offered Newton-John's family a state funeral, which he
 |-
 |''The Case''|| rowspan="4" | Herself|| [[BBC]] TV film with Cliff Richard & Tim Brooke-Taylor<ref>{{cite web|url=https://www2.bfi.org.uk/films-tv-people/4ce2b6fd23efe|archive-url=https://web.archive.org/web/20211127022712/https://www2.bfi.org.uk/films-tv-people/4ce2b6fd23efe|url-status=dead|archive-date=27 November 2021|title=The Case (1972)|website=BFI}}</ref><ref>{{cite web|url=https://onlyolivia.com/visual/tv/70/72/72case/index.html|title=The Case|website=onlyolivia.com}}</ref><ref>{{cite web|url=https://www.memorabletv.com/tv/case-the-bbc-1-1972-cliff-richard-olivia-newton-john/|title=Case, The (BBC-1 1972, Cliff Richard, Olivia Newton-John)|date=21 December 2018}}</ref>
 |-
-| ''[[Sacha's In Town]]'' || TV series UK, 2 episodes
+| ''Sacha's in Town'' || TV series UK, 2 episodes
 |-
 | ''Meerschweinchen Revue'' || TV series Germany, 1 episode
 |-
@@ -469,9 +470,9 @@ The [[State of Victoria]] offered Newton-John's family a state funeral, which he
 |-
 | ''[[The Dean Martin Show]]'' || Herself sings "If" / "Just A Little Lovin'/ "True Love" with Dean Martin || TV series US, 1 episode
 |-
-| ''[[The Harry Secombe Show]]'' || Herself sings "Take Me Home, Country Roads || TV series US, 1 episode
+| ''The Harry Secombe Show'' || Herself sings "Take Me Home, Country Roads || TV series US, 1 episode
 |-
-| ''[[The Reg Varney Christmas Revue]]'' || Herself sings "Take Me Home, Country Roads" / Cecilia/Side By Side/Carolina in The Morning/You Made Me Love You (in chorus) || TV special, UK
+| ''The Reg Varney Christmas Revue'' || Herself sings "Take Me Home, Country Roads" / Cecilia/Side By Side/Carolina in The Morning/You Made Me Love You (in chorus) || TV special, UK
 |-
 | rowspan="11" | 1973 || ''[[Top of the Pops]]'' || Herself sings "Take Me Home, Country Roads" || rowspan="2" | TV series UK, 1 episode
 |-
@@ -493,13 +494,13 @@ The [[State of Victoria]] offered Newton-John's family a state funeral, which he
 |-
 | ''[[Sez Les]]'' || Herself sings "Yesterday Once More" / "Let Me Be There" 
 |-
-| ''[[The New-Fangled Wandering Minstrel Show]]'' || Herself sings "If We Only Have Love" / "All I Ever Need Is You" / "Will You Still Love Me Tomorrow" (with Georgie Fame) / "Scarborough Fair" / "I Say Yeh Yeh" (with Georgie Fame) || rowspan="2" | TV special, UK
+| ''The New-Fangled Wandering Minstrel Show'' || Herself sings "If We Only Have Love" / "All I Ever Need Is You" / "Will You Still Love Me Tomorrow" (with Georgie Fame) / "Scarborough Fair" / "I Say Yeh Yeh" (with Georgie Fame) || rowspan="2" | TV special, UK
 |-
 | 1973–1974 || ''Moods Of Love'' || Herself sings 
 |-
 | rowspan="3" | 1974 || ''Eddy Go Round'' || Herself sings "Long Live Love" / "I Love You, I Honestly Love You", "If You Love Me, Let Me Know" || TV series Netherlands, 1 episode
 |-
-| ''[[Clunk Click: Songs for Eurovision]]'' || Herself sings "Have Love Will Travel" / "Loving You Ain't Easy" / "Long Live Love" / "Someday" / "Angel Eyes" / "Hands Across The Sea" || TV special, UK
+| ''Clunk Click: Songs for Eurovision'' || Herself sings "Have Love Will Travel" / "Loving You Ain't Easy" / "Long Live Love" / "Someday" / "Angel Eyes" / "Hands Across The Sea" || TV special, UK
 |-
 |''[[Eurovision Song Contest]]''||Herself sings "Long Live Love" ||United Kingdom Entry: 4th Place<ref>{{cite web|url=https://www.youtube.com/watch?v=1eOMLWh0YIE|title=Olivia Newton-John – Long Live Love – United Kingdom 🇬🇧 – Grand Final – Eurovision 1974|date=9 August 2022 |via=www.youtube.com}}</ref><ref>{{cite web|url=https://eurovision.tv/story/abba-share-tributes-friend-olivia-newton-john|title=ABBA share tributes to friend Olivia Newton-John|date=9 August 2022|website=eurovision.tv}}</ref>
 |-
@@ -527,7 +528,7 @@ The [[State of Victoria]] offered Newton-John's family a state funeral, which he
 |-
 | rowspan="7" | 1980 || ''Making Xanadu''|| Herself & cast || TV special, UNITED STATES
 |-
-| ''Willesee At Seven''|| Herself chats about performer's union strike prior to 'Xanadu' Australian film release || rowspan="4" | TV series, 1 episode, AUSTRALIA
+| ''Willesee at Seven''|| Herself chats about performer's union strike prior to 'Xanadu' Australian film release || rowspan="4" | TV series, 1 episode, AUSTRALIA
 |-
 | ''[[Seven Nightly News]]''|| Herself on performer's union strike 
 |-
@@ -668,15 +669,15 @@ The [[State of Victoria]] offered Newton-John's family a state funeral, which he
 |-
 | ''[[The Rosie O'Donnell Show]]'' || Herself – Guest with Kelly Preston 
 |-
-| ''[[Fox News In The Morning]]'' || Herself – Guest with Kelly Preston & Nancy Chuda 
+| ''Fox News in the Morning'' || Herself – Guest with Kelly Preston & Nancy Chuda 
 |-
-| ''[[Sue McIntosh Presents: Olivia Newton-John]]'' || Herself – Guest || TV series Australia, 1 episode
+| ''Sue McIntosh Presents: Olivia Newton-John'' || Herself – Guest || TV series Australia, 1 episode
 |-
 | ''Top Ten'' || rowspan="3" | Herself || TV series UK, 1 episode
 |-
 | ''[[Behind The Music]]'' || TV series US, 1 episode
 |-
-| ''[[Not Under My Roof]]'' || Video, US
+| ''Not Under My Roof'' || Video, US
 |-
 | rowspan="17" | 2002 || ''[[Rove Live]]'' || Herself – Guest || rowspan="4" | TV series Australia, 1 episode
 |-
@@ -686,19 +687,19 @@ The [[State of Victoria]] offered Newton-John's family a state funeral, which he
 |-
 | ''[[Burke's Backyard]]'' || Herself – Celebrity Gardener 
 |-
-| ''[[VH-1 Behind The Movie: Grease]]'' || rowspan="3" | Herself || TV series US, 1 episode
+| ''VH-1 Behind The Movie: Grease'' || rowspan="3" | Herself || TV series US, 1 episode
 |-
-| ''[[Vh-1 Where Are They Now?]]'' || TV series US, 1 episode
+| ''Vh-1 Where Are They Now?'' || TV series US, 1 episode
 |-
-| ''[[This Is Your Life: Helen Reddy]]'' || TV series Australia, 1 episode
+| ''This Is Your Life: Helen Reddy'' || TV series Australia, 1 episode
 |-
-| ''[[The 16th Annual ARIA Awards]]'' || Herself — Aria Hall Of Fame Inductee || rowspan="4" | TV special, Australia
+| ''The 16th Annual ARIA Awards'' || Herself — Aria Hall Of Fame Inductee || rowspan="4" | TV special, Australia
 |-
-| ''[[Australians Unite: Bali Appeal]]'' || Herself 
+| ''Australians Unite: Bali Appeal'' || Herself 
 |-
 | ''[[An Audience With John Farnham]]'' || Herself & Sue McIntosh – Audience members 
 |-
-| ''[[Farmhand Concert For Drought Relief]]'' || Herself sings "I Honestly Love You" 
+| ''Farmhand Concert for Drought Relief'' || Herself sings "I Honestly Love You" 
 |-
 | ''[[Mornings]]'' || Herself – Guest || TV series Australia, 1 episode
 |-
@@ -706,11 +707,11 @@ The [[State of Victoria]] offered Newton-John's family a state funeral, which he
 |-
 | ''[[Rove Live]]'' || Herself – Guest || TV series Australia, 1 episode
 |-
-| ''[[After They Were Famous: Grease]]'' || Herself || TV series UK, 1 episode
+| ''After They Were Famous: Grease'' || Herself || TV series UK, 1 episode
 |-
-| ''[[The Making Of "2]]"'' || Herself || TV special, Australia
+| ''The Making Of "2"'' || Herself || TV special, Australia
 |-
-| ''[[One World with Olivia Newton-John]]'' || Herself – Host || TV series US, 3 episodes
+| ''One World with Olivia Newton-John'' || Herself – Host || TV series US, 3 episodes
 |-
 | rowspan="3" | 2003 ||''Live in Japan 2003'' || Herself ||[[TV Tokyo|BS-Hi]] special<ref>{{cite web|url=https://www.onlyolivia.com/visual/tv/00/03/japanlive/index.html|title=Live in Tokyo, Japan 2003|website=www.onlyolivia.com}}</ref>
 |-

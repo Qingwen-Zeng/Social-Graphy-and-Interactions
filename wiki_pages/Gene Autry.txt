@@ -2,22 +2,22 @@
 {{other uses}}
 {{redirect|The Singing Cowboy|the 1936 film|The Singing Cowboy (film){{!}}''The Singing Cowboy'' (film)}}
 {{Use American English|date=January 2023}}
-{{Use mdy dates|date=January 2023}}
+{{Use mdy dates|date=October 2024}}
 {{Infobox person
 | image         = Gene Autry.JPG
-| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| alt           = Black and white pic of Gene Autry, smiling and dressed in fancy Mexican garb and a bandoleer
 | caption       = Autry in the 1940s
 | birth_name    = Orvon Grover Autry
-| birth_date    = {{birth date|1907|9|29}}
+| birth_date    = {{birth date|1907|09|29}}
 | birth_place   = [[Tioga, Texas]], U.S.
-| death_date    = {{death date and age|1998|10|2|1907|9|29}}
+| death_date    = {{death date and age|1998|10|02|1907|09|29}}
 | death_place   = [[Studio City, California]], U.S.
 | burial_place  = [[Forest Lawn Memorial Park, Hollywood Hills]], California
 | other_names   = {{hlist|The Singing Cowboy|Gene Michaels}}
 | occupation    = {{hlist|Actor|musician|singer|composer|rodeo performer|baseball owner}}
 | years_active  = 1925–1964
 | spouse        = {{ubl|{{Marriage|Ina Mae Spivey|1932|1980|end=died}}|{{Marriage|[[Jacqueline Ellam]]|1981}}}}
-| relatives     = [[Randy Quaid]] (first cousin twice removed)<br>[[Dennis Quaid]] (first cousin twice removed){{sfn|George-Warren|2007|p=[https://archive.org/details/isbn_9780195177466/page/304 304]}}
+| relatives     = [[Randy Quaid]] (first cousin twice removed)<br />[[Dennis Quaid]] (first cousin twice removed){{sfn|George-Warren|2007|p=[https://archive.org/details/isbn_9780195177466/page/304 304]}}
 | website       = {{URL|geneautry.com}}
 | module        = {{Infobox musical artist|embed=yes
 | genre         = {{hlist|[[Country music|Country]]|[[Western music (North America)|western]]}}
@@ -25,11 +25,11 @@
 | label         = {{hlist|[[Columbia Records|Columbia]]|[[Okeh]]|[[Perfect Records|Perfect]]|[[Conqueror Records|Conqueror]]|[[Victor Records|Victor]]}}
 }}
 }}
-'''Orvon Grover''' "'''Gene'''" '''Autry'''<ref>{{harvnb|George-Warren|2007|p=13}}</ref> (September 29, 1907&nbsp;– October 2, 1998),<ref>{{cite news |title='Singing Cowboy' Gene Autry dead at 91 |url=http://edition.cnn.com/SHOWBIZ/Music/9810/02/autry.obit/ |access-date=4 July 2019 |publisher=[[CNN]] |date=October 2, 1998}}</ref> nicknamed '''the Singing Cowboy''', was an American actor, musician, singer, composer, rodeo performer, and baseball team owner, who largely gained fame by singing in a [[crooning]] style on [[Radio in the United States|radio]], in [[Cinema of the United States|films]], and on [[Television in the United States|television]] for more than three decades, beginning in the early 1930s. During that time, he personified the straight-shooting hero — honest, brave, and true.<ref name="cusic">{{harvnb|Cusic|2010|page=1}}</ref>
+'''Orvon Grover''' "'''Gene'''" '''Autry'''<ref>{{harvnb|George-Warren|2007|p=13}}</ref> (September 29, 1907&nbsp;– October 2, 1998),<ref>{{cite news |title='Singing Cowboy' Gene Autry dead at 91 |url=http://edition.cnn.com/SHOWBIZ/Music/9810/02/autry.obit/ |access-date=July 4, 2019 |publisher=[[CNN]] |date=October 2, 1998}}</ref> nicknamed '''the Singing Cowboy''', was an American actor, musician, singer, composer, rodeo performer, and baseball team owner, who largely gained fame by singing in a [[Crooner|crooning]] style on [[Radio in the United States|radio]], in [[Cinema of the United States|films]], and on [[Television in the United States|television]] for more than three decades, beginning in the early 1930s. During that time, he personified the straight-shooting hero&nbsp;— honest, brave, and true.<ref name="cusic">{{harvnb|Cusic|2010|page=1}}</ref>
 
 Autry was the owner of a television station and several radio stations in Southern California. From 1961 to 1997, he was the founding owner of the [[California Angels]]{{#tag:ref|The franchise was originally known as the Los Angeles Angels from its founding in 1961 until its move to [[Anaheim, California]], in 1966 when it adopted the California moniker. The franchise has adopted several different monikers since Autry's ownership, including Anaheim Angels, Los Angeles Angels of Anaheim, and a return to Los Angeles Angels.|group=Note}} franchise of [[Major League Baseball]] (MLB).
 
-From 1934 to 1953, Autry appeared in 93 motion pictures. Between 1950 and 1956, he hosted ''[[The Gene Autry Show]]'' television series. In many of them, he appeared with his [[Morgan horse|Morgan]] named [[Champion the Wonder Horse|Champion]].
+From 1934 to 1953, Autry appeared in 93 motion pictures. Between 1950 and 1956, he hosted ''[[The Gene Autry Show]]'' television series. In many of them, he appeared with [[Champion the Wonder Horse|Champion]], his [[Morgan horse]].
 
 Autry was also one of the most important pioneering figures in the history of [[country music]], considered the second major influential artist of the genre's development after [[Jimmie Rodgers]].<ref name="cusic" /> His films were the first media vehicle to carry Western music to a nationwide audience.<ref name="cusic" />
 
@@ -40,13 +40,12 @@ Autry is a member of both the [[Country Music Hall of Fame]] and the [[Nashville
 The town of [[Gene Autry, Oklahoma]] was named in his honor, as was the Gene Autry precinct in [[Mesa, Arizona]].<ref>{{cite news | url=https://news.google.com/newspapers?nid=1499&dat=19701015&id=XzIaAAAAIBAJ&pg=7216,2930074 | title=From Sleepy Eye to Chicken Bristle, USA | work=[[The Milwaukee Journal]] | date=October 15, 1970 | access-date=April 22, 2015 | author=Scriba, Jay }}{{Dead link|date=September 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
 
 == Life and career ==
-
 === Early years ===
-Autry was born September 29, 1907, near [[Tioga, Texas|Tioga]] in [[Grayson County, Texas]],<ref>{{Cite web|title=Gene Autry|url=https://old.texasarchive.org/library/index.php?title=Category:Gene_Autry|access-date=2021-09-17|website=Texas Archive of the Moving Image}}{{Dead link|date=March 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> the grandson of a [[Methodism|Methodist]] preacher. His parents, Delbert Autry and Elnora Ozment, moved in the 1920s to [[Ravia, Oklahoma|Ravia]] in [[Johnston County, Oklahoma|Johnston County]] in southern Oklahoma. Gene Autry worked on his father's ranch while growing up and going to school. In 1925, Autry left the family ranch. With only his high school education, Autry became a [[telegrapher]]<ref>{{Cite web|title=Nashville Songwriters Hall of Fame|url=http://nashvillesongwritersfoundation.com/Site/inductee?entry_id=1157|access-date=2021-09-17|website=nashvillesongwritersfoundation.com}}</ref> for the [[St. Louis–San Francisco Railway]]. His talent at singing and playing guitar led to performing at local dances.
+Autry was born September 29, 1907, near [[Tioga, Texas|Tioga]] in [[Grayson County, Texas]],<ref>{{Cite web|title=Gene Autry|url=https://old.texasarchive.org/library/index.php?title=Category:Gene_Autry|access-date=September 17, 2021|website=Texas Archive of the Moving Image}}{{Dead link|date=March 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> the grandson of a [[Methodism|Methodist]] preacher. His parents, Delbert Autry and Elnora Ozment, moved in the 1920s to [[Ravia, Oklahoma|Ravia]] in [[Johnston County, Oklahoma|Johnston County]] in southern Oklahoma. Gene Autry worked on his father's ranch while growing up and going to school. In 1925, Autry left the family ranch. With only his high school education, Autry became a [[telegrapher]]<ref name=HoF /> for the [[St. Louis–San Francisco Railway]]. His talent at singing and playing guitar led to performing at local dances.
 
 === Singing career ===
 [[File:Vlcsnap-2011-01-24-17h29m05s104.png|thumb|Gene Autry with [[Smiley Burnette]], 1934]]
-While working as a [[telegraphist|telegraph operator]] in [[Chelsea, Oklahoma]], Autry would sing and accompany himself on the guitar to pass the lonely hours, especially when he had the midnight shift. This later got him fired. One night, he was encouraged to sing professionally by a customer, humorist [[Will Rogers]], who had heard him singing.<ref name="delong">{{cite book|last=DeLong |first=Thomas A. |title=The Mighty Music Box: The Golden Age of Musical Radio |publisher=Amber Crest Books |location=Los Angeles |year=1980 |isbn=978-0-86533-000-9}}</ref><ref name="smith">{{cite news|last=Smith |first=Ardis |title=Autry, First Cowboy of Land, Makes $300,000 Annually |newspaper=Buffalo New York News |date=November 13, 1940 }}</ref><ref name="encyclopedia-ok">{{cite web |last=Dabney |first=Eric |title=Orvon Gene Autry (1907–1998) |publisher=Encyclopedia of Oklahoma History & Culture |url=http://digital.library.okstate.edu/encyclopedia/entries/A/AU004.html |access-date=May 27, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121103055642/http://digital.library.okstate.edu/encyclopedia/entries/A/AU004.html |archive-date=November 3, 2012 |df=mdy }}</ref>
+While working as a [[telegraphist|telegraph operator]] in [[Chelsea, Oklahoma]], Autry would sing and accompany himself on the guitar to pass the lonely hours, especially when he had the midnight shift. This later got him fired. One night, he was encouraged to sing professionally by a customer, humorist [[Will Rogers]], who had heard him singing.<ref name="delong">{{cite book|last=DeLong |first=Thomas A. |title=The Mighty Music Box: The Golden Age of Musical Radio |publisher=Amber Crest Books |location=Los Angeles |year=1980 |isbn=978-0-86533-000-9}}</ref><ref name="smith">{{cite news|last=Smith |first=Ardis |title=Autry, First Cowboy of Land, Makes $300,000 Annually |newspaper=Buffalo New York News |date=November 13, 1940 }}</ref><ref name="encyclopedia-ok">{{cite web |last=Dabney |first=Eric |title=Orvon Gene Autry (1907–1998) |publisher=Encyclopedia of Oklahoma History & Culture |url=http://digital.library.okstate.edu/encyclopedia/entries/A/AU004.html |access-date=May 27, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121103055642/http://digital.library.okstate.edu/encyclopedia/entries/A/AU004.html |archive-date=November 3, 2012  }}</ref>
 
 As soon as he could save money to travel, he went to New York. In the autumn of 1928, he auditioned for the [[Victor Talking Machine Company]], shortly before purchase by [[David Sarnoff]]'s [[RCA|Radio Corporation of America]] (RCA). According to [[Nathaniel Shilkret]],<ref>Shilkret, Nathaniel, ed. Niel Shell and Barbara Shilkret, ''Nathaniel Shilkret: Sixty Years in the Music Business'', Scarecrow Press, Lanham, Maryland, 2005. {{ISBN|0-8108-5128-8}}.</ref> director of Light Music for Victor at the time, Autry asked to speak to Shilkret after finding that he had been turned down. Shilkret explained to Autry that he was turned down not because of his voice, but because Victor had just made contracts with two similar singers. Autry left with a letter of introduction from Shilkret and the advice to sing on radio to gain experience and to come back in a year or two. In 1928, Autry was singing on [[Tulsa, Oklahoma|Tulsa]] radio station KVOO (now [[KOTV (AM)|KOTV]]) as "Oklahoma's Yodeling Cowboy". The Victor archives<ref>Victor Recording Book, p.&nbsp;7247. (This is a page from Victor's daily log of recordings.)</ref> show an October 9, 1929, entry stating that the vocal duet of Jimmie Long and Gene Autry with two [[steel guitar|Hawaiian guitar]]s, directed by L. L. Watson, recorded "My Dreaming of You" (Matrix 56761) and "My Alabama Home" (Matrix 56762).
 
@@ -79,7 +78,7 @@ Autry purchased the 110-acre [[Movie ranch#Monogram Ranch/Melody Ranch|Monogram 
 
 According to a published story by Autry, the fire caused him to turn his attention to [[Griffith Park]], where he would build his Museum of Western Heritage (now known as the [[Autry Museum of the American West]]).
 
-In 1990, after his favorite horse Champion Three, which lived in retirement there, died, Autry put the remaining 12-acre ranch up for sale. It was purchased by the [[General Lee (car)#The Veluzat era|Veluzat family]] in 1991 and rebuilt. It is now known as the Melody Ranch Motion Picture Studio and Melody Ranch Studios on 22 acres.<ref>{{cite web|url=http://www.melodyranchstudio.com/|website=Melodyranchstudio.com|title=Melody Ranch Motion Picture Studio|access-date=May 15, 2010}}</ref> The ranch has the Melody Ranch Museum open year-round; and one weekend a year, the entire ranch is open to the public during the [[Santa Clarita Cowboy Festival|Cowboy Poetry and Music Festival]], another legacy of Autry's multiple talents.<ref>{{cite web|url=http://www.melodyranchstudio.com/museum.html|website=Melodyranchstudio.com|title=Museum|access-date=May 15, 2010}}</ref><ref>{{cite web |url=http://www.cowboyfestival.org/ |title=Archived copy |website=www.cowboyfestival.org |access-date=17 January 2022 |archive-url=https://web.archive.org/web/20041204211240/http://www.cowboyfestival.org/ |archive-date=4 December 2004 |url-status=dead}}</ref>
+In 1990, after his favorite horse Champion Three, which lived in retirement there, died, Autry put the remaining 12-acre ranch up for sale. It was purchased by the [[General Lee (car)#The Veluzat era|Veluzat family]] in 1991 and rebuilt. It is now known as the Melody Ranch Motion Picture Studio and Melody Ranch Studios on 22 acres.<ref>{{cite web|url=http://www.melodyranchstudio.com/|website=Melodyranchstudio.com|title=Melody Ranch Motion Picture Studio|access-date=May 15, 2010}}</ref> The ranch has the Melody Ranch Museum open year-round; and one weekend a year, the entire ranch is open to the public during the [[Santa Clarita Cowboy Festival|Cowboy Poetry and Music Festival]], another legacy of Autry's multiple talents.<ref>{{cite web|url=http://www.melodyranchstudio.com/museum.html|website=Melodyranchstudio.com|title=Museum|access-date=May 15, 2010}}</ref><ref>{{cite web |url=http://www.cowboyfestival.org/ |title=Archived copy |website=www.cowboyfestival.org |access-date=January 17, 2022 |archive-url=https://web.archive.org/web/20041204211240/http://www.cowboyfestival.org/ |archive-date=December 4, 2004 |url-status=dead}}</ref>
 
 === Radio and television career ===
 [[File:Gene Autry Pinafores radio show 1948.JPG|right|thumb|Gene Autry with the Pinafores, who sang on his weekly radio show, 1948]]
@@ -101,15 +100,15 @@ Beginning in 1950, he produced and starred in his own television show on [CBS th
 During World War II, Autry enlisted in the [[United States Army]] in 1942, and became a [[technical sergeant|tech sergeant]] in the United States Army Air Corps. Holding a private [[pilot licensing and certification|pilot certificate]], he was determined to become a military pilot and earned his [[Auxiliary Pilot Badge|Service Pilot]] rating in June 1944, serving as a [[Consolidated B-24 Liberator#C-109 version|C-109]] transport pilot with the rank of [[flight officer]]. Assigned to a unit of the [[Air Transport Command (United States Air Force)|Air Transport Command]], he flew as part of the dangerous airlift operation over the [[Himalayas]] between India and China, nicknamed [[the Hump]].<ref>{{Cite web|url=https://www.geneautry.com/geneautry/geneautry_flightofficer.html|title=GeneAutry.com: Gene Autry: Flight Officer Gene Autry|website=Geneautry.com|access-date=June 20, 2020|archive-date=August 1, 2020|archive-url=https://web.archive.org/web/20200801001257/https://www.geneautry.com/geneautry/geneautry_flightofficer.html|url-status=dead}}</ref><ref>{{cite magazine|magazine=AOPA Pilot|date=May 2014|page=79|title=A Plane-Crazy America}}</ref>
 
 === Rodeo ===
-[[File:Gene Autry and Gail Davis Toronto.jpg|right|thumb|Gene Autry and [[Gail Davis]] in Toronto, circa 1956.<ref>[http://www.world-theatres.com/CNE.html "Canadian National Exhibition Grandstand Performers 1948-1994"], See the performers for 1956. Retrieved 25 November 2017</ref>]]
-In 1941, at the height of his screen popularity, Autry had a string of [[rodeo]] stock based north of [[Ardmore, Oklahoma]]. It was known as the Flying A Ranch and encompassed 1200 acres. It served as headquarters for his traveling rodeo. The nearby town of Berwyn, then honored Autry by naming the town after him. Thirty Five thousand people attended the ceremony on November 16, 1941. A year later, he became a partner in the World Championship Rodeo Company, which furnished [[livestock]] for many of the country's major rodeos. In 1954, he acquired Montana's top [[bucking]] string from the estate of Leo J. Cremer Sr., and put Canadian [[bronc riding|saddle bronc riding]] champion Harry Knight in charge of the operation. A merger with the World Championship Rodeo Company in 1956 made Autry the sole owner. He moved the entire company to a {{convert|24000|acre|km2|adj=on}} ranch near [[Fowler, Colorado]], with Knight as the working partner in the operation. For the next 12 years, they provided livestock for most of the major rodeos in Texas, Colorado, Montana, and Nebraska. When the company was sold in 1968, both men continued to be active in rodeo. For his work as a livestock contractor, Autry was inducted into the [[Professional Rodeo Cowboys Association]]'s [[ProRodeo Hall of Fame]] in 1979.<ref name="ProRodeo">{{Cite news|url=https://www.prorodeohalloffame.com/inductees/stock-contractors/gene-autry/|title=Gene Autry – Pro Rodeo Hall of Fame|work=Pro Rodeo Hall of Fame|access-date=22 April 2017}}</ref> Autry received several honors for his contributions to rodeo.
+[[File:Gene Autry and Gail Davis Toronto.jpg|right|thumb|Gene Autry and [[Gail Davis]] in Toronto, circa 1956.<ref>[http://www.world-theatres.com/CNE.html "Canadian National Exhibition Grandstand Performers 1948-1994"], See the performers for 1956. Retrieved November 25, 2017</ref>]]
+In 1941, at the height of his screen popularity, Autry had a string of [[rodeo]] stock based north of [[Ardmore, Oklahoma]]. It was known as the Flying A Ranch and encompassed 1200 acres. It served as headquarters for his traveling rodeo. The nearby town of Berwyn, then honored Autry by naming the town after him. Thirty Five thousand people attended the ceremony on November 16, 1941. A year later, he became a partner in the World Championship Rodeo Company, which furnished [[livestock]] for many of the country's major rodeos. In 1954, he acquired Montana's top [[bucking]] string from the estate of Leo J. Cremer Sr., and put Canadian [[bronc riding|saddle bronc riding]] champion Harry Knight in charge of the operation. A merger with the World Championship Rodeo Company in 1956 made Autry the sole owner. He moved the entire company to a {{convert|24000|acre|km2|adj=on}} ranch near [[Fowler, Colorado]], with Knight as the working partner in the operation. For the next 12 years, they provided livestock for most of the major rodeos in Texas, Colorado, Montana, and Nebraska. When the company was sold in 1968, both men continued to be active in rodeo. For his work as a livestock contractor, Autry was inducted into the [[Professional Rodeo Cowboys Association]]'s [[ProRodeo Hall of Fame]] in 1979.<ref name="ProRodeo">{{Cite news|url=https://www.prorodeohalloffame.com/inductees/stock-contractors/gene-autry/|title=Gene Autry – Pro Rodeo Hall of Fame|work=Pro Rodeo Hall of Fame|access-date=April 22, 2017}}</ref> Autry received several honors for his contributions to rodeo.
 
 ==== Honors ====
-* 1972: [[Hall of Great Western Performers]] of the [[National Cowboy & Western Heritage Museum]]<ref>{{Cite news|url=https://nationalcowboymuseum.org/performers/1593/|title=Great Western Performers|work=National Cowboy & Western Heritage Museum|access-date=17 May 2017}}</ref>
+* 1972: [[Hall of Great Western Performers]] of the [[National Cowboy & Western Heritage Museum]]<ref>{{Cite news|url=https://nationalcowboymuseum.org/performers/1593/|title=Great Western Performers|work=National Cowboy & Western Heritage Museum|access-date=May 17, 2017}}</ref>
 * 1979: [[ProRodeo Hall of Fame]]<ref name="ProRodeo" />
-* 1980: [[Hall of Great Westerners]] of the National Cowboy Hall of Fame and Western Heritage Center<ref>{{Cite news|url=https://nationalcowboymuseum.org/great-westerners/gene-autry/|title=Hall of Great Westerners|work=National Cowboy & Western Heritage Museum|access-date=17 May 2017}}</ref>
-* 1988: [[Texas Trail of Fame]]<ref>{{Cite news|url=http://texastrailoffame.org/inductees/gene-autry/|title=Gene Autry|date=2013-05-25|work=Western Heritage from the [[Texas Trail of Fame]]|access-date=17 May 2017}}</ref>
-* 2013: [[Texas Rodeo Cowboy Hall of Fame]]<ref>{{Cite web|url=https://texasrodeocowboy.com/inductees/?orderby=title&order=ASC|title=Texas Rodeo Cowboy Hall of Fame: Past Inductees|website=Texasrodeocowboy.com|access-date=17 May 2017}}</ref>
+* 1980: [[Hall of Great Westerners]] of the National Cowboy Hall of Fame and Western Heritage Center<ref>{{Cite news|url=https://nationalcowboymuseum.org/great-westerners/gene-autry/|title=Hall of Great Westerners|work=National Cowboy & Western Heritage Museum|access-date=May 17, 2017}}</ref>
+* 1988: [[Texas Trail of Fame]]<ref>{{Cite news|url=http://texastrailoffame.org/inductees/gene-autry/|title=Gene Autry|date=May 25, 2013|work=Western Heritage from the [[Texas Trail of Fame]]|access-date=May 17, 2017}}</ref>
+* 2013: [[Texas Rodeo Cowboy Hall of Fame]]<ref>{{Cite web|url=https://texasrodeocowboy.com/inductees/?orderby=title&order=ASC|title=Texas Rodeo Cowboy Hall of Fame: Past Inductees|website=Texasrodeocowboy.com|access-date=May 17, 2017}}</ref>
 
 === Gene Autry comics ===
 Gene Autry was often portrayed in the comics, primarily during the heyday of [[Western comics|Western-themed comics]], the 1940s and 1950s.
@@ -121,11 +120,11 @@ Meanwhile, Autry was the subject of an "Air-Western-Adventure Strip" comic strip
 The Mexican publisher Editorial Novaro released 423 issues of ''Gene Autry'' comics from 1954 to 1984.
 
 === Toys ===
-In 1937, Kenton Hardware Company of [[Kenton, Ohio]], began producing Gene Autry cast-iron [[cap gun]]s as a part of its line of iron toys. The toy was commissioned by Kenton vice-president Willard Bixler, who had conceptualized an iron cap revolver modeled after the pearl-handled gun used by Gene Autry. Selling at 50 cents per gun, the cap pistols were extremely popular and by 1939, two million units of the toy had been sold in the [[United States]] and abroad. Autry received a portion of all sales revenues.<ref>{{Cite web|title=GeneAutry.com: Kenton, Ohio|url=https://www.geneautry.com/clubhouse/places/kenton_oh.html|access-date=2020-12-31|website=Geneautry.com|archive-date=November 30, 2020|archive-url=https://web.archive.org/web/20201130041529/https://www.geneautry.com/clubhouse/places/kenton_oh.html|url-status=dead}}</ref><ref>{{cite news |last1=Rosen |first1=Steven |title=Autry spurs festival |url=https://www.newspapers.com/image/194127023/ |access-date=6 September 2023 |work=Newspapers.com |publisher=Los Angeles Times |date=30 June 2009 |page=D3 |language=en}}</ref>
+In 1937, Kenton Hardware Company of [[Kenton, Ohio]], began producing Gene Autry cast-iron [[cap gun]]s as a part of its line of iron toys. The toy was commissioned by Kenton vice-president Willard Bixler, who had conceptualized an iron cap revolver modeled after the pearl-handled gun used by Gene Autry. Selling at 50 cents per gun, the cap pistols were extremely popular and by 1939, two million units of the toy had been sold in the [[United States]] and abroad. Autry received a portion of all sales revenues.<ref>{{Cite web|title=GeneAutry.com: Kenton, Ohio|url=https://www.geneautry.com/clubhouse/places/kenton_oh.html|access-date=December 31, 2020|website=Geneautry.com|archive-date=November 30, 2020|archive-url=https://web.archive.org/web/20201130041529/https://www.geneautry.com/clubhouse/places/kenton_oh.html|url-status=dead}}</ref><ref>{{cite news |last1=Rosen |first1=Steven |title=Autry spurs festival |url=https://www.newspapers.com/image/194127023/ |access-date=September 6, 2023 |work=Newspapers.com |publisher=Los Angeles Times |date=June 30, 2009 |page=D3 |language=en}}</ref>
 
 === Baseball ===
 [[File:AngelsRetired26.png|right|thumb|150px|Gene Autry's number 26 was retired by the [[California Angels]] in 1982.]]
-In the 1950s, Autry had been a minority owner of the minor-league [[Hollywood Stars]]. In 1960, when [[Major League Baseball]] announced plans to add an expansion team in Los Angeles, Autry—who had once declined an opportunity to play in the [[Minor League Baseball|minor leagues]]—expressed an interest in acquiring the radio broadcast rights to the team's games. Baseball executives were so impressed by his approach that he was persuaded to become the owner of the franchise rather than simply its broadcast partner. The team, initially called the [[Los Angeles Angels]] upon its 1961 debut, moved to suburban [[Anaheim, California|Anaheim]] in 1966, and was renamed the California Angels, then the Anaheim Angels from 1997 until 2005, when it became the Los Angeles Angels of Anaheim. Autry served as vice president of the [[American League]] from 1983 until his death. In 1995, he sold a quarter share of the team to [[the Walt Disney Company]] and a controlling interest the following year, with the remaining share to be transferred after his death. Earlier, in 1982, he sold Los Angeles television station [[KTLA]] for $245&nbsp;million.<ref>{{cite web |last1=Rosenstiel |first1=Thomas B. |title=Tribune Co. Will Buy KTLA for $510 Million : Price Highest Ever for TV Station; Deal Expected to Force Firm to Sell Daily News in Van Nuys |url=https://www.latimes.com/archives/la-xpm-1985-05-17-mn-8823-story.html |website=[[Los Angeles Times]] |date=May 17, 1985 |access-date=28 April 2022}}</ref> He also sold several radio stations he owned, including [[KSFO]] in San Francisco, [[KMPC]] in Los Angeles, [[KOGO (AM)|KOGO]] in San Diego, and other stations in the [[Golden West radio network]].
+In the 1950s, Autry had been a minority owner of the minor-league [[Hollywood Stars]]. In 1960, when [[Major League Baseball]] announced plans to add an expansion team in Los Angeles, Autry—who had once declined an opportunity to play in the [[Minor League Baseball|minor leagues]]—expressed an interest in acquiring the radio broadcast rights to the team's games. Baseball executives were so impressed by his approach that he was persuaded to become the owner of the franchise rather than simply its broadcast partner. The team, initially called the [[Los Angeles Angels]] upon its 1961 debut, moved to suburban [[Anaheim, California|Anaheim]] in 1966, and was renamed the California Angels, then the Anaheim Angels from 1997 until 2005, when it became the Los Angeles Angels of Anaheim. Autry served as vice president of the [[American League]] from 1983 until his death. In 1995, he sold a quarter share of the team to [[the Walt Disney Company]] and a controlling interest the following year, with the remaining share to be transferred after his death. Earlier, in 1982, he sold Los Angeles television station [[KTLA]] for $245&nbsp;million.<ref>{{cite web |last1=Rosenstiel |first1=Thomas B. |title=Tribune Co. Will Buy KTLA for $510 Million : Price Highest Ever for TV Station; Deal Expected to Force Firm to Sell Daily News in Van Nuys |url=https://www.latimes.com/archives/la-xpm-1985-05-17-mn-8823-story.html |website=[[Los Angeles Times]] |date=May 17, 1985 |access-date=April 28, 2022}}</ref> He also sold several radio stations he owned, including [[KSFO]] in San Francisco, [[KMPC]] in Los Angeles, [[KOGO (AM)|KOGO]] in San Diego, and other stations in the [[Golden West radio network]].
 
 The number 26 was retired by the Angels in Autry's honor. The chosen number reflected that baseball's rosters (at the time) had 25 men, so Autry's unflagging support for his team made him the "26th man" (see also the ''[[12th man (football)|12th man]]'', a similar concept in football). When the Angels finally won their first (and to date, only) [[2002 World Series|World Series championship in 2002]], star outfielder [[Tim Salmon]] held Autry's cowboy hat aloft during the on-field celebration, and the public address system played his hit song, "[[Back in the Saddle Again]]".
 
@@ -133,7 +132,7 @@ The number 26 was retired by the Angels in Autry's honor. The chosen number refl
 He invested in property, owning by 1964 the [[Mark Hopkins Hotel]] in San Francisco; the [[Andaz West Hollywood|Hotel Continental]] in Hollywood; the Sahara Inn, a $12-million motel near Chicago; plus property in [[Palm Springs]].<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=January 8, 1964|last=Green|first=Abel|author-link=Abel Green|title=A Year of Tragedy & Trifles|page=3}}</ref>
 
 === Retirement ===
-Autry retired from show business in 1964, having made almost 100 films up to 1955 and over 600 records. He was elected to the [[Country Music Hall of Fame]] in 1969 and to the [[Nashville Songwriters Hall of Fame]]<ref>{{cite web|title=Gene Autry|url=http://nashvillesongwritersfoundation.com/Site/inductee?entry_id=1157|series=Nashville Songwriters Hall of Fame|website=Nashvillesongwritersfoundation.com|access-date=December 24, 2017|language=en}}</ref> in 1970. After retiring, he invested widely in real estate, radio, and television. He also invested in ownership of the KOOL-TV CBS-affiliate (now [[Fox Broadcasting Company|Fox]] affiliate [[KSAZ-TV]]) in [[Phoenix, Arizona]], which created local shows such as the weekly bilingual children's show ''Niños Contentos''.
+Autry retired from show business in 1964, having made almost 100 films up to 1955 and over 600 records. He was elected to the [[Country Music Hall of Fame]] in 1969 and to the [[Nashville Songwriters Hall of Fame]]<ref name=HoF>{{cite web|title=Gene Autry|url=http://nashvillesongwritersfoundation.com/Site/inductee?entry_id=1157|series=Nashville Songwriters Hall of Fame|website=Nashvillesongwritersfoundation.com|access-date=December 24, 2017|language=en}}</ref> in 1970. After retiring, he invested widely in real estate, radio, and television. He also invested in ownership of the KOOL-TV CBS-affiliate (now [[Fox Broadcasting Company|Fox]] affiliate [[KSAZ-TV]]) in [[Phoenix, Arizona]], which created local shows such as the weekly bilingual children's show ''Niños Contentos''.
 
 Republic Pictures, its finances failing, had shut down production in 1957. By the late 1960s Republic was barely operational, managing only its film library. Gene Autry, correctly assessing the company's cash-poor situation, made a cash offer for the rights and negatives to his Republic films. The company accepted Autry's terms, and Autry now controlled the film materials for home-movie reprints and home-video tapes and discs.
 
@@ -150,7 +149,6 @@ Autry was raised into [[Freemasonry]] in 1927 at Catoosa Lodge No.&nbsp;185, Cat
 
 == Legacy ==
 [[File:Display of Gene Autry memorabilia.JPG|thumb|Display of Gene Autry memorabilia at the Autry National Center, including his original [[Martin D-45]] guitar, the first one made]]
-
 On November 16, 1941, the town of Berwyn, Oklahoma, north of [[Ardmore, Oklahoma|Ardmore]], was renamed [[Gene Autry, Oklahoma|Gene Autry]] in his honor.<ref name="OHOF">{{Cite web|url=http://www77.oklahomaheritage.com/|title=Oklahomaheritage.com|website=77.oklahomaheritage.com}}</ref> Though Autry was born in [[Tioga, Texas]], his family moved to [[Oklahoma]] while he was an infant. He was raised in the southern Oklahoma towns of [[Achille, Oklahoma|Achille]] and [[Ravia, Oklahoma|Ravia]]. Autry had also worked as a [[telegraphist|telegraph operator]] near Berwyn.<ref name="SaddleAgain">{{cite web | url=https://www.tulsaworld.com/entertainment/movies/jimmie-tramel-back-in-saddle-again-let-s-revisit-oklahoma/article_f3c8bac5-fdb2-5ec7-bd4f-39269b992d6f.html | title= Back in Saddle Again; Let's revisit Oklahoma town (Gene Autry) with famous cowboy's name | date= September 16, 2019 | publisher= Jimmie Tramel, Tulsa World, September 16, 2019| access-date=September 16, 2019}}</ref> In 1939, he bought the {{convert|1,200|acre|km2|adj=on}} Flying A Ranch on the west edge of Berwyn, and the town decided to honor him by changing its name. Approximately 35,000 people attended the ceremonies broadcast live from the site on Autry's ''[[Gene Autry's Melody Ranch|Melody Ranch]]'' radio show. Expectations that Autry would make his permanent home on the ranch were heightened when Autry's house in California burned down just 8 days before the name change ceremony, but dashed three weeks later with the [[attack on Pearl Harbor]].<ref name ="SaddleAgain"/> Autry
 joined the military in 1942 and sold the ranch after the war.<ref name ="SaddleAgain"/>
 
@@ -216,7 +214,7 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 ! [[Billboard Hot 100|US Popular]]
 |-
 | 1932
-| "[[That Silver-Haired Daddy of Mine]]" '''+''' <small>(G. Autry and Jimmy Long)</small><ref name=perfect>{{Cite web|title=PERFECT 78rpm numerical listing discography (12500 - 13000)|url=https://www.78discography.com/PE12500.htm|access-date=2022-02-04|website=www.78discography.com}}</ref><ref name=PopMemories>{{Cite book |last=Whitburn |first=Joel |title=Joel Whitburn's Pop Memories 1890-1954 |publisher=Record Research |year=1986}}</ref>
+| "[[That Silver-Haired Daddy of Mine]]" '''+''' <small>(G. Autry and Jimmy Long)</small><ref name=perfect>{{Cite web|title=PERFECT 78rpm numerical listing discography (12500 - 13000)|url=https://www.78discography.com/PE12500.htm|access-date=February 4, 2022|website=www.78discography.com}}</ref><ref name=PopMemories>{{Cite book |last=Whitburn |first=Joel |title=Joel Whitburn's Pop Memories 1890-1954 |publisher=Record Research |year=1986}}</ref>
 | align="center"| —
 | align="center"| —
 |-
@@ -234,11 +232,11 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 | align="center"| —
 |-
 | rowspan="3"| 1935
-| "[[Tumbling Tumbleweeds]]" <small>(Gene Autry Trio)</small><ref name=melotone35>{{Cite web |title=MELOTONE 1935 78rpm numerical listing discography |url=http://www.78discography.com/Mel13000.htm |access-date=2023-11-14 |website=www.78discography.com}}</ref><ref name=PopMemories/>
+| "[[Tumbling Tumbleweeds]]" <small>(Gene Autry Trio)</small><ref name=melotone35>{{Cite web |title=MELOTONE 1935 78rpm numerical listing discography |url=http://www.78discography.com/Mel13000.htm |access-date=November 14, 2023 |website=www.78discography.com}}</ref><ref name=PopMemories/>
 | align="center"| —
 | align="center"| 7
 |-
-| "[[That Silver-Haired Daddy of Mine]]" '''+''' <small>(G. Autry and Jimmy Long)</small><ref name=vocalion250>{{Cite web|title=Vocalion 78rpm numerical listing discography: 2500 - 3000|url=https://www.78discography.com/VOC2500.htm|access-date=2023-11-14|website=www.78discography.com}}</ref><ref name=PopMemories/>
+| "[[That Silver-Haired Daddy of Mine]]" '''+''' <small>(G. Autry and Jimmy Long)</small><ref name=vocalion250>{{Cite web|title=Vocalion 78rpm numerical listing discography: 2500 - 3000|url=https://www.78discography.com/VOC2500.htm|access-date=November 14, 2023|website=www.78discography.com}}</ref><ref name=PopMemories/>
 | align="center"| —
 | align="center"| 10
 |-
@@ -251,12 +249,12 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 | align="center"| —
 | align="center"| —
 |-
-| "[[You're the Only Star in My Blue Heaven]]"<ref name=melotone36>{{Cite web |title=MELOTONE 1936 78rpm numerical listing discography |url=http://www.78discography.com/Mel36.htm |access-date=2022-03-02 |website=www.78discography.com}}</ref>
+| "[[You're the Only Star in My Blue Heaven]]"<ref name=melotone36>{{Cite web |title=MELOTONE 1936 78rpm numerical listing discography |url=http://www.78discography.com/Mel36.htm |access-date=March 2, 2022 |website=www.78discography.com}}</ref>
 | align="center"| —
 | align="center"| —
 |-
 | rowspan="2"| 1937
-| "The One Rose (That's Left In My Heart)"<ref name=melotone37>{{Cite web |title=MELOTONE 1937 78rpm numerical listing discography |url=http://www.78discography.com/Mel37.htm |access-date=2023-11-14 |website=www.78discography.com}}</ref>
+| "The One Rose (That's Left In My Heart)"<ref name=melotone37>{{Cite web |title=MELOTONE 1937 78rpm numerical listing discography |url=http://www.78discography.com/Mel37.htm |access-date=November 14, 2023 |website=www.78discography.com}}</ref>
 | align="center"| —
 | align="center"| —
 |-
@@ -265,7 +263,7 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 | align="center"| —
 |-
 | rowspan="3"| 1938
-| "Take Me Back to My Boots and Saddle"<ref name=vocalion400>{{Cite web|title=Vocalion 78rpm numerical listing discography: 4000 - 4500|url=https://www.78discography.com/VOC4000.htm|access-date=2022-02-04|website=www.78discography.com}}</ref>
+| "Take Me Back to My Boots and Saddle"<ref name=vocalion400>{{Cite web|title=Vocalion 78rpm numerical listing discography: 4000 - 4500|url=https://www.78discography.com/VOC4000.htm|access-date=February 4, 2022|website=www.78discography.com}}</ref>
 | align="center"| —
 | align="center"| —
 |-
@@ -273,24 +271,24 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 | align="center"| —
 | align="center"| —
 |-
-| "There's A Gold Mine in the Sky"<ref name=melotone38>{{Cite web |title=MELOTONE 1938 78rpm numerical listing discography |url=http://www.78discography.com/Mel38.htm |access-date=2023-11-14 |website=www.78discography.com}}</ref>
+| "There's A Gold Mine in the Sky"<ref name=melotone38>{{Cite web |title=MELOTONE 1938 78rpm numerical listing discography |url=http://www.78discography.com/Mel38.htm |access-date=November 14, 2023 |website=www.78discography.com}}</ref>
 | align="center"| —
 | align="center"| —
 |-
 | rowspan="6"| 1939
-| "Paradise in the Moonlight"<ref>{{cite magazine|date=27 May 1939|title=Hillbilly Recordings – Month Ending May 27, 1939|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1941/BB-1939-05-27.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=82|access-date=17 July 2021}}</ref><ref name=vocalion450/>
+| "Paradise in the Moonlight"<ref>{{cite magazine|date=May 27, 1939|title=Hillbilly Recordings – Month Ending May 27, 1939|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1941/BB-1939-05-27.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=82|access-date=July 17, 2021}}</ref><ref name=vocalion450/>
 | align="center"| 1
 | align="center"| —
 |-
-| "[[South of the Border (1939 song)|South of the Border (Down Mexico Way)]]" '''+''' <ref name=vocalion500>{{Cite web|title=Vocalion 78rpm numerical listing discography - 5000 series (main sequence)|url=https://www.78discography.com/VOC5000.htm|access-date=2022-02-04|website=www.78discography.com}}</ref><ref name=tsha/>
+| "[[South of the Border (1939 song)|South of the Border (Down Mexico Way)]]" '''+''' <ref name=vocalion500>{{Cite web|title=Vocalion 78rpm numerical listing discography - 5000 series (main sequence)|url=https://www.78discography.com/VOC5000.htm|access-date=February 4, 2022|website=www.78discography.com}}</ref><ref name=tsha/>
 | align="center"| 1
 | align="center"| 15
 |-
-| "[[Back in the Saddle Again]]" '''+'''  <ref name=vocalion500/><ref name=tsha>{{Cite web |title=TSHA {{!}} Autry, Orvon Gene |url=https://www.tshaonline.org/handbook/entries/autry-orvon-gene |access-date=2022-04-26 |website=www.tshaonline.org}}</ref>
+| "[[Back in the Saddle Again]]" '''+'''  <ref name=vocalion500/><ref name=tsha>{{Cite web |title=TSHA {{!}} Autry, Orvon Gene |url=https://www.tshaonline.org/handbook/entries/autry-orvon-gene |access-date=April 26, 2022 |website=www.tshaonline.org}}</ref>
 | align="center"| 1
 | align="center"| —
 |-
-| "Little Sir Echo"<ref name=vocalion450>{{Cite web |title=Vocalion (USA) 78rpm numerical listing discography: 4500 - 4999 |url=https://www.78discography.com/VOC4500.htm |access-date=2022-08-13 |website=www.78discography.com}}</ref>
+| "Little Sir Echo"<ref name=vocalion450>{{Cite web |title=Vocalion (USA) 78rpm numerical listing discography: 4500 - 4999 |url=https://www.78discography.com/VOC4500.htm |access-date=August 13, 2022 |website=www.78discography.com}}</ref>
 | align="center"| 1
 | align="center"| —
 |-
@@ -313,7 +311,7 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 ! [[Billboard Hot 100|US Popular]]
 |-
 | rowspan="10"| 1940
-| "I'm Beginning To Care"<ref name=vocalion500/><ref name="auto">{{cite magazine|date=27 January 1940|title=Hillbilly Recordings – Month Ending January 27, 1940|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1940/BB-1940-01-27.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=70|access-date=17 July 2021}}</ref>
+| "I'm Beginning To Care"<ref name=vocalion500/><ref name="auto">{{cite magazine|date=January 27, 1940|title=Hillbilly Recordings – Month Ending January 27, 1940|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1940/BB-1940-01-27.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=70|access-date=July 17, 2021}}</ref>
 | align="center"| 1
 | align="center"| —
 |-
@@ -321,23 +319,23 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 | align="center"| 2
 | align="center"| —
 |-
-| "[[Goodbye Little Darlin' Goodbye]]"<ref name=vocalion500/><ref>{{cite magazine|date=29 June 1940|title=Hillbilly Recordings – Month Ending June 29, 1940|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1940/BB-1940-06-29.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=102|access-date=17 July 2021}}</ref>
+| "[[Goodbye Little Darlin' Goodbye]]"<ref name=vocalion500/><ref>{{cite magazine|date=June 29, 1940|title=Hillbilly Recordings – Month Ending June 29, 1940|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1940/BB-1940-06-29.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=102|access-date=July 17, 2021}}</ref>
 | align="center"| 1
 | align="center"| 20
 |-
-| "Mary Dear"<ref name=vocalion550>{{Cite web |title=Vocalion 78rpm numerical listing discography 5500 - 5600 |url=https://www.78discography.com/VOC5500.htm |access-date=2022-08-13 |website=www.78discography.com}}</ref><ref>{{cite magazine|date=31 August 1940|title=Hillbilly Recordings – Month Ending August 31, 1940|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1940/BB-1940-08-31.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=112|access-date=17 July 2021}}</ref>
+| "Mary Dear"<ref name=vocalion550>{{Cite web |title=Vocalion 78rpm numerical listing discography 5500 - 5600 |url=https://www.78discography.com/VOC5500.htm |access-date=August 13, 2022 |website=www.78discography.com}}</ref><ref>{{cite magazine|date=August 31, 1940|title=Hillbilly Recordings – Month Ending August 31, 1940|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1940/BB-1940-08-31.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=112|access-date=July 17, 2021}}</ref>
 | align="center"| 4
 | align="center"| —
 |-
-| "Were You Sincere"<ref name=okeh560/><ref>{{cite magazine|date=28 September 1940|title=Hillbilly Recordings – Month Ending September 28, 1940|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1940/BB-1940-09-28.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=70|access-date=17 July 2021}}</ref>
+| "Were You Sincere"<ref name=okeh560/><ref>{{cite magazine|date=September 28, 1940|title=Hillbilly Recordings – Month Ending September 28, 1940|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1940/BB-1940-09-28.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=70|access-date=July 17, 2021}}</ref>
 | align="center"| 1
 | align="center"| —
 |-
-| "Broomstick Buckaroo"<ref name=okeh560/><ref>{{cite magazine|date=28 December 1940|title=Hillbilly Recordings – Month Ending December 28, 1940|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1940/BB-1940-12-28.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=132|access-date=17 July 2021}}</ref>
+| "Broomstick Buckaroo"<ref name=okeh560/><ref>{{cite magazine|date=December 28, 1940|title=Hillbilly Recordings – Month Ending December 28, 1940|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1940/BB-1940-12-28.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=132|access-date=July 17, 2021}}</ref>
 | align="center"| 3
 | align="center"| —
 |-
-| "[[Blueberry Hill (song)|Blueberry Hill]]"<ref name=okeh560>{{Cite web |title=OKeh (by CBS) numerical listing discography: 5600 - 5999 |url=https://www.78discography.com/OK5600.htm |access-date=2022-08-13 |website=www.78discography.com}}</ref>
+| "[[Blueberry Hill (song)|Blueberry Hill]]"<ref name=okeh560>{{Cite web |title=OKeh (by CBS) numerical listing discography: 5600 - 5999 |url=https://www.78discography.com/OK5600.htm |access-date=August 13, 2022 |website=www.78discography.com}}</ref>
 | align="center"| 6
 | align="center"| —
 |-
@@ -354,7 +352,7 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 | align="center"| —
 |-
 | rowspan="5"| 1941
-| "[[You Are My Sunshine]]"'''+''' <ref name=tsha/><ref name="auto1">{{cite magazine|date=30 August 1941|title=Hillbilly Recordings – Month Ending August 30, 1941|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1941/BB-1941-08-30.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=104|access-date=17 July 2021}}</ref><ref name=okeh600>{{Cite web|title=OKeh (by CBS) 78rpm numerical listing discography: 6000 - 6500|url=https://www.78discography.com/OK6000.htm|access-date=2022-02-04|website=www.78discography.com}}</ref>
+| "[[You Are My Sunshine]]"'''+''' <ref name=tsha/><ref name="auto1">{{cite magazine|date=August 30, 1941|title=Hillbilly Recordings – Month Ending August 30, 1941|url=http://www.americanradiohistory.com/Archive-Billboard/40s/1941/BB-1941-08-30.pdf|magazine=The Billboard|location=Cincinnati, Ohio|page=104|access-date=July 17, 2021}}</ref><ref name=okeh600>{{Cite web|title=OKeh (by CBS) 78rpm numerical listing discography: 6000 - 6500|url=https://www.78discography.com/OK6000.htm|access-date=February 4, 2022|website=www.78discography.com}}</ref>
 | align="center"| 1
 | align="center"| 23
 |-
@@ -375,7 +373,7 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 | align="center"| —
 |-
 | rowspan="2"| 1942
-| "Tweedle-O-Twill"<ref name=okeh650>{{Cite web|title=OKeh (by CBS) 78rpm numerical listing discography: 6500 - 6747 (end of series)|url=https://www.78discography.com/OK6500.htm|access-date=2022-02-04|website=www.78discography.com}}</ref>
+| "Tweedle-O-Twill"<ref name=okeh650>{{Cite web|title=OKeh (by CBS) 78rpm numerical listing discography: 6500 - 6747 (end of series)|url=https://www.78discography.com/OK6500.htm|access-date=February 4, 2022|website=www.78discography.com}}</ref>
 | align="center"| 1
 | align="center"| —
 |-
@@ -418,11 +416,11 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 | align="center"| 4
 | align="center"| —
 |-
-| "Don't Hang Around Me Anymore"<ref name=columbia200>{{Cite web|title=COLUMBIA 78rpm numerical listing discography: Country/Western series 20000 - 20500|url=https://www.78discography.com/COL20000.htm|access-date=2022-02-04|website=www.78discography.com}}</ref>
+| "Don't Hang Around Me Anymore"<ref name=columbia200>{{Cite web|title=COLUMBIA 78rpm numerical listing discography: Country/Western series 20000 - 20500|url=https://www.78discography.com/COL20000.htm|access-date=February 4, 2022|website=www.78discography.com}}</ref>
 | align="center"| 4
 | align="center"| —
 |-
-| "Don't Live a Lie"<ref name=columbia365>{{Cite web |title=COLUMBIA 78rpm numerical listing discography: 36500 - 37000 |url=https://www.78discography.com/COL36500.htm |access-date=2022-08-13 |website=www.78discography.com}}</ref>
+| "Don't Live a Lie"<ref name=columbia365>{{Cite web |title=COLUMBIA 78rpm numerical listing discography: 36500 - 37000 |url=https://www.78discography.com/COL36500.htm |access-date=August 13, 2022 |website=www.78discography.com}}</ref>
 | align="center"| 4
 | align="center"| —
 |-
@@ -447,7 +445,7 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 | align="center"| 4
 | align="center"| —
 |-
-| "[[Have I Told You Lately that I Love You? (1945 song)|Have I Told You Lately that I Love You?]]"<ref name=columbia370>{{Cite web |title=COLUMBIA 78rpm numerical listing discography: 37000 - 37499 |url=https://www.78discography.com/COL37000.htm |access-date=2022-08-13 |website=www.78discography.com}}</ref>
+| "[[Have I Told You Lately that I Love You? (1945 song)|Have I Told You Lately that I Love You?]]"<ref name=columbia370>{{Cite web |title=COLUMBIA 78rpm numerical listing discography: 37000 - 37499 |url=https://www.78discography.com/COL37000.htm |access-date=August 13, 2022 |website=www.78discography.com}}</ref>
 | align="center"| 3
 | align="center"| —
 |-
@@ -465,7 +463,7 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 | align="center"| —
 |-
 | rowspan="3"| 1948
-| "[[Here Comes Santa Claus|Here Comes Santa Claus (Down Santa Claus Lane)]]"'''+{{'}}''' <ref name=columbia375>{{Cite web |title=COLUMBIA 78rpm numerical listing discography: 37500 - 38000 |url=https://www.78discography.com/COL37500.htm |access-date=2022-08-13 |website=www.78discography.com}}</ref><ref name=PopMemories/>
+| "[[Here Comes Santa Claus|Here Comes Santa Claus (Down Santa Claus Lane)]]"'''+{{'}}''' <ref name=columbia375>{{Cite web |title=COLUMBIA 78rpm numerical listing discography: 37500 - 38000 |url=https://www.78discography.com/COL37500.htm |access-date=August 13, 2022 |website=www.78discography.com}}</ref><ref name=PopMemories/>
 | align="center"| 5
 | align="center"| 8
 |-
@@ -478,11 +476,11 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 | align="center"| 8
 |-
 | rowspan="3"| 1949
-| "[[(Ghost) Riders in the Sky: A Cowboy Legend|Ghost Riders in the Sky]]"<ref name=columbia250>{{Cite web|title=COLUMBIA 78rpm numerical listing discography: 20500 - 21000|url=https://www.78discography.com/COL20500.htm|access-date=2022-02-04|website=www.78discography.com}}</ref>
+| "[[(Ghost) Riders in the Sky: A Cowboy Legend|Ghost Riders in the Sky]]"<ref name=columbia250>{{Cite web|title=COLUMBIA 78rpm numerical listing discography: 20500 - 21000|url=https://www.78discography.com/COL20500.htm|access-date=February 4, 2022|website=www.78discography.com}}</ref>
 | align="center"| —
 | align="center"| —
 |-
-| "[[Rudolph the Red-Nosed Reindeer (song)|Rudolph, the Red-Nosed Reindeer]]"'''+''' <small>(w/ The Pinafores)</small><ref name=columbia385>{{Cite web |title=COLUMBIA RECORDS: 78rpm numerical listing discography 38500 - 39000 |url=https://www.78discography.com/COL38500.htm |access-date=2022-08-13 |website=www.78discography.com}}</ref><ref name=PopMemories/>
+| "[[Rudolph the Red-Nosed Reindeer (song)|Rudolph, the Red-Nosed Reindeer]]"'''+''' <small>(w/ The Pinafores)</small><ref name=columbia385>{{Cite web |title=COLUMBIA RECORDS: 78rpm numerical listing discography 38500 - 39000 |url=https://www.78discography.com/COL38500.htm |access-date=August 13, 2022 |website=www.78discography.com}}</ref><ref name=PopMemories/>
 | align="center"| 1
 | align="center"| 1
 |-
@@ -503,15 +501,15 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 ! [[Billboard Hot 100|US Popular]]
 |-
 | rowspan="3"| 1950
-| "[[Peter Cottontail (song)|Peter Cottontail]]"'''+''' <ref name=columbia2>{{Cite web|title=COLUMBIA RECORDS: 78rpm numerical listing discography 38500 - 39000|url=https://www.78discography.com/COL38500.htm|access-date=2022-02-04|website=www.78discography.com}}</ref><ref name=tsha/>
+| "[[Peter Cottontail (song)|Peter Cottontail]]"'''+''' <ref name=columbia385/><ref name=tsha/>
 | align="center"| 3
 | align="center"| 5
 |-
-| "[[Frosty the Snowman|Frosty the Snow Man]]"'''+''' <small>(w/ The [[Cass County Boys]])</small><ref name=columbia2/><ref name=PopMemories/>
+| "[[Frosty the Snowman|Frosty the Snow Man]]"'''+''' <small>(w/ The [[Cass County Boys]])</small><ref name=columbia385/><ref name=PopMemories/>
 | align="center"| 4
 | align="center"| 7
 |-
-| "Rudolph, the Red-Nosed Reindeer" <small>(w/ The Pinafores)</small><ref name=columbia2/>
+| "Rudolph, the Red-Nosed Reindeer" <small>(w/ The Pinafores)</small><ref name=columbia385/>
 | align="center"| 5
 | align="center"| 3
 |-
@@ -530,7 +528,7 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 | align="center"| —
 | align="center"| —
 |-
-| "Rudolph, the Red-Nosed Reindeer" <small>(re-entry)</small><ref name=columbia2 />
+| "Rudolph, the Red-Nosed Reindeer" <small>(re-entry)</small><ref name=columbia385 />
 | align="center"| —
 | align="center"| 70
 |-
@@ -569,14 +567,14 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 |-
 | rowspan="2"| 2018
 | "Rudolph, the Red-Nosed Reindeer" <small>(re-entry)</small>
-| align="center"| 16<ref name = "BB2018">{{cite magazine|url=https://www.billboard.com/charts/hot-100/2019-01-05/|title=The Hot 100 (Week of January 5, 2019)|magazine=Billboard|date=January 5, 2019|access-date=13 December 2021}}</ref>
+| align="center"| 16<ref name = "BB2018">{{cite magazine|url=https://www.billboard.com/charts/hot-100/2019-01-05/|title=The Hot 100 (Week of January 5, 2019)|magazine=Billboard|date=January 5, 2019|access-date=December 13, 2021}}</ref>
 |-
 | "Here Comes Santa Claus (Down Santa Claus Lane)" <small>(re-entry)</small>
 | align="center"| 28<ref name = "BB2018"/>
 |-
 | rowspan="2"| 2019
 | "Rudolph, the Red-Nosed Reindeer" <small>(re-entry)</small>
-| align="center"| 22<ref name = "BB2019">{{cite magazine|url=https://www.billboard.com/charts/hot-100/2020-01-04/|title=The Hot 100 (Week of January 4, 2020)|magazine=Billboard|date=January 4, 2020|access-date=13 December 2021}}</ref>
+| align="center"| 22<ref name = "BB2019">{{cite magazine|url=https://www.billboard.com/charts/hot-100/2020-01-04/|title=The Hot 100 (Week of January 4, 2020)|magazine=Billboard|date=January 4, 2020|access-date=December 13, 2021}}</ref>
 |-
 | "Here Comes Santa Claus (Down Santa Claus Lane)" <small>(re-entry)</small>
 | align="center"| 32<ref name = "BB2019"/>
@@ -592,32 +590,32 @@ The Autry Museum of the American West in Los Angeles' [[Griffith Park]] was foun
 |-
 | rowspan="2"| 2020
 | "Rudolph, the Red-Nosed Reindeer" <small>(re-entry)</small>
-| align="center"| 16<ref name = "BB2020">{{cite magazine|url=https://www.billboard.com/charts/hot-100/2021-01-02/|title=The Hot 100 (Week of January 2, 2021)|magazine=Billboard|date=January 2, 2021|access-date=13 December 2021}}</ref>
+| align="center"| 16<ref name = "BB2020">{{cite magazine|url=https://www.billboard.com/charts/hot-100/2021-01-02/|title=The Hot 100 (Week of January 2, 2021)|magazine=Billboard|date=January 2, 2021|access-date=December 13, 2021}}</ref>
 |-
 | "Here Comes Santa Claus (Down Santa Claus Lane)" <small>(re-entry)</small>
 | align="center"| 26<ref name = "BB2020"/>
 |-
 | 2021
 | "Rudolph, the Red-Nosed Reindeer" <small>(re-entry)</small>
-| align="center"| 19<ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2022-01-01/|title=The Hot 100 (Week of January 1, 2022)|magazine=Billboard|date=January 1, 2022|access-date=30 December 2021}}</ref>
+| align="center"| 19<ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2022-01-01/|title=The Hot 100 (Week of January 1, 2022)|magazine=Billboard|date=January 1, 2022|access-date=December 30, 2021}}</ref>
 |-
 | rowspan="2"| 2022
 | "Rudolph, the Red-Nosed Reindeer" <small>(re-entry)</small>
-| align="center"| 28<ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2022-12-31/|title=The Hot 100 (Week of December 31, 2022)|magazine=Billboard|date=December 31, 2022|access-date=28 December 2022}}</ref>
+| align="center"| 28<ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2022-12-31/|title=The Hot 100 (Week of December 31, 2022)|magazine=Billboard|date=December 31, 2022|access-date=December 28, 2022}}</ref>
 |-
 | "Here Comes Santa Claus (Down Santa Claus Lane)" <small>(re-entry)</small>
-| align="center"| 25<ref name="Hot 100">{{cite magazine|url=https://www.billboard.com/artist/gene-autry/chart-history/hsi/|title=Gene Autry Chart History: Hot 100|magazine=Billboard|access-date=3 January 2024}}</ref>
+| align="center"| 25<ref name="Hot 100">{{cite magazine|url=https://www.billboard.com/artist/gene-autry/chart-history/hsi/|title=Gene Autry Chart History: Hot 100|magazine=Billboard|access-date=January 3, 2024}}</ref>
 |-
 | rowspan="2"| 2023
 | "Rudolph, the Red-Nosed Reindeer" <small>(re-entry)</small>
-| align="center"| 26<ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2023-12-09/|title=The Hot 100 (Week of December 9, 2023)|magazine=Billboard|date=9 December 2023|access-date=5 December 2023}}</ref>
+| align="center"| 26<ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2023-12-09/|title=The Hot 100 (Week of December 9, 2023)|magazine=Billboard|date=December 9, 2023|access-date=December 5, 2023}}</ref>
 |-
 | "Here Comes Santa Claus (Down Santa Claus Lane)" <small>(re-entry)</small>
 | align="center"| 21<ref name="Hot 100"/>
 |}
 
 === Holiday 100 chart entries ===
-Since many radio stations in the US adopt a format change to [[Christmas music]] each December, many holiday hits have an annual spike in popularity during the last few weeks of the year and are retired once the season is over.<ref>{{Cite news|url=https://www.chicagotribune.com/entertainment/music/ct-christmas-radio-20151222-story.html|title=Jingle bell rock: Why lots of radio stations go all-Christmas in December|last=Judkis|first=Maura|date=2015-12-22|work=[[Chicago Tribune]]|access-date=8 February 2019}}</ref> In December 2011, ''[[Billboard (magazine)|Billboard]]'' began a [[Billboard charts#Holiday|Holiday Songs]] chart with 50 positions that monitors the last five weeks of each year to "rank the top holiday hits of all eras using the same methodology as the [[Billboard Hot 100|Hot 100]], blending [[streaming media|streaming]], [[airplay]], and sales data",<ref>{{cite web|url=https://www.billboard.com/articles/columns/chart-beat/8491032/andy-williams-the-ronettes-hot-100-chart-moves |title=Andy Williams Hits New High, The Ronettes 'Ride' Back After 52 Years & More Hot 100 Chart Moves|website=Billboard.com |access-date=8 February 2019}}</ref> and in 2013, the number of positions on the chart was doubled, resulting in the [[Holiday 100]].<ref>{{cite magazine|title=Carey Brings Back 'Christmas'|date= 2013-12-14 |magazine=[[Billboard (magazine)|Billboard]]| page=115}}</ref> A few Autry recordings have made appearances on the Holiday 100 and are noted below according to the holiday season in which they charted there.
+Since many radio stations in the US adopt a format change to [[Christmas music]] each December, many holiday hits have an annual spike in popularity during the last few weeks of the year and are retired once the season is over.<ref>{{Cite news|url=https://www.chicagotribune.com/entertainment/music/ct-christmas-radio-20151222-story.html|title=Jingle bell rock: Why lots of radio stations go all-Christmas in December|last=Judkis|first=Maura|date=December 22, 2015|work=[[Chicago Tribune]]|access-date=February 8, 2019}}</ref> In December 2011, ''[[Billboard (magazine)|Billboard]]'' began a [[Billboard charts#Holiday|Holiday Songs]] chart with 50 positions that monitors the last five weeks of each year to "rank the top holiday hits of all eras using the same methodology as the [[Billboard Hot 100|Hot 100]], blending [[streaming media|streaming]], [[airplay]], and sales data",<ref>{{cite web|url=https://www.billboard.com/articles/columns/chart-beat/8491032/andy-williams-the-ronettes-hot-100-chart-moves |title=Andy Williams Hits New High, The Ronettes 'Ride' Back After 52 Years & More Hot 100 Chart Moves|website=Billboard.com |access-date=February 8, 2019}}</ref> and in 2013, the number of positions on the chart was doubled, resulting in the [[Holiday 100]].<ref>{{cite magazine|title=Carey Brings Back 'Christmas'|date= December 14, 2013 |magazine=[[Billboard (magazine)|Billboard]]| page=115}}</ref> A few Autry recordings have made appearances on the Holiday 100 and are noted below according to the holiday season in which they charted there.
 
 {| class="wikitable" style=text-align:center;
 |-
@@ -639,44 +637,44 @@ Since many radio stations in the US adopt a format change to [[Christmas music]]
 !align=centre| 2023
 |-
 | align=left |"[[Rudolph the Red-Nosed Reindeer (song)|Rudolph the Red-Nosed Reindeer]]"
-| 14<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2011-12-17|title=Holiday 100: The week of December 17, 2011 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094819/https://www.billboard.com/charts/hot-holiday-songs/2011-12-17 |archive-date=April 7, 2018 }}</ref>
-| 14<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2013-01-05|title=Holiday 100: The week of January 5, 2013 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094644/https://www.billboard.com/charts/hot-holiday-songs/2013-01-05 |archive-date=April 7, 2018 }}</ref>
-| 11<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2013-12-28|title=Holiday 100: The week of December 28, 2013 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094609/https://www.billboard.com/charts/hot-holiday-songs/2013-12-28 |archive-date=April 7, 2018 }}</ref>
-| 11<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2015-01-03|title=Holiday 100: The week of January 3, 2015 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094446/https://www.billboard.com/charts/hot-holiday-songs/2015-01-03 |archive-date=April 7, 2018 }}</ref>
-| 8<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2015-12-19|title=Holiday 100: The week of December 19, 2015 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094412/https://www.billboard.com/charts/hot-holiday-songs/2015-12-19 |archive-date=April 7, 2018 }}</ref>
-| 10<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2016-12-31|title=Holiday 100: The week of December 31, 2016 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094245/https://www.billboard.com/charts/hot-holiday-songs/2016-12-31 |archive-date=April 7, 2018 }}</ref>
-| 10<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2018-01-03|title=Holiday 100: The week of January 3, 2018 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094159/https://www.billboard.com/charts/hot-holiday-songs/2018-01-03 |archive-date=April 7, 2018 }}</ref>
-| 7<ref name="rudolphhere">{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2018-12-22|title=Holiday 100: The week of December 22, 2018 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20190223023540/https://www.billboard.com/charts/hot-holiday-songs/2018-12-22 |archive-date=February 23, 2019 }}</ref>
+| 14<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2011-12-17|title=Holiday 100: The week of December 17, 2011 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094819/https://www.billboard.com/charts/hot-holiday-songs/2011-12-17 |archive-date=April 7, 2018 }}</ref>
+| 14<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2013-01-05|title=Holiday 100: The week of January 5, 2013 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094644/https://www.billboard.com/charts/hot-holiday-songs/2013-01-05 |archive-date=April 7, 2018 }}</ref>
+| 11<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2013-12-28|title=Holiday 100: The week of December 28, 2013 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094609/https://www.billboard.com/charts/hot-holiday-songs/2013-12-28 |archive-date=April 7, 2018 }}</ref>
+| 11<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2015-01-03|title=Holiday 100: The week of January 3, 2015 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094446/https://www.billboard.com/charts/hot-holiday-songs/2015-01-03 |archive-date=April 7, 2018 }}</ref>
+| 8<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2015-12-19|title=Holiday 100: The week of December 19, 2015 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094412/https://www.billboard.com/charts/hot-holiday-songs/2015-12-19 |archive-date=April 7, 2018 }}</ref>
+| 10<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2016-12-31|title=Holiday 100: The week of December 31, 2016 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094245/https://www.billboard.com/charts/hot-holiday-songs/2016-12-31 |archive-date=April 7, 2018 }}</ref>
+| 10<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2018-01-03|title=Holiday 100: The week of January 3, 2018 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094159/https://www.billboard.com/charts/hot-holiday-songs/2018-01-03 |archive-date=April 7, 2018 }}</ref>
+| 7<ref name="rudolphhere">{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2018-12-22|title=Holiday 100: The week of December 22, 2018 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20190223023540/https://www.billboard.com/charts/hot-holiday-songs/2018-12-22 |archive-date=February 23, 2019 }}</ref>
 | 10<ref>{{cite web|url=https://www.billboard.com/charts/hot-holiday-songs/2019-12-28|title=Holiday 100: The week of December 28, 2019|publisher=billboard.com|access-date=January 1, 2021|archive-url= https://web.archive.org/web/20200805154545/https://www.billboard.com/charts/hot-holiday-songs/2019-12-28|archive-date= August 5, 2020}}</ref>
 | 14<ref>{{cite web|url=https://www.billboard.com/charts/hot-holiday-songs/2021-01-02|title=Holiday 100: The week of January 2, 2021|publisher=billboard.com|access-date=January 1, 2021|archive-url= https://web.archive.org/web/20210104000856/https://www.billboard.com/charts/hot-holiday-songs/2021-01-02|archive-date= January 4, 2021}}</ref>
-| 13<ref name = "BB122521">{{cite magazine|url=https://www.billboard.com/charts/hot-holiday-songs/2021-12-25|title=Holiday 100 (Week of December 25, 2021)|magazine=Billboard|date=December 25, 2021|access-date=21 December 2021}}</ref>
+| 13<ref name = "BB122521">{{cite magazine|url=https://www.billboard.com/charts/hot-holiday-songs/2021-12-25|title=Holiday 100 (Week of December 25, 2021)|magazine=Billboard|date=December 25, 2021|access-date=December 21, 2021}}</ref>
 | 17<ref name = "BB120322">{{cite magazine|url=https://www.billboard.com/charts/hot-holiday-songs/2022-12-03|title=Holiday 100 (Week of December 3, 2022)|magazine=Billboard|date=December 3, 2022|access-date=November 30, 2022}}</ref>
 | 14<ref name = "BB120923-HOL">{{cite magazine|url=https://www.billboard.com/charts/hot-holiday-songs/2023-12-09|title=Holiday 100 (Week of December 9, 2023)|magazine=Billboard|date=December 9, 2023|access-date=December 5, 2023}}</ref>
 |-
 | align=left |"[[Here Comes Santa Claus|Here Comes Santa Claus (Down Santa Claus Lane)]]"
-| 45<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2011-12-24|title=Holiday 100: The week of December 24, 2011 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094803/https://www.billboard.com/charts/hot-holiday-songs/2011-12-24 |archive-date=April 7, 2018 }}</ref>
-| 34<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2012-12-08|title=Holiday 100: The week of December 8, 2012 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094729/https://www.billboard.com/charts/hot-holiday-songs/2012-12-08 |archive-date=April 7, 2018 }}</ref>
-| 43<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2014-01-04|title=Holiday 100: The week of January 4, 2014 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094557/https://www.billboard.com/charts/hot-holiday-songs/2014-01-04 |archive-date=April 7, 2018 }}</ref>
-| 48<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2014-12-13|title=Holiday 100: The week of December 13, 2014 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094533/https://www.billboard.com/charts/hot-holiday-songs/2014-12-13 |archive-date=April 7, 2018 }}</ref>
-| 27<ref name="herefrosty">{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2015-12-12|title=Holiday 100: The week of December 12, 2015 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094423/https://www.billboard.com/charts/hot-holiday-songs/2015-12-12 |archive-date=April 7, 2018 }}</ref>
-| 37<ref name="hereupfrosty">{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2016-12-10|title=Holiday 100: The week of December 10, 2016 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094320/https://www.billboard.com/charts/hot-holiday-songs/2016-12-10 |archive-date=April 7, 2018 }}</ref>
-| 18<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2017-12-30|title=Holiday 100: The week of December 30, 2017 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094114/https://www.billboard.com/charts/hot-holiday-songs/2017-12-30 |archive-date=April 7, 2018 }}</ref>
+| 45<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2011-12-24|title=Holiday 100: The week of December 24, 2011 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094803/https://www.billboard.com/charts/hot-holiday-songs/2011-12-24 |archive-date=April 7, 2018 }}</ref>
+| 34<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2012-12-08|title=Holiday 100: The week of December 8, 2012 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094729/https://www.billboard.com/charts/hot-holiday-songs/2012-12-08 |archive-date=April 7, 2018 }}</ref>
+| 43<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2014-01-04|title=Holiday 100: The week of January 4, 2014 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094557/https://www.billboard.com/charts/hot-holiday-songs/2014-01-04 |archive-date=April 7, 2018 }}</ref>
+| 48<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2014-12-13|title=Holiday 100: The week of December 13, 2014 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094533/https://www.billboard.com/charts/hot-holiday-songs/2014-12-13 |archive-date=April 7, 2018 }}</ref>
+| 27<ref name="herefrosty">{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2015-12-12|title=Holiday 100: The week of December 12, 2015 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094423/https://www.billboard.com/charts/hot-holiday-songs/2015-12-12 |archive-date=April 7, 2018 }}</ref>
+| 37<ref name="hereupfrosty">{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2016-12-10|title=Holiday 100: The week of December 10, 2016 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094320/https://www.billboard.com/charts/hot-holiday-songs/2016-12-10 |archive-date=April 7, 2018 }}</ref>
+| 18<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2017-12-30|title=Holiday 100: The week of December 30, 2017 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094114/https://www.billboard.com/charts/hot-holiday-songs/2017-12-30 |archive-date=April 7, 2018 }}</ref>
 | 10<ref name = rudolphhere />
 | 12<ref name = "hereclaus">{{cite web|url=https://www.billboard.com/charts/hot-holiday-songs/2019-12-07|title=Holiday 100: The week of December 7, 2019|publisher=billboard.com|access-date=January 1, 2021|archive-url= https://web.archive.org/web/20210818011431/https://www.billboard.com/charts/hot-holiday-songs/2019-12-07|archive-date= August 18, 2021}}</ref>
 | 12<ref name="herelane">{{cite web|url=https://www.billboard.com/charts/hot-holiday-songs/2020-12-05|title=Holiday 100: The week of December 5, 2020|publisher=billboard.com|access-date=January 1, 2021|archive-url= https://web.archive.org/web/20210103234728/https://www.billboard.com/charts/hot-holiday-songs/2020-12-05|archive-date= January 3, 2021}}</ref>
-| 25<ref name = "BB120421">{{cite magazine|url=https://www.billboard.com/charts/hot-holiday-songs/2021-12-04|title=Holiday 100 (Week of December 4, 2021)|magazine=Billboard|date=December 4, 2021|access-date=13 December 2021}}</ref>
+| 25<ref name = "BB120421">{{cite magazine|url=https://www.billboard.com/charts/hot-holiday-songs/2021-12-04|title=Holiday 100 (Week of December 4, 2021)|magazine=Billboard|date=December 4, 2021|access-date=December 13, 2021}}</ref>
 | 19<ref name = "BB120322"/>
 | 17<ref>{{cite magazine|url=https://www.billboard.com/charts/hot-holiday-songs/2023-12-30|title=Holiday 100 (Week of December 30, 2023)|magazine=Billboard|date=December 30, 2023|access-date=December 27, 2023}}</ref>
 |-
 | align=left |"[[Up on the House Top|Up on the Housetop (Ho! Ho! Ho!)]]"
 | —
 | —
-| 80<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2013-12-14|title=Holiday 100: The week of December 14, 2013 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094632/https://www.billboard.com/charts/hot-holiday-songs/2013-12-14 |archive-date=April 7, 2018 }}</ref>
+| 80<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2013-12-14|title=Holiday 100: The week of December 14, 2013 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094632/https://www.billboard.com/charts/hot-holiday-songs/2013-12-14 |archive-date=April 7, 2018 }}</ref>
 | —
 | —
 | 94<ref name = hereupfrosty />
-| 80<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2017-12-09|title=Holiday 100: The week of December 9, 2017 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20180407094222/https://www.billboard.com/charts/hot-holiday-songs/2017-12-09 |archive-date=April 7, 2018 }}</ref>
-| 72<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2018-12-08|title=Holiday 100: The week of December 8, 2018 |publisher=billboard.com |access-date=9 March 2019|archive-url=https://web.archive.org/web/20190223024719/https://www.billboard.com/charts/hot-holiday-songs/2018-12-08 |archive-date=February 23, 2019 }}</ref>
+| 80<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2017-12-09|title=Holiday 100: The week of December 9, 2017 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20180407094222/https://www.billboard.com/charts/hot-holiday-songs/2017-12-09 |archive-date=April 7, 2018 }}</ref>
+| 72<ref>{{cite web|url= https://www.billboard.com/charts/hot-holiday-songs/2018-12-08|title=Holiday 100: The week of December 8, 2018 |publisher=billboard.com |access-date=March 9, 2019|archive-url=https://web.archive.org/web/20190223024719/https://www.billboard.com/charts/hot-holiday-songs/2018-12-08 |archive-date=February 23, 2019 }}</ref>
 | 94<ref name = hereclaus/>
 | 91<ref name = herelane/>
 | 74<ref name = "BB120421"/>
@@ -811,8 +809,8 @@ From 1934 to 1953, Autry appeared in 93 films.<ref name="magers-21-336">{{harvnb
 * [[Movie ranches#Monogram Ranch/Melody Ranch|Melody Movie Ranch]]
 
 == Further reading ==
-* {{cite book |author=Michael Duchemin |date=22 Sep 2016 |title=New Deal Cowboy: Gene Autry and Public Diplomacy |publisher=[[University of Oklahoma Press]] |isbn=9780806153926 |oclc=959274480 }}
-* {{cite web |author=Sandi Hemmerlein |date=6 Sep 2019 |language=en |title=Beyond Gene Autry: The Making of the Singing Cowboy Myth |website=PBS |url=https://www.pbssocal.org/country-music/beyond-gene-autry-making-singing-cowboy-myth/}}
+* {{cite book |author=Michael Duchemin |date=September 22, 2016 |title=New Deal Cowboy: Gene Autry and Public Diplomacy |publisher=[[University of Oklahoma Press]] |isbn=9780806153926 |oclc=959274480 }}
+* {{cite web |author=Sandi Hemmerlein |date=September 6, 2019 |language=en |title=Beyond Gene Autry: The Making of the Singing Cowboy Myth |website=PBS |url=https://www.pbssocal.org/country-music/beyond-gene-autry-making-singing-cowboy-myth/}}
 
 ==Notes==
 {{reflist|30em|group=Note}}
@@ -845,8 +843,8 @@ From 1934 to 1953, Autry appeared in 93 films.<ref name="magers-21-336">{{harvnb
 {{Gene Autry|state=expanded}}
 {{1960s Country Music Hall of Fame}}
 {{Los Angeles Angels}}
-{{Los Angeles Angels of Anaheim retired numbers}}
-{{Los Angeles Angels of Anaheim owners}}
+{{Los Angeles Angels retired numbers}}
+{{Los Angeles Angels owners}}
 {{Angels Hall of Fame}}
 {{Authority control}}
 {{Portal bar|Biography|Radio|Film|Television|Texas|Oklahoma|California}}
@@ -913,5 +911,5 @@ From 1934 to 1953, Autry appeared in 93 films.<ref name="magers-21-336">{{harvnb
 [[Category:Victor Records artists]]
 [[Category:Vocalion Records artists]]
 [[Category:Western (genre) television actors]]
-[[Category:Yodelers]]
+[[Category:American yodelers]]
 [[Category:Western (genre) heroes and heroines]]

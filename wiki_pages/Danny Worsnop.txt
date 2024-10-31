@@ -46,7 +46,7 @@
 | website         = {{URL|dannyworsnop.com}}
 }}
 
-'''Danny Robert Worsnop''' (born 4 September 1990) is an English singer most prominently known as the lead vocalist of rock bands [[Asking Alexandria]] and [[We Are Harlot]].<ref name=":1">{{cite web|title=Danny Worsnop starts new band|url=http://www.sputnikmusic.com/news/31203/Danny-Worsnop-starts-new-band/|website=Sputnikmusic|access-date=2 June 2014}}</ref> He has worked with several artists including [[I See Stars]], [[With One Last Breath]], [[Breathe Carolina]], [[Memphis May Fire]], [[The Word Alive]], [[All That Remains (band)|All That Remains]], and Testarossa, providing guest vocals on several songs.<ref>{{cite web|title=Danny Worsnop|url=http://www.allmusic.com/artist/danny-worsnop-mn0002529691|work=allmusic.com|publisher=AllMusic|access-date=10 April 2013}}</ref>
+'''Danny Robert Worsnop''' (born 4 September 1990) is an English singer most prominently known as the lead vocalist of rock bands [[Asking Alexandria]] and [[We Are Harlot]].<ref name=":1">{{cite web|title=Danny Worsnop starts new band|url=http://www.sputnikmusic.com/news/31203/Danny-Worsnop-starts-new-band/|website=Sputnikmusic|access-date=2 June 2014}}</ref> He has worked with several artists including [[I See Stars]], [[With One Last Breath]], [[Breathe Carolina]], [[Memphis May Fire]], [[The Word Alive]], [[All That Remains (band)|All That Remains]], The Funeral Portrait and Testarossa, providing guest vocals on several songs.<ref>{{cite web|title=Danny Worsnop|url=http://www.allmusic.com/artist/danny-worsnop-mn0002529691|work=allmusic.com|publisher=AllMusic|access-date=10 April 2013}}</ref>
 
 Worsnop also maintains a solo music career. He released his debut solo full-length [[country music|country]]-inspired studio album, ''The Long Road Home'', in 2017. He has since released his second studio album ''Shades of Blue'' in 2019 through [[Sumerian Records]], followed by the two standalone singles "Another You" and "Happy".<ref name="APInterview">{{cite web|url=https://www.altpress.com/features/danny-worsnop-shades-of-blue-interview/|title=Danny Worsnop warns fans to "expect the unexpected" on new solo album|website=AltPress|access-date=9 May 2019|date=9 May 2019}}</ref><ref name="GhostCult">{{cite web|url=https://www.ghostcultmag.com/album-review-danny-worsnop-shades-of-blue-sumerian-records/|title=Danny Worsnop – Shades of Blue|website=Ghost Cult|access-date=7 May 2019|date=7 May 2019}}</ref><ref>{{cite web|url=https://loudwire.com/asking-alexandria-danny-worsnop-another-you-solo-song/|title=Asking Alexandria's Danny Worsnop Gets Soulful on 'Another You' Solo Song|website=Loudwire|access-date=27 December 2019|date=27 December 2019}}</ref><ref>{{cite web|url=https://www.kerrang.com/the-news/listen-to-asking-alexandria-frontman-danny-worsnops-new-solo-song-happy/|title=Listen To Asking Alexandria Frontman Danny Worsnop's New Solo Song, Happy|website=Kerrang!|access-date=12 March 2020|date=12 March 2020}}</ref>
 
@@ -427,7 +427,7 @@ The following is series of lists that include albums and singles released by ban
 ! Year
 ! Band
 |-
-! scope="row" | "[[The Final Episode (Let's Change the Channel)]]"
+! scope="row" | "[[Final Episode (Let's Change the Channel)]]"
 | 2009
 | rowspan="19" | [[Asking Alexandria]]
 |-
@@ -445,7 +445,7 @@ The following is series of lists that include albums and singles released by ban
 |-
 ! scope="row" | "Someone, Somewhere"
 |-
-! scope="row" | "The Final Episode (Let's Change the Channel)" <small>([[Borgore]] remix)</small>
+! scope="row" | "Final Episode (Let's Change the Channel)" <small>([[Borgore]] remix)</small>
 |-
 ! scope="row" | "Closure"
 |-

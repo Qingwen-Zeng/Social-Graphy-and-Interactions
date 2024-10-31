@@ -14,7 +14,7 @@
 | death_place       = [[New York City]], U.S.
 | genre             = {{hlist|[[Jazz]]|[[modal jazz]]|[[third stream]]|[[cool jazz]]|[[smooth jazz]]|[[post-bop]]}}
 | occupation        = {{hlist|Musician|composer|arranger|conductor}}
-| instrument        = Piano
+| instrument        = [[Piano]]
 | discography       = [[Bill Evans discography]]
 | years_active      = 1950s–1980<ref>{{cite web|last=Ginell|first=Richard|url=http://www.allmusic.com/artist/bill-evans-p6477|title=Bill Evans|website=AllMusic|access-date=April 9, 2012}}</ref>
 | label             = {{hlist|[[Riverside Records|Riverside]]|[[Verve Records|Verve]]|[[Fantasy Records|Fantasy]]}}
@@ -470,3 +470,4 @@ Evans influenced the character Seb's wardrobe in the 2016 film ''[[La La Land (f
 [[Category:20th-century American male musicians]]
 [[Category:Bill Evans| ]]
 [[Category:Bill Evans Trio members]]
+[[Category:DownBeat Jazz Hall of Fame members]]

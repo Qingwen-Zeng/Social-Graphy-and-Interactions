@@ -7,7 +7,7 @@
 | image_size      = 
 | birth_name      = Hubert Neal McGaughey Jr.
 | alt = Singer Neal McCoy at the edge of a stage, holding his arms out.
-| alias           = Neal McCoy<!--Not a typo; he did record as "Neal McGoy" with a G early in his career-->
+| alias           = Neal McGoy
 | birth_date      = {{birth date and age|1958|07|30}}<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p1720|pure_url=yes}} |title=Neal McCoy Biography |access-date=2007-12-23 |last=Huey |first=Steve |work=[[Allmusic]]}}</ref>
 | birth_place     = [[Jacksonville, Texas]], U.S.
 | origin          = [[Longview, Texas]], U.S.

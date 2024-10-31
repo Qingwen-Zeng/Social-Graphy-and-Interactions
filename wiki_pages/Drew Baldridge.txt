@@ -45,11 +45,20 @@ In 2019, Baldridge's label Cold River closed. As a result, he founded his own la
 ! scope="row"| ''Dirt on Us'' 
 |
 * Release date: June 10, 2016
-* Label: Cold River
+* Label: Lyric Ridge
 * Formats: CD, digital download
 | 111
 | 11
 | 8
+|-
+! scope="row"| ''Country Born''
+|
+* Release date: September 30, 2022
+* Label: Cold River
+* Formats: CD, digital download
+|—
+|—
+|—
 |}
 
 ===Compilation albums===
@@ -188,7 +197,7 @@ In 2019, Baldridge's label Cold River closed. As a result, he founded his own la
 | —
 | —
 | —
-| rowspan="7" {{Non-album singles}}
+| rowspan="6" {{Non-album singles}}
 |-
 ! scope="row"| "When I Fall"<ref>{{Cite web|url=https://music.apple.com/us/album/when-i-fall-single/1517040312|title=When I Fall – Single by Drew Baldridge on Apple Music|publisher=[[Apple Music]]|access-date=June 22, 2021}}</ref>
 | —
@@ -222,11 +231,20 @@ In 2019, Baldridge's label Cold River closed. As a result, he founded his own la
 | —
 |-
 | 2023
-! scope="row"| "She's Somebody's Daughter" (Reimagined)
+! scope="row"| "[[She's Somebody's Daughter]]" (Reimagined)
 | 93
 | 29
 | 3
 | 22
+| ''Country Born''
+|-
+|2024
+! scope="row"| "Tough People"
+|—
+|—
+|—
+|—
+|{{N/A}}
 |}
 
 ===Music videos===

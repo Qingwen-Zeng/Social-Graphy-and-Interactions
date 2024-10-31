@@ -81,6 +81,37 @@ Each year, Worley hosts a Charity Foundation Event, which is called the "Tenness
 ;Compilation albums
 *''[[Have You Forgotten? (album)|Have You Forgotten?]]'' (2003)
 
+== Awards and nominations ==
+=== Academy of Country Music Awards ===
+
+{{awards table}}
+|-
+|[[38th Academy of Country Music Awards|2003]]
+|Darryl Worley
+|[[Academy of Country Music Award for New Male Artist of the Year|Top New Male Vocalist]]
+|{{nom}}
+|}
+
+=== Country Music Association Awards ===
+
+{{awards table}}
+|-
+|[[2002 Country Music Association Awards|2002]]
+|rowspan=2| Darryl Worley
+|rowspan=2| [[Country Music Association Award for New Artist of the Year|Horizon Award]]
+|{{nom}}
+|-
+|rowspan=3|[[2003 Country Music Association Awards|2003]]
+|{{nom}}
+|-
+|rowspan=2|"[[Have You Forgotten?]]"
+|[[Country Music Association Award for Single of the Year|Single of the Year]]
+|{{nom}}
+|-
+|[[Country Music Association Award for Song of the Year|Song of the Year]]
+|{{nom}}
+|}
+
 ==References==
 {{reflist}}
 

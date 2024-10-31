@@ -4,7 +4,6 @@
 {{Use dmy dates|date=September 2021}}
 {{multiple issues|
 {{BLP sources|date=March 2010}}
-{{BLP sources|date=February 2019}}
 {{original research|date=February 2019}}
 }}
 
@@ -32,7 +31,7 @@
 | birth_date       = {{Birth date and age|df=yes|1948|2|28}}
 | birth_place      = [[Brantford]], [[Ontario]], Canada
 | party            = Non-affiliated (since 2022)
-| otherparty       = {{Unbulleted list|[[Coalition of Progressive Electors|COPE]] (2002–2005)|[[Vision Vancouver]] (2005)|[[Liberal Party of Canada|Liberal]] (2005–2014)|[[Senate Liberal Caucus]] (2014–2016)|[[Independent Senators Group]] (2017–2019)|[[Canadian Senators Group]] (2019–2022)}}
+| otherparty       = {{Unbulleted list|[[Coalition of Progressive Electors|COPE]] (2002–2005)|[[Vision Vancouver]] (2005)|[[Liberal Party of Canada|Liberal]] (2005–2014)|[[Senate Liberal Caucus]]<br>(2014–2016)|[[Independent Senators Group]] (2017–2019)|[[Canadian Senators Group]] (2019–2022)}}
 | spouse           =
 | relations        =
 | children         =
@@ -90,7 +89,7 @@ On 6 April 2016, Campbell left the [[Senate Liberal Caucus]] to sit as an Indepe
 [[Category:Mayors of Vancouver]]
 [[Category:1948 births]]
 [[Category:Living people]]
-[[Category:21st-century mayors of places in Canada]]
+[[Category:21st-century mayors of places in British Columbia]]
 [[Category:Canadian senators from British Columbia]]
 [[Category:Liberal Party of Canada senators]]
 [[Category:Independent Canadian senators]]

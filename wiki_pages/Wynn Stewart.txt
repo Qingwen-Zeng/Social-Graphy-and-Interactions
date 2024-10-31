@@ -1,22 +1,22 @@
 {{Short description|American country singer-songwriter (1934–1985)}}
 {{Use mdy dates|date=June 2020}}
 {{Infobox musical artist
-|name            = Wynn Stewart
-|image             = Wynn Stewart.jpg
-|caption        = Stewart in the 1950s
-|image_size        =
-|background      = solo_singer
-|birth_name      = Winford Lindsey Stewart
-|alias           = Wynn Stewart
-|birth_date            = {{birth date|1934|6|7}}
-|death_date            = {{death date and age|1985|7|17|1934|6|7}}
-|origin          = [[Morrisville, Missouri|Morrisville]], Missouri
-|instrument      = vocals, guitar
-|genre           = [[Country music|country]], [[Bakersfield sound]], [[rockabilly]]
-|occupation      = singer-songwriter
-|years_active    = 1954–1985
-|label           = [[Capitol Records]] <br> [[Playboy Records]] <br> [[Jackpot Records]]
-|website             = [http://www.wynnstewart.com/ Wynn Stewart Official Site]
+| name              = Wynn Stewart
+| image             = Wynn Stewart.jpg
+| caption           = Stewart in the 1950s
+| image_size        = 
+| background        = solo_singer
+| birth_name        = Winford Lindsey Stewart
+| alias             = Wynn Stewart
+| birth_date        = {{birth date|1934|6|7}}
+| death_date        = {{death date and age|1985|7|17|1934|6|7}}
+| origin            = [[Morrisville, Missouri|Morrisville]], Missouri
+| instrument        = vocals, guitar
+| genre             = [[Country music|Country]], [[Bakersfield sound]], [[rockabilly]]
+| occupation        = singer-songwriter
+| years_active      = 1954–1985
+| label             = [[Capitol Records]] <br> [[Playboy Records]] <br> [[Jackpot Records]]
+| website           = [http://www.wynnstewart.com/ Wynn Stewart Official Site]
 }}
 
 '''Winford Lindsey''' "'''Wynn'''" '''Stewart''' (June 7, 1934 – July 17, 1985) was an American [[country music]] singer and songwriter.<ref name="Larkin50">{{cite book|title=[[Encyclopedia of Popular Music|The Virgin Encyclopedia of Fifties Music]]|editor=Colin Larkin|editor-link=Colin Larkin (writer)|publisher=[[Virgin Books]]|date=2002|edition=Third|isbn=1-85227-937-0|pages=420/1}}</ref> He was one of the progenitors of the [[Bakersfield sound]]. Although not a huge chart success, he was an inspiration to such artists as [[Buck Owens]], [[Merle Haggard]] and [[Nick Lowe]].

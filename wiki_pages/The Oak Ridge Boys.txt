@@ -295,7 +295,8 @@ PlotData=
   bar:Sterban     from:07/01/1972 till:end        color:Bass
   bar:McCune      from:02/01/2023 till:end        color:Bass width:3
   bar:Bonsall     from:01/01/1973 till:07/09/2024 color:Tenor
-  bar:James       from:12/30/2023 till:end        color:Tenor width:3
+  bar:James       from:12/30/2023 till:07/09/2024 color:Tenor width:3
+  bar:James       from:07/09/2024 till:end        color:Tenor
 
 LineData =
  width:1

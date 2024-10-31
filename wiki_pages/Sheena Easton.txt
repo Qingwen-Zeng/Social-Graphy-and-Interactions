@@ -171,7 +171,7 @@ Easton resides in [[Henderson, Nevada]], US.<ref>{{cite news|url=https://lasvega
 |1996
 |''[[All Dogs Go to Heaven 2]]''
 |Sasha la Fleur
-|Voice<ref name="btva">{{cite web |title=Sheena Easton (visual voices guide) |url=http://www.behindthevoiceactors.com/Sheena-Easton/ |access-date=29 December 2023 |publisher=Behind The Voice Actors}} A green check mark indicates that a role has been confirmed using a screenshot (or collage of screenshots) of a title's list of voice actors and their respective characters found in its opening and/or closing credits and/or other reliable sources of information.</ref>
+|Voice<ref name="btva">{{cite web |title=Sheena Easton (visual voices guide) |url=http://www.behindthevoiceactors.com/Sheena-Easton/ |access-date=29 December 2023 |publisher=Behind The Voice Actors}} A green check mark indicates that a role has been confirmed using a screenshot (or collage of screenshots) of a title's list of voice actors and their respective characters found in its credits or other reliable sources of information.</ref>
 |-
 |1998
 |''[[An All Dogs Christmas Carol]]''

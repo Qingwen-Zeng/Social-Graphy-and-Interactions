@@ -39,16 +39,22 @@ In 2023, Wetmore signed with Back Blocks Music,<ref name="musicrow"/> and then l
 
 ==Discography==
 ===Extended plays===
-{| class="wikitable plainrowheaders"
-|+Extended play, with selected details
-! style="width:10em;"| Title
-! style="width:20em;"| Details
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extended play, with selected details and peak chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="3"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[Billboard 200|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/billboard-200/2024-10-19/|title=''Billboard'' 200: Week of October 19, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 15, 2024}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Top Country Albums|US<br />Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/country-albums/2024-10-19/|title=Top Country Albums: Week of October 19, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 15, 2024}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Canadian Albums Chart|CAN]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canadian-albums/2024-10-19/|title=''Billboard'' Canadian Albums: Week of October 19, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 15, 2024}}</ref>
 |-
 ! scope="row"| ''[[Waves on a Sunset]]''
 | 
 * Release date: October 4, 2024
 * Label: Back Blocks / [[Universal Music Group Nashville|UMG Nashville]]
 * Format: Digital download, streaming
+| 87 || 18 || 78
 |}
 
 ===Singles===
@@ -60,13 +66,15 @@ In 2023, Wetmore signed with Back Blocks Music,<ref name="musicrow"/> and then l
 ! scope="col" rowspan="2"| [[Music recording certification|Certifications]]
 ! scope="col" rowspan="2"| Album
 |-
-! scope="col" style="width:3em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2024-06-29/|title=''Billboard'' Hot 100: Week of June 29, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=June 25, 2024}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref>Peaks on the ''Billboard'' Hot 100:
+* "Wine Into Whiskey": {{cite magazine|url=https://www.billboard.com/charts/hot-100/2024-06-29/|title=Billboard Hot 100: Week of June 29, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=June 25, 2024}}
+* "Wind Up Missin' You": {{cite magazine|url=https://www.billboard.com/charts/hot-100/2024-10-19/|title=''Billboard'' Hot 100: Week of October 19, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 15, 2024}}</ref>
 ! scope="col" style="width:3em;font-size:90%;"| [[Hot Country Songs|US Country]]<br /><ref name="Country Songs">{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0429.pdf|title=Billboard Country Update|magazine=Billboard|access-date=April 30, 2024}}</ref>
 ! scope="col" style="width:3em;font-size:90%;"| [[Country Airplay|US Country Airplay]]<br /><ref>Peaks on the Country Airplay chart:
 * "Wine Into Whiskey": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0426.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=April 26, 2024|access-date=April 27, 2024}}
-* "Wind Up Missin' You": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1011.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 11, 2024|access-date=October 12, 2024}}</ref>
+* "Wind Up Missin' You": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1018.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 18, 2024|access-date=October 19, 2024}}</ref>
 ! scope="col" style="width:3em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canadian-hot-100/2024-04-13/|title=''Billboard'' Canadian Hot 100: Week of April 13, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=April 9, 2024}}</ref>
-! scope="col" style="width:3em;font-size:90%;"| [[Canada Country|CAN<br />Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-05/|title=Canada Country: Week of October 5, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 1, 2024}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Canada Country|CAN<br />Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-26/|title=Canada Country: Week of October 26, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 22, 2024}}</ref>
 ! scope="col" style="width:3em;font-size:90%;"| [[Official New Zealand Music Chart|NZ<br />Hot]]<br /><ref>{{cite web|url=https://nztop40.co.nz/chart/hotsingles?chart=5786|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=April 8, 2024|access-date=April 5, 2024}}</ref>
 |-
 ! scope="row" | "[[Wine Into Whiskey]]"
@@ -77,7 +85,7 @@ In 2023, Wetmore signed with Back Blocks Music,<ref name="musicrow"/> and then l
 | rowspan="2" | ''Waves on a Sunset''
 |-
 ! scope="row"| "[[Wind Up Missin' You]]"<ref name="Country Aircheck">{{cite web|url=https://assets.countryaircheck.com/public/abd699a8-552f-4c08-abe4bd03d380cacc/Issue-911-May-28-2024.pdf|title=Country Aircheck Weekly May 28, 2024, Issue 911|date=May 28, 2024|website=Country Aircheck|access-date=May 29, 2024}}</ref>
-| 63 || 11 || 21 || 42 || 36 || 13
+| 43 || 11 || 17 || 42 || 34 || 13
 |
 * RIAA: Gold<ref name="riaa"/>
 |}

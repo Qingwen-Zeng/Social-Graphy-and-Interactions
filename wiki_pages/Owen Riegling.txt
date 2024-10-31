@@ -63,7 +63,7 @@ In June 2023, Riegling signed a record deal with [[Universal Music Canada]] and 
 ! style="width:4em;"| [[Canada Country|CAN Country]]<br /><ref name="Can Country">References for Canada Country:
 *"Love (The Sweater Song)": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2023-10-14/|title=Canada Country chart for October 14, 2023|magazine=Billboard|access-date=December 24, 2023|url-access=subscription}}
 *"Old Dirt Roads": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-05-18/|title=Canada Country chart for May 18, 2024|magazine=Billboard|access-date=May 14, 2024|url-access=subscription}}
-*"Moonshines": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-12/|title=Canada Country chart for October 12, 2024|magazine=Billboard|access-date=October 8, 2024|url-access=subscription}}</ref>
+*"Moonshines": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-19/|title=Canada Country chart for October 19, 2024|magazine=Billboard|access-date=October 15, 2024|url-access=subscription}}</ref>
 |-
 ! scope="row"| "Love (The Sweater Song)"
 | rowspan="2"| 2023
@@ -79,7 +79,7 @@ In June 2023, Riegling signed a record deal with [[Universal Music Canada]] and 
 |-
 ! scope="row"| "Moonshines"
 | 2024
-| — || 12
+| — || 8
 |
 |}
 

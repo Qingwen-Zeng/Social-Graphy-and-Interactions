@@ -34,8 +34,8 @@ He pivoted to recording [[country music]] and in September 2023, it was announce
 ! scope="col" rowspan="2" style="width:18em;" | Album details
 ! scope="col" colspan="3" | Peak chart positions
 |- style="font-size:smaller;"
-! scope="col" style="width:4em;" | [[Billboard 200|US]]<br /><ref>{{Cite web |last= |first= |date=2024-10-08 |title=Billboard 200™ |url=https://www.billboard.com/charts/billboard-200/2024-10-12/ |access-date=2024-10-08 |website=Billboard |language=en-US}}</ref>
-! scope="col" style="width:4em;" | [[Top Country Albums|US Country]]<br /><ref>{{Cite magazine |date= |title=Top Country Albums |url=https://www.billboard.com/charts/country-albums/2024-10-12/ |access-date=2024-10-08 |magazine=Billboard |language=en-US}}</ref>
+! scope="col" style="width:4em;" | [[Billboard 200|US]]<br /><ref>{{Cite web |last= |first= |date=2024-10-19 |title=Billboard 200™ |url=https://www.billboard.com/charts/billboard-200/2024-10-19/ |access-date=2024-10-15 |website=Billboard |language=en-US}}</ref>
+! scope="col" style="width:4em;" | [[Top Country Albums|US Country]]<br /><ref>{{Cite magazine |date= |title=Top Country Albums |url=https://www.billboard.com/charts/country-albums/2024-10-19/ |access-date=2024-10-15 |magazine=Billboard |language=en-US}}</ref>
 ! scope="col" style="width:4em;" | [[Independent Albums|US Indie]]<br /><ref>{{Cite magazine |date= |title=Independent Albums |url=https://www.billboard.com/charts/independent-albums/ |access-date=2024-10-08 |magazine=Billboard |language=en-US}}</ref>
 |-
 ! scope="row" |''[[Cold Beer & Country Music]]''
@@ -43,7 +43,7 @@ He pivoted to recording [[country music]] and in September 2023, it was announce
 * Release date: April 5, 2024
 * Label: Leo33
 * Format: CD, digital download
-| 81 || 18 || 11
+| 72 || 14 || 11
 |}
 
 === Extended plays ===
@@ -67,14 +67,14 @@ He pivoted to recording [[country music]] and in September 2023, it was announce
 ! scope="col" colspan="4"| Peak chart positions
 ! scope="col" rowspan="2"| Album
 |-
-! scope="col" style="width:3em;font-size:85%"| [[Bubbling Under Hot 100|US<br />Bubbling]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/bubbling-under-hot-100-singles/2024-10-12/|title=Bubbling Under Hot 100: Week of October 12, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 8, 2024}}</ref>
-! scope="col" style="width:3em;font-size:85%"| [[Hot Country Songs|US Country]]<br /><ref name="BCU">{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1007.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 7, 2024|access-date=October 8, 2024}}</ref>
-! scope="col" style="width:3em;font-size:85%"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1004.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 4, 2024|access-date=October 5, 2024}}</ref>
-! scope="col" style="width:3em;font-size:85%"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-09-28|title=Canada Country: Week of September 28, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=September 24, 2024}}</ref>
+! scope="col" style="width:3em;font-size:85%"| [[Bubbling Under Hot 100|US<br />Bubbling]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/bubbling-under-hot-100-singles/2024-10-19/|title=Bubbling Under Hot 100: Week of October 19, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 15, 2024}}</ref>
+! scope="col" style="width:3em;font-size:85%"| [[Hot Country Songs|US Country]]<br /><ref name="BCU">{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1021.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 21, 2024|access-date=October 22, 2024}}</ref>
+! scope="col" style="width:3em;font-size:85%"| [[Country Airplay|US Country Airplay]]<br /><ref name="Country Airplay">{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1018.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 18, 2024|access-date=October 19, 2024}}</ref>
+! scope="col" style="width:3em;font-size:85%"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-26|title=Canada Country: Week of October 26, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 22, 2024}}</ref>
 |-
 ! scope="row" | "[[Sounds Like the Radio]]"
 | 2024
-| 12 || 32 || 19 || 39
+| 5 || 29 || 18 || 30
 | ''Cold Beer & Country Music''
 |}
 
@@ -83,15 +83,17 @@ He pivoted to recording [[country music]] and in September 2023, it was announce
 |+ List of other charted songs, with selected chart positions
 ! scope="col" rowspan="2"| Title
 ! scope="col" rowspan="2"| Year
-! scope="col" colspan="2"| Peak chart positions
+! scope="col" colspan="4"| Peak chart positions
 ! scope="col" rowspan="2"| Album
 |-
-! scope="col" style="width:3em;font-size:85%"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2024-10-12|title=''Billboard'' Hot 100: Week of October 12, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 8, 2024}}</ref>
+! scope="col" style="width:3em;font-size:85%"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2024-10-19|title=''Billboard'' Hot 100: Week of October 19, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 15, 2024}}</ref>
 ! scope="col" style="width:3em;font-size:85%"| [[Hot Country Songs|US Country]]<br /><ref name="BCU"/>
+! scope="col" style="width:3em;font-size:85%"| [[Country Airplay|US Country Airplay]]<br /><ref name="Country Aiplay"/>
+! scope="col" style="width:3em;font-size:85%"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canadian-hot-100/2024-10-19|title=''Billboard'' Canadian Hot 100: Week of October 19, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 15, 2024}}</ref>
 |-
 ! scope="row" | "[[I Never Lie]]"
 | 2024
-| 78 || 22
+| 68 || 21 || 49 || 79
 | ''Cold Beer & Country Music''
 |}
 

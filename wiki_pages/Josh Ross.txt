@@ -99,8 +99,10 @@ In 2024, Ross released the songs "[[Single Again (Josh Ross song)|Single Again]]
 *"Trouble": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2023-09-23|title=Canada Country chart for September 23, 2023|magazine=Billboard|access-date=September 19, 2023|url-access=subscription}}
 *"Ain't Doin' Jack": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-03-16|title=Canada Country chart for March 16, 2024|magazine=Billboard|access-date=March 12, 2024|url-access=subscription}}
 *"Single Again": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-12|title=Canada Country chart for October 12, 2024|magazine=Billboard|access-date=October 8, 2024|url-access=subscription}}</ref>
-! scope="col" style="width:4em;"| [[Hot Country Songs|US <br />Country]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2023_0710.pdf|title=Billboard Country Update – July 10, 2023|magazine=[[Billboard (magazine)|Billboard]]|access-date=July 11, 2023}}</ref>
-! scope="col" style="width:4em;"| [[Country Airplay|US <br />Country<br />Airplay]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1004.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 4, 2024|access-date=October 5, 2024}}</ref>
+! scope="col" style="width:4em;"| [[Hot Country Songs|US <br />Country]]<br /><ref>References for Hot Country Songs:
+*"Trouble": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2023_0710.pdf|title=Billboard Country Update – July 10, 2023|magazine=[[Billboard (magazine)|Billboard]]|access-date=July 11, 2023}}</ref>
+! scope="col" style="width:4em;"| [[Country Airplay|US <br />Country<br />Airplay]]<br /><ref>References for Country Airplay:
+*"Single Again": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1018.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 18, 2024|access-date=October 19, 2024}}</ref>
 ! scope="col" style="width:4em;"| [[Digital Songs|US <br/>Digital]]<br/><ref name="US Digital">References for US Digital Songs:
 *"Trouble": {{cite magazine|title=Digital Songs chart for May 20, 2023|url=https://www.billboard.com/charts/digital-song-sales/2023-05-20|magazine=[[Billboard (magazine)|Billboard]]|access-date=May 17, 2023}}</ref>
 |-
@@ -157,7 +159,7 @@ In 2024, Ross released the songs "[[Single Again (Josh Ross song)|Single Again]]
 | 60
 | 2
 | —
-| 48
+| 45
 | —
 | 
 | align="left"| ''Complicated''

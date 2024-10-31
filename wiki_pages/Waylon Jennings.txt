@@ -7,7 +7,7 @@
 | name              = Waylon Jennings
 | image             = Waylon Jennings in 1976.jpg
 | caption           = Jennings performing on the [[Johnny Cash]] Spring Fever Special in 1976
-| birth_name        = Wayland Arnold Jennings<ref name="Country Rebel">{{cite news|url=https://countryrebel.com/waylon-jennings-real-name-wasnt-waylon/|title=Waylon Jennings' Real Name Wasn't 'Waylon'|author=Raye, Miranda|date=March 14, 2019|access-date=March 18, 2023|website=countryrebel.com}}</ref>
+| birth_name        = Waylon Arnold Jennings<ref name="Country Rebel">{{cite news|url=https://countryrebel.com/waylon-jennings-real-name-wasnt-waylon/|title=Waylon Jennings' Real Name Wasn't 'Waylon'|author=Raye, Miranda|date=March 14, 2019|access-date=March 18, 2023|website=countryrebel.com}}</ref>
 | alias             = {{Hlist|Hoss|Chief|Watasha|Waymore}}
 | birth_date        = {{birth date|1937|6|15}}
 | birth_place       = [[Littlefield, Texas]], U.S.

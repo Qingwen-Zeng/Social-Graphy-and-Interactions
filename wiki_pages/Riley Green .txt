@@ -70,10 +70,12 @@ He collaborated on a song with [[Justin Moore]] for his 2023 album, ''Stray Dog'
 |-
 ! scope="row"| ''Don't Mind If I Do''
 |
-* Scheduled: October 18, 2024
+* Release date: October 18, 2024
 * Label: Nashville Harbor
 * Format: CD, digital download, streaming
-| colspan="3"| To be released<ref>{{cite web|url=https://holler.country/news/breaking/riley-green-slates-new-album-don-t-mind-if-i-do-for-october/|title=Riley Green Slates New Album, 'Don't Mind If I Do,' for October|author=Lydia Farthing|date=September 3, 2024|website=Holler|access-date=September 3, 2024}}</ref>
+| — || —
+|
+|- <ref>{{cite web|url=https://holler.country/news/breaking/riley-green-slates-new-album-don-t-mind-if-i-do-for-october/|title=Riley Green Slates New Album, 'Don't Mind If I Do,' for October|author=Lydia Farthing|date=September 3, 2024|website=Holler|access-date=September 3, 2024}}</ref>
 |}
 
 ===Extended plays===
@@ -160,11 +162,11 @@ He collaborated on a song with [[Justin Moore]] for his 2023 album, ''Stray Dog'
 ! scope="col" rowspan="2"| Certifications
 ! scope="col" rowspan="2"| Album
 |- style="font-size:smaller;"
-! scope="col" width="45"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/hsi/ | title=Riley Green Chart History: Billboard Hot 100 | magazine=Billboard | accessdate=October 8, 2024}}</ref>
-! scope="col" width="45"| [[Hot Country Songs|US Country Songs]]<br /><ref name="Country Songs">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/csi/ | title=Riley Green Chart History: Country Songs | magazine=Billboard | accessdate=October 8, 2024}}</ref>
+! scope="col" width="45"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/hsi/ | title=Riley Green Chart History: Billboard Hot 100 | magazine=Billboard | accessdate=October 15, 2024}}</ref>
+! scope="col" width="45"| [[Hot Country Songs|US Country Songs]]<br /><ref name="Country Songs">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/csi/ | title=Riley Green Chart History: Country Songs | magazine=Billboard | accessdate=October 22, 2024}}</ref>
 ! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref name="Country Airplay">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/csa/ | title=Riley Green Chart History: Country Airplay | magazine=Billboard | accessdate=October 5, 2024}}</ref>
-! scope="col" width="45"| [[Canadian Hot 100|CAN]]<br /><ref name="Canadian Hot 100">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/can/ | title=Riley Green Chart History: Canadian Hot 100 | magazine=Billboard | accessdate=July 9, 2024}}</ref>
-! scope="col" width="45"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/ccw/ | title=Riley Green Chart History: Canada Country | magazine=Billboard | accessdate=October 12, 2024}}</ref>
+! scope="col" width="45"| [[Canadian Hot 100|CAN]]<br /><ref name="Canadian Hot 100">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/can/ | title=Riley Green Chart History: Canadian Hot 100 | magazine=Billboard | accessdate=October 22, 2024}}</ref>
+! scope="col" width="45"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/ccw/ | title=Riley Green Chart History: Canada Country | magazine=Billboard | accessdate=October 19, 2024}}</ref>
 |-
 | 2018
 ! scope="row"| "[[There Was This Girl]]"
@@ -275,7 +277,7 @@ He collaborated on a song with [[Justin Moore]] for his 2023 album, ''Stray Dog'
 |-
 | 2024
 ! scope="row"| "[[You Look Like You Love Me]]"<br />{{small|([[Ella Langley]] featuring Riley Green)}}
-| 33 || 10 || 12 || 67 || 33 || 20 || 66 || 19 || 59 || 89
+| 30 || 9 || 10 || 67 || 33 || 16 || 66 || 19 || 59 || 89
 |
 | align="left" | ''[[Hungover (album)|Hungover]]''
 |}
@@ -285,29 +287,30 @@ He collaborated on a song with [[Justin Moore]] for his 2023 album, ''Stray Dog'
 |+List of other charted and certified songs, with selected certifications
 ! scope="col" rowspan="2" | Year
 ! scope="col" rowspan="2" | Title
-! scope="col" colspan="2" | Peak chart positions
+! scope="col" colspan="3" | Peak chart positions
 ! scope="col" rowspan="2" | Certifications
 ! scope="col" rowspan="2" | Album
 |- style="font-size:smaller;"
 ! scope="col" width="45"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100"/>
 ! scope="col" width="45"| [[Hot Country Songs|US Country Songs]]<br /><ref name="Country Songs"/>
+! scope="col" width="45"| [[Canadian Hot 100|CAN]]<br /><ref name="Canadian Hot 100"/>
 |-
 | rowspan="2" |2018
 ! scope="row" |"Bury Me in Dixie"
-| — || —
+| — || — || —
 |
 *RIAA: Gold<ref name="riaa" />
 |''Outlaws Like Us''
 |-
 ! scope="row" |"When She Comes Home Tonight"
-| — || —
+| — || — || —
 |
 *RIAA: Gold<ref name="riaa" />
 | align="left" |''Riley Green''
 |-
 | 2024
 ! scope="row" |"Worst Way"
-| 100 || 24
+| 93 || 24 || 84
 |
 | align="left" |''Way Out Here''
 |}

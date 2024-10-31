@@ -13,7 +13,7 @@
 | death_date        = {{death date and age|1972|06|22|1913|06|27}}
 | death_place       = [[McConnellsburg, Pennsylvania]], U.S.
 | instrument        = Guitar
-| genre             = [[Country]]
+| genre             = [[Country music|Country]]
 | occupation        = {{hlist|Singer|songwriter|musician}}
 | years_active      = 1942–1970
 }}
@@ -25,12 +25,10 @@ Britt was born on a farm near [[Marshall, Arkansas]].<ref name="LarkinCountry">{
 
 Britt was born incredibly sick, and therefore wasn’t named until he was over a year old. James after his father and Elton after the man who looked after his health as a baby. Because of his poor health, Britt was allegedly spoiled copiously as a baby and was given the nickname “cute.”
 
-Britt started playing guitar aged 10, most likely inspired by his family who were all also had an interest in music, and eventually Britt would discover Jimmie Rodgers, which inspired him to learn to yodel, which he learned to do exceptionally well, his breath control being so good that he could often hold his breath for minutes at a time underwater. 
+Britt started playing guitar aged 10, most likely inspired by his family who were all also had an interest in music, and eventually Britt would discover Jimmie Rodgers, which inspired him to learn to yodel, which he learned to do exceptionally well, his breath control being so good that he could often hold his breath for minutes at a time underwater.
 
 Britt’s career kickstarted in 1930 when Britt was hired to replace Hugh Ashley (or Hobart Walton) in singing group The Beverly Hill Billies. 
 Britt came up with his stage name after someone hired at The Beverly Hill Billies production company said that James Baker didn’t sound “hill-billy enough.”
-
-
 
 Britt recorded over 600 sides and 60 albums for [[RCA Victor]] and other labels in more than a 30-year span, and is best known for such hit songs (several of which he wrote or co-wrote) as "[[Someday (You'll Want Me to Want You)]]", "[[Detour (song)|Detour]]", "Chime Bells", "Maybe I'll Cry Over You", "Pinto Pal", and the million-selling wartime hit "[[There's a Star-Spangled Banner Waving Somewhere]]".<ref name="LarkinCountry"/> The recording had sold a million discs by 1944 and it was awarded a [[music recording sales certification|gold disc]] by the [[Recording Industry Association of America|RIAA]].<ref name="The Book of Golden Discs">{{cite book
 | first= Joseph
@@ -48,7 +46,7 @@ Britt recorded over 600 sides and 60 albums for [[RCA Victor]] and other labels 
 He would also partner with fellow yodeller and country singer, Rosalie Allen, going on to record multiple songs and albums together.
 
 A singer, bandleader, radio and television performer, songwriter and yodeler, he starred in at least two films in the late 1940s, and had hit records as late as 1968 with "The Jimmie Rodgers Blues".<ref name="LarkinCountry"/> In [[1960 United States presidential election|1960]], as part of a publicity stunt, Britt briefly ran for the [[Democratic Party (United States)|Democratic]] [[1960 Democratic Party presidential primaries|presidential nomination]],<ref name="auto">{{Cite web|url=https://www.arkansasonline.com/news/2016/may/15/elton-britt-s-big-break-20160515/|title=Elton Britt's big break|date=15 May 2016|website=Arkansasonline.com|access-date=August 4, 2021}}</ref> something many believe was a stunt pulled by his then-manager, Aubrey Mayhew. 
-Britt would take frequent but temporary retirements, during one of which he briefly made a career mining [[uranium]] in Western America, leading his then wife, Penny to write Uranium Fever which he would go on to sing.  
+Britt would take frequent but temporary retirements, during one of which he briefly made a career mining [[uranium]] in Western America, leading his then wife, Penny to write Uranium Fever which he would go on to sing.
 
 On June 22, 1972, five days before his 59th birthday, Britt suffered a heart attack while driving his car and died in a [[McConnellsburg, Pennsylvania]], hospital the next day.<ref name="auto"/> He was buried in the Odd Fellows Cemetery in [[Broad Top, Pennsylvania]].
 
@@ -240,7 +238,7 @@ His song "Uranium Fever" is featured in the ''[[Bethesda Softworks]]'' video gam
 [[Category:Singer-songwriters from Arkansas]]
 [[Category:People from Searcy County, Arkansas]]
 [[Category:RCA Victor artists]]
-[[Category:Yodelers]]
+[[Category:American yodelers]]
 [[Category:Place of death missing]]
 [[Category:20th-century American singer-songwriters]]
 [[Category:Country musicians from Arkansas]]

@@ -1,4 +1,4 @@
-{{short description|American musician (born 1969)}}
+{{short description|American singer-songwriter (born 1969)}}
 {{Use American English|date=July 2021}}
 {{Use mdy dates|date=July 2021}}
 {{Infobox person
@@ -10,8 +10,7 @@
 | birth_place        = [[Fullerton, California]], U.S.
 | education          = [[California State University, Fullerton]]
 | occupation         = {{flatlist|
-* Singer
-* songwriter
+* Singer-songwriter
 * record producer
 * fashion designer
 * actress
@@ -53,7 +52,7 @@
 | signature          = Gwen Stefani's signature.svg
 }}
 
-'''Gwen Renée Stefani Shelton'''<!-- Do not change her last name unless a reliable source can also be provided. --> ({{IPAc-en|s|t|ə|ˈ|f|ɑː|n|i}} {{respell|stə|FAH|nee}}; born October 3, 1969) is an American singer-songwriter. She is a co-founder, lead vocalist, and the primary songwriter of the band [[No Doubt]], whose singles include "[[Just a Girl]]", "[[Spiderwebs (song)|Spiderwebs]]", and "[[Don't Speak]]", from their 1995 breakthrough studio album ''[[Tragic Kingdom]]'', as well as "[[Hey Baby (No Doubt song)|Hey Baby]]" and "[[It's My Life (Talk Talk song)#No Doubt version|It's My Life]]" from later albums.
+'''Gwen Renée Stefani Shelton'''<!-- Do not change her last name unless a reliable source can also be provided. --> ({{IPAc-en|s|t|ə|ˈ|f|ɑː|n|i}} {{respell|stə|FAH|nee}}; born October 3, 1969) is an American singer-songwriter and fashion designer. She is a co-founder, lead vocalist, and the primary songwriter of the band [[No Doubt]], whose singles include "[[Just a Girl]]", "[[Spiderwebs (song)|Spiderwebs]]", and "[[Don't Speak]]", from their 1995 breakthrough studio album ''[[Tragic Kingdom]]'', as well as "[[Hey Baby (No Doubt song)|Hey Baby]]" and "[[It's My Life (Talk Talk song)#No Doubt version|It's My Life]]" from later albums.
 
 During the band's hiatus, Stefani embarked on a solo [[Pop music|pop]] career in 2004 by releasing her debut studio album ''[[Love. Angel. Music. Baby.]]'' Inspired by pop music from the 1980s, the album was a critical and commercial success.<ref name="nme">{{cite web |last=Murison |first=Krissi |url=https://www.nme.com/reviews/gwen-stefani/7561 |title=Gwen Stefani : Love Angel Music Baby |work=[[NME]] |date=December 10, 2004 |access-date=May 10, 2007 |archive-date=April 6, 2012 |archive-url=https://web.archive.org/web/20120406192513/http://www.nme.com/reviews/gwen-stefani/7561 |url-status=live }}</ref><ref name="hb">{{cite web |last=Collis |first=Clark |url=https://ew.com/article/2007/01/08/gwen-stefani-her-music-her-style-and-more/ |title=Holla Back |magazine=[[Entertainment Weekly]] |location=New York City |date=November 22, 2006 |access-date=April 17, 2007 |archive-date=April 2, 2007 |archive-url=https://web.archive.org/web/20070402044122/http://www.ew.com/ew/article/0%2C%2C1562569%2C00.html |url-status=live }}</ref> It spawned six singles, including "[[What You Waiting For?]]", "[[Rich Girl (Gwen Stefani song)|Rich Girl]]", "[[Hollaback Girl]]", and "[[Cool (Gwen Stefani song)|Cool]]". "Hollaback Girl" reached number one on the [[Billboard Hot 100|''Billboard'' Hot 100]] chart while also becoming the first US download to sell one million copies.<ref name="RSMillion">{{cite magazine |last=Hiatt |first=Brian |url=https://www.rollingstone.com/music/news/stefani-peas-lead-singles-boom-20060120 |title=Stefani, Peas Lead Singles Boom |magazine=Rolling Stone |date=January 19, 2006 |access-date=April 17, 2007 |archive-date=June 27, 2012 |archive-url=https://web.archive.org/web/20120627215634/http://www.rollingstone.com/music/news/stefani-peas-lead-singles-boom-20060120 |url-status=live }}</ref> In 2006, Stefani released her second studio album, ''[[The Sweet Escape]]''. Among the singles were "[[Wind It Up (Gwen Stefani song)|Wind It Up]]" and "[[The Sweet Escape (song)|The Sweet Escape]]", the latter of which was number three on the [[Billboard Hot 100|''Billboard'' Hot 100]] year-end chart of 2007.<ref>{{cite magazine |url=https://www.billboard.com/charts/year-end/2007/hot-100-songs |title=Year End Charts – Hot 100 |magazine=Billboard |year=2007 |access-date=November 29, 2019 |archive-date=December 7, 2019 |archive-url=https://web.archive.org/web/20191207211434/https://www.billboard.com/charts/year-end/2007/hot-100-songs |url-status=live }}</ref> Her third solo album, ''[[This Is What the Truth Feels Like]]'' (2016), was her first solo album to reach number one on the [[Billboard 200|''Billboard'' 200]] chart. Her fourth solo album and first full-length [[Christmas music|Christmas]] album, ''[[You Make It Feel Like Christmas]]'', was released in 2017 and charted 19 tracks on ''Billboard''{{'}}s [[Digital Songs|Holiday Digital Song Sales]] component chart in the United States. Stefani has released several singles with husband [[Blake Shelton]], including "[[Nobody but You (Blake Shelton and Gwen Stefani song)|Nobody but You]]" (2020), which reached number 18 in the US.
 
@@ -357,7 +356,7 @@ In a 2023 interview with ''[[Allure (magazine)|Allure]]'' magazine, Stefani stat
 [[Category:American women singer-songwriters]]
 [[Category:Brit Award winners]]
 [[Category:California State University, Fullerton people]]
-[[Category:Dance-pop musicians]]
+[[Category:American dance-pop musicians]]
 [[Category:Fullerton College alumni]]
 [[Category:Grammy Award winners]]
 [[Category:Interscope Records artists]]

@@ -329,12 +329,17 @@ Brett Kissel married Cecilia Friesen in July 2011 in Edmonton, Alberta. They liv
 | —{{efn-ua|"Two of Us" did not enter the ''Billboard'' Canadian Hot 100, but peaked at number 9 on the [[Canadian Digital Song Sales]] component chart.<ref name="CAN Digital"/>}}
 | 6
 |
-| rowspan="2" {{TBA}}
+| rowspan="3" {{TBA}}
 |-
 ! scope="row"| "[[Let Your Horses Run]]"
-| 2024
+| rowspan="2"| 2024
 | 89
 | 4
+|
+|-
+! scope="row"| "Another One"
+| —
+| —
 |
 |-
 | colspan="7" style="font-size:85%"| "—" denotes releases that did not chart

@@ -159,8 +159,8 @@ Scott and his wife, Blair Robinson, live in Nashville with their three children,
 ! scope="col" rowspan="2"| Album
 |- style="font-size:smaller;"
 ! scope="col" width="45"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100">{{cite magazine|url=http://www.billboard.com/artist/dylan-scott/chart-history/hsi|title=Dylan Scott Chart History: Billboard Hot 100 |magazine= Billboard|access-date=November 21, 2023}}</ref>
-! scope="col" width="45"| [[Hot Country Songs|US Country Songs]]<br /><ref name="Country Songs">{{cite magazine|url=http://www.billboard.com/artist/dylan-scott/chart-history/csi|title=Dylan Scott Chart History: Country Songs|magazine=Billboard|access-date=October 1, 2024}}</ref>
-! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref name="airplay">{{cite magazine|url=http://www.billboard.com/artist/dylan-scott/chart-history/csa|title=Dylan Scott Chart History: Country Airplay|magazine= [[Billboard (magazine)|Billboard]]|access-date=October 12, 2024}}</ref>
+! scope="col" width="45"| [[Hot Country Songs|US Country Songs]]<br /><ref name="Country Songs">{{cite magazine|url=http://www.billboard.com/artist/dylan-scott/chart-history/csi|title=Dylan Scott Chart History: Country Songs|magazine=Billboard|access-date=October 22, 2024}}</ref>
+! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref name="airplay">{{cite magazine|url=http://www.billboard.com/artist/dylan-scott/chart-history/csa|title=Dylan Scott Chart History: Country Airplay|magazine= [[Billboard (magazine)|Billboard]]|access-date=October 19, 2024}}</ref>
 ! scope="col" width="45"| [[Canadian Hot 100|CAN]]<br /><ref name="CAN">{{cite magazine|url=http://www.billboard.com/artist/dylan-scott/chart-history/can/|title=Dylan Scott Chart History: Canadian Hot 100|magazine=Billboard|access-date=April 9, 2024}}</ref>
 ! scope="col" width="45"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url=http://www.billboard.com/artist/dylan-scott/chart-history/ccw|title=Dylan Scott Chart History: Canada Country|magazine=Billboard|access-date=July 16, 2024}}</ref>
 |-
@@ -279,8 +279,8 @@ Scott and his wife, Blair Robinson, live in Nashville with their three children,
 |2023
 ! scope="row"| "[[Boys Back Home]]"<br/>{{small|(with [[Dylan Marlowe]])}}
 | —{{efn|group=upper-alpha|"Boys Back Home" did not enter the ''Billboard'' Hot 100, but peaked at number 18 on the [[Bubbling Under Hot 100]] chart.<ref name="BUH100"/>}}
-| 36
-| 22<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1011.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 11, 2024|access-date=October 12, 2024}}</ref>
+| 32
+| 20
 | —
 | 55
 |
@@ -291,7 +291,7 @@ Scott and his wife, Blair Robinson, live in Nashville with their three children,
 ! scope="row" | "This Town's Been Too Good to Us"
 | —
 | 36
-| 31
+| 26
 | —
 | —
 |
@@ -310,7 +310,7 @@ Scott and his wife, Blair Robinson, live in Nashville with their three children,
 ! scope="col" colspan="5"| Peak<br>positions
 ! scope="col" rowspan="2"| Album
 |- style="font-size:smaller;"
-! scope="col" width="45"| [[Bubbling Under Hot 100|US Bubbling]]<br /><ref name="BUH100">{{cite magazine|url=http://www.billboard.com/artist/dylan-scott/chart-history/hbu/|title=Dylan Scott Chart History: Bubbling Under Hot 100|magazine=Billboard|access-date=October 8, 2024}}</ref>
+! scope="col" width="45"| [[Bubbling Under Hot 100|US Bubbling]]<br /><ref name="BUH100">{{cite magazine|url=http://www.billboard.com/artist/dylan-scott/chart-history/hbu/|title=Dylan Scott Chart History: Bubbling Under Hot 100|magazine=Billboard|access-date=October 15, 2024}}</ref>
 ! scope="col" width="45"| [[Hot Country Songs|US Country Songs]]<br /><ref name="Country Songs"/>
 ! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref name="airplay"/>
 ! scope="col" width="45"| [[Canadian Hot 100|CAN]]<br /><ref name="CAN"/>
@@ -323,7 +323,7 @@ Scott and his wife, Blair Robinson, live in Nashville with their three children,
 |-
 | 2024
 ! scope="row"| "What He'll Never Have"
-| 9 || 29 || — || 76 || 15
+| 4 || 29 || — || 76 || 15
 | ''Livin' My Best Life (Still)''
 |}
 

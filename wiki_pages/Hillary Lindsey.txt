@@ -1078,7 +1078,7 @@ in 2020, Lindsey signed a co-publishing agreement with Concord Music Publishing.
 |"I Deserve a Drink"
 |Morgan Wallen, [[Devin Dawson]], Jacob Durrett 
 |-
-!rowspan=4|2024
+!rowspan=6|2024
 |rowspan="3"|[[Gabby Barrett]]
 |rowspan="3"|''[[Chapter & Verse (Gabby Barrett album)|Chapter & Verse]]''
 |"The Chapter"
@@ -1090,12 +1090,19 @@ in 2020, Lindsey signed a co-publishing agreement with Concord Music Publishing.
 |"You're My Texas"
 |Gabby Barrett, Miranda Lambert
 |-
+|rowspan="2"|Luke Bryan
+|rowspan="2"|''[[Mind of a Country Boy]]''
+|"Kansas"
+|Matt Dragstrem, Chase McGill
+|-
+|"Closing Time in California"
+|John Byron, Mark Holman, Chase McGill
+|-
 |[[MacKenzie Porter]]
 |''[[Nobody's Born with a Broken Heart]]''
 |"Easy to Miss"
 |[[Emily Warren]], Will Weatherly
 |}
-
 
 == Personal life ==
 Lindsey is married to songwriter [[Cary Barlowe]]. The couple have a daughter born in 2015.<ref>{{Cite web|date=January 7, 2016|first=Annie|last=Reuter|title=Songwriters Hillary Lindsey, Cary Barlowe Welcome Daughter|url=https://tasteofcountry.com/hillary-lindsey-cary-barlowe-daughter/|access-date=2021-06-03|website=Taste of Country|language=en}}</ref>

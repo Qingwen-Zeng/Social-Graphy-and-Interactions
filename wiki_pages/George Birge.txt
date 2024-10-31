@@ -57,13 +57,15 @@ After Waterloo Revival broke up in 2021, Birge began writing songs by himself. i
 ! scope="col" rowspan="2"| Album
 |- style="font-size:smaller;"
 ! scope="col" width="45"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2024-01-13/|title=Billboard Hot 100: Week of January 13, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=January 9, 2024}}</ref>
-! scope="col" width="45"| [[Hot Country Songs|US Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/country-songs/2023-12-30/|title=Hot Country Songs: Week of December 30, 2023|magazine=Billboard|access-date=December 27, 2023}}</ref>
+! scope="col" width="45"| [[Hot Country Songs|US Country]]<br /><ref>Peaks on the Hot Country Songs chart:
+* "Mind on You": {{cite magazine|url=https://www.billboard.com/charts/country-songs/2023-12-30/|title=Hot Country Songs: Week of December 30, 2023|magazine=Billboard|access-date=December 27, 2023}}
+* "Cowboy Songs": {{cite magazine|url=https://www.billboard.com/charts/country-songs/2024-10-26/|title=Hot Country Songs: Week of October 26, 2024|magazine=Billboard|access-date=October 22, 2024}}</ref>
 ! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref name="billboard"/><ref>Peaks on the Country Airplay chart:
 * "Amy's Back in Austin": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0112.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=January 12, 2024|access-date=January 13, 2024}}
-* "Cowboy Songs": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1004.pdf|title=Billboard Country Update|magazine=Billboard|date=October 4, 2024|access-date=October 5, 2024}}</ref>
+* "Cowboy Songs": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1018.pdf|title=Billboard Country Update|magazine=Billboard|date=October 18, 2024|access-date=October 19, 2024}}</ref>
 ! scope="col" width="45"| [[Canada Country|CAN Country]]<br /><ref>Peaks on the Canada Country chart:
 * "Mind on You": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-01-27/|title=Canada Country: Week of January 27, 2024|magazine=Billboard|access-date=January 23, 2024}}
-* "Cowboy Songs": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-12/|title=Canada Country: Week of October 12, 2024|magazine=Billboard|access-date=October 8, 2024}}</ref>
+* "Cowboy Songs": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-26/|title=Canada Country: Week of October 26, 2024|magazine=Billboard|access-date=October 22, 2024}}</ref>
 |-
 | 2021
 ! scope="row"| "[[Beer Beer, Truck Truck]]"
@@ -81,7 +83,7 @@ After Waterloo Revival broke up in 2021, Birge began writing songs by himself. i
 |-
 | 2024
 ! scope="row"| "Cowboy Songs"<ref>https://assets.countryaircheck.com/public/f6bdc58e-b873-46df-8ff7bf60b1e02426/smaller-CAP-12-2023.pdf</ref>
-| — || — || 15 || 40
+| — || 43 || 14 || 35
 |}
 
 ==References==

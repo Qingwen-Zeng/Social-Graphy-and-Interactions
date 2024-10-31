@@ -1,11 +1,11 @@
 {{Short description|American country and Americana band}}
 {{Infobox musical artist
 | name            = Flatland Cavalry
-| image           =
-| image_size      =
+| image           = Flatland Cavalry.jpg
+| image_size      = 250px
 | landscape       =
 | alt             =
-| caption         =
+| caption         = Flatland Cavalry performing in 2024 at the [[Florida Theatre]] in [[Jacksonville, FL]]
 | origin          = [[Lubbock, Texas|Lubbock]], [[Texas]]
 | genre           = [[Country music|Country]], [[Americana (music)|americana]], [[folk rock]], [[Texas country music|Texas country]]
 | years_active    = 2012–present

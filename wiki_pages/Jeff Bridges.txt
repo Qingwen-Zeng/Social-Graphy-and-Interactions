@@ -399,7 +399,7 @@ In 1984, Bridges and other entertainment industry leaders founded the End Hunger
 | 2007
 !scope="row"|''[[Surf's Up (film)|Surf's Up]]''
 | Ezekiel 'Big Z' Topanga / Geek
-| Voice<ref name="btva">{{cite web |title=Jeff Bridges (visual voices guide) |url=http://www.behindthevoiceactors.com/Jeff-Bridges/ |access-date=September 16, 2024 |publisher=Behind The Voice Actors}} A green check mark indicates that a role has been confirmed using a screenshot (or collage of screenshots) of a title's list of voice actors and their respective characters found in its opening and/or closing credits and/or other reliable sources of information.</ref>
+| Voice<ref name="btva">{{cite web |title=Jeff Bridges (visual voices guide) |url=http://www.behindthevoiceactors.com/Jeff-Bridges/ |access-date=September 16, 2024 |publisher=Behind The Voice Actors}} A green check mark indicates that a role has been confirmed using a screenshot (or collage of screenshots) of a title's list of voice actors and their respective characters found in its credits or other reliable sources of information.</ref>
 |-
 | rowspan="2" | 2008
 !scope="row"|''[[Iron Man (2008 film)|Iron Man]]''
@@ -502,6 +502,11 @@ In 1984, Bridges and other entertainment industry leaders founded the End Hunger
 !scope="row"|''[[Living in the Future's Past]]''
 | Narrator
 | Documentary; also producer
+|-
+| 2023
+!scope="row"|''Zen Brownie''
+| Narrator
+| Documentary
 |-
 | 2025
 !scope="row"|''[[Tron: Ares]]''

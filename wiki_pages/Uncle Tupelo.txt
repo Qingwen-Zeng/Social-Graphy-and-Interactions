@@ -123,8 +123,8 @@ Colors =
   id:guitar  value:green    legend:Guitar
   id:bass    value:blue     legend:Bass
   id:drums   value:orange   legend:Drums
-  id:violin  value:drabgreen   legend:Violin,_mandolin
-  id:album   value:black    legend:Album
+  id:violin  value:drabgreen   legend:Violin,_Mandolin
+  id:album   value:black    legend:Studio_Album
   id:bars value:gray(0.95)
 
 BackgroundColors =  bars:bars

@@ -16,7 +16,7 @@
 | label           = {{hlist|[[Open Road Recordings|Open Road]]|[[BBR Music Group]], [[Wheelhouse Records|Wheelhouse]]}} Stoney Creek
 | website         = {{URL|www.madelinemerlo.com/|madelinemerlo.com}}
 }}
-'''Madeline Rae Merlo'''<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/907411165?page=1|title=CHAMPAGNE NIGHT |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=September 19, 2023}}</ref> (born February 9, 1994) is a Canadian [[country pop]] singer-songwriter. She signed to [[Open Road Recordings]] in 2013 and released her debut album, ''[[Free Soul]]'', three years later. In 2015, Merlo received the "Rising Star" award from the [[Canadian Country Music Association]]. In 2021, she signed with the Nashville-based [[BBR Music Group]],<ref name="BBR">{{cite news|last=LB|first=Cantrell|title=BBR Music Group Signs Madeline Merlo|url=https://musicrow.com/2021/01/bbr-music-group-signs-madeline-merlo/|accessdate=January 21, 2021|work=Music Row Magazine|date=January 20, 2021}}</ref> joining their imprint [[Wheelhouse Records]].<ref>{{cite web|url=https://www.bbrmusicgroup.com/|title=BBR Music Group|access-date=September 26, 2022}}</ref>
+'''Madeline Rae Merlo'''<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/907411165?page=1|title=CHAMPAGNE NIGHT |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=September 19, 2023}}</ref> (born February 9, 1994) is a Canadian [[country pop]] singer-songwriter. She signed to [[Open Road Recordings]] in 2013 and released her debut album, ''[[Free Soul]]'', three years later. In 2015, Merlo received the "Rising Star" award from the [[Canadian Country Music Association]]. In 2021, she signed with the Nashville-based [[BBR Music Group]],<ref name="BBR">{{cite news|last=LB|first=Cantrell|title=BBR Music Group Signs Madeline Merlo|url=https://musicrow.com/2021/01/bbr-music-group-signs-madeline-merlo/|accessdate=January 21, 2021|work=Music Row Magazine|date=January 20, 2021}}</ref> joining their imprint [[Wheelhouse Records]], and later being re-assigned to [[Stoney Creek Records]].<ref>{{cite web|url=https://www.bbrmusicgroup.com/|title=BBR Music Group|access-date=September 26, 2022}}</ref>
 
 == Early life ==
 Merlo grew up in [[Maple Ridge, British Columbia]]. Her father was a funk musician, and the house was often filled with music.<ref name=":0" /> She had a desire to be a performer since the first time she sang in front of a crowd of people. In public school, she took part in her school talent show. She sang "Somewhere Over the Rainbow" and after that performance she decided that she wanted to be a singer.<ref name=":1">{{Cite web|title=Five Questions With... Madeline Merlo|url=https://www.fyimusicnews.ca/articles/2017/04/12/five-questions-madeline-merlo|date=April 1, 2017|website=FYIMusicNews|language=en|access-date=May 12, 2020}}</ref>
@@ -127,7 +127,7 @@ Merlo moved to [[Nashville, Tennessee]], in 2018. On April 22, 2023, at the Long
 *Singles before 2022: {{cite magazine|url=https://www.billboard.com/artist/madeline-merlo/chart-history/CCW |title=Madeline Merlo Chart History (Canada Country) |magazine=[[Billboard (magazine)|Billboard]] |accessdate=September 26, 2022|archive-date=December 1, 2021|archive-url= https://web.archive.org/web/20211201060759/https://www.billboard.com/artist/madeline-merlo/chart-history/ccw/|url-status=dead}}
 *"Slide": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2023-04-29|title=Canada Country chart for April 29, 2023|magazine=Billboard|access-date=April 25, 2023|url-access=subscription}}
 *"Tim + Faith": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-04-06|title=Canada Country chart for April 6, 2024|magazine=Billboard|access-date=April 2, 2024|url-access=subscription}}
-*"Broken Heart Thing": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-12|title=Canada Country chart for October 12, 2024|magazine=Billboard|access-date=October 8, 2024|url-access=subscription}}</ref>
+*"Broken Heart Thing": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-26|title=Canada Country chart for October 26, 2024|magazine=Billboard|access-date=October 22, 2024|url-access=subscription}}</ref>
 |-
 | rowspan="2"| 2014
 ! scope="row"| "Sinking Like a Stone"
@@ -202,7 +202,7 @@ Merlo moved to [[Nashville, Tennessee]], in 2018. On April 22, 2023, at the Long
 |-
 | 2024
 ! scope="row"| "Broken Heart Thing"<br/>{{small|(featuring [[Dustin Lynch]])}}
-| 31
+| 25
 | 
 | align="left"| ''One House Down (from the Girl Next Door)''
 |-

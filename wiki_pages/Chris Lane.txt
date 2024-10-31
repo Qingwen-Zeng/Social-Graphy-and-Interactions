@@ -140,7 +140,7 @@ In 2018, Lane began dating Lauren Bushnell, the winner of the [[The Bachelor (se
 |- style="font-size:smaller;"
 ! scope="col" style="width:4em;"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/chris-lane/chart-history/hsi/|title=Chris Lane Chart History – Hot 100|magazine=Billboard|access-date=November 28, 2017}}</ref>
 ! scope="col" style="width:4em;"| [[Hot Country Songs|US Country]]<br /><ref name="billboard">{{cite magazine|url=https://www.billboard.com/artist/chris-lane/chart-history/csi/|title=Chris Lane Chart History – Hot Country Songs|magazine=Billboard|access-date=November 28, 2017}}</ref>
-! scope="col" style="width:4em;"| [[Country Airplay|US Country Airplay]]<br /><ref name="airplay">{{cite magazine|url=https://www.billboard.com/artist/chris-lane/chart-history/csa/|title=Chris Lane Chart History – Country Airplay|magazine=Billboard|access-date=October 12, 2024}}</ref>
+! scope="col" style="width:4em;"| [[Country Airplay|US Country Airplay]]<br /><ref name="airplay">{{cite magazine|url=https://www.billboard.com/artist/chris-lane/chart-history/csa/|title=Chris Lane Chart History – Country Airplay|magazine=Billboard|access-date=October 19, 2024}}</ref>
 ! scope="col" style="width:4em;"| [[Canadian Hot 100|CAN]]<br /><ref name="Can Hot 100">{{cite magazine|url=https://www.billboard.com/artist/chris-lane/chart-history/can/|title=Chris Lane Chart History – Canadian Hot 100|magazine=Billboard|access-date=February 2, 2022}}</ref>
 ! scope="col" style="width:4em;"| [[Canada Country|CAN Country]]<br /><ref name="Can Country">{{cite magazine|url=https://www.billboard.com/artist/chris-lane/chart-history/ccw/|title=Chris Lane Chart History – Canada Country|magazine=Billboard|access-date=January 5, 2021}}</ref>
 |-
@@ -240,7 +240,7 @@ In 2018, Lane began dating Lauren Bushnell, the winner of the [[The Bachelor (se
 ! scope="row"| "Find Another Bar"<ref>{{cite web | url=https://www.allaccess.com/country/future-releases | title=Future Releases for Country Radio Stations &#124; New Music Artist Free Song }}</ref>
 | —
 | —
-| 29<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1011.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 11, 2024|access-date=October 12, 2024}}</ref>
+| 28<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1018.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 18, 2024|access-date=October 19, 2024}}</ref>
 | —
 | —
 |

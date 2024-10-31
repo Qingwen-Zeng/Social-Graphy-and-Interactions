@@ -28,7 +28,7 @@ In early 2006, Sarah Johns signed to Show Dog Nashville (now [[Show Dog-Universa
 | type       = studio
 | artist     = Sarah Johns
 | cover      =
-| caption    = {{deletable file-caption|Tuesday, 11 October 2022|PROD}}
+| caption    = 
 | released   = {{start date|2007|8|28}}
 | recorded   =
 | studio     =

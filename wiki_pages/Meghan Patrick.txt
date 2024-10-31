@@ -41,11 +41,11 @@ Patrick is married to fellow singer [[Mitchell Tenpenny]].<ref>{{cite web|url= h
 ===Albums===
 {| class="wikitable plainrowheaders" style="text-align:center;"
 |-
-! rowspan="2" style="width:16em;"| Title
-! rowspan="2" style="width:18em;"| Details
-! Peak<br />positions
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col"| Peak<br />positions
 |- style="font-size:smaller;"
-! style="width:4em;"| [[Canadian Albums Chart|CAN]]<br><ref name="Canadian Albums">{{cite magazine|url=https://www.billboard.com/artist/meghan-patrick/chart-history/cna/ |title=Meghan Patrick Chart History - Canadian Albums |magazine=[[Billboard (magazine)|Billboard]] |accessdate=January 28, 2020}}</ref>
+! scope="col" style="width:4em;"| [[Canadian Albums Chart|CAN]]<br><ref name="Canadian Albums">{{cite magazine|url=https://www.billboard.com/artist/meghan-patrick/chart-history/cna/ |title=Meghan Patrick Chart History - Canadian Albums |magazine=[[Billboard (magazine)|Billboard]] |accessdate=January 28, 2020}}</ref>
 |-
 ! scope="row"| ''[[Grace & Grit]]''
 | 
@@ -64,13 +64,19 @@ Patrick is married to fellow singer [[Mitchell Tenpenny]].<ref>{{cite web|url= h
 * Release date: June 25, 2021
 * Label: Warner Music Canada / Riser House
 | —
+|-
+! scope="row"| ''Golden Child''
+|
+* Release date: October 11, 2024
+* Label: Riser House
+| —
 |}
 
 ===Extended plays===
 {| class="wikitable plainrowheaders" style="text-align:center;"
 |-
-! style="width:10em;"| Title
-! style="width:18em;"| Details
+! scope="col"| Title
+! scope="col"| Details
 |-
 ! scope="row"| ''Wild as Me''
 |
@@ -81,23 +87,23 @@ Patrick is married to fellow singer [[Mitchell Tenpenny]].<ref>{{cite web|url= h
 |
 * Release date: May 5, 2023
 * Label: Riser House Entertainment
-|-
 |}
 
 ===Singles===
 {| class="wikitable plainrowheaders" style="text-align:center;"
 |-
-! rowspan="2"| Year
-! rowspan="2" style="width:16em;"| Single
-! Peak<br />positions
-! rowspan="2" style="width:10em;"| [[Music recording sales certification|Certifications]]
-! rowspan="2" style="width:16em;"| Album
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col"| Peak<br />positions
+! scope="col" rowspan="2" style="width:10em;"| [[Music recording sales certification|Certifications]]
+! scope="col" rowspan="2" style="width:16em;"| Album
 |- style="font-size:smaller;"
-! [[Canada Country|CAN<br />Country]]<br /><ref name="Canada Country">
+! scope="col"| [[Canada Country|CAN<br />Country]]<br /><ref name="Canada Country">
 *Singles from "Bow Chicka Wow Wow" to "Never Giving Up on You":{{cite magazine|url=https://www.billboard.com/artist/meghan-patrick/chart-history/ccw/ |title=Meghan Patrick Chart History - Canada Country |magazine=[[Billboard (magazine)|Billboard]] |access-date=August 2, 2022|url-status=dead|archive-url=https://web.archive.org/web/20211127175734/https://www.billboard.com/artist/meghan-patrick/chart-history/ccw/|archive-date=November 27, 2021}}
 *"Cool About It": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2022-03-19/|title=Canada Country chart for March 19, 2022|magazine=Billboard|url-access=subscription|access-date=August 2, 2022}}
-*"You Ain't": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2023-03-25|title=Canada Country chart for March 25, 2023|magazine=Billboard |access-date=March 22, 2023|url-access=subscription}}
-*"Greatest Show on Dirt": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2023-09-16|title=Canada Country chart for September 16, 2023|magazine=Billboard |access-date=September 12, 2023|url-access=subscription}}</ref>
+*"You Ain't": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2023-03-25|title=Canada Country chart for March 25, 2023|magazine=Billboard|access-date=March 22, 2023|url-access=subscription}}
+*"Greatest Show on Dirt": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2023-09-16|title=Canada Country chart for September 16, 2023|magazine=Billboard|access-date=September 12, 2023|url-access=subscription}}
+*"Golden Child": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-26|title=Canada Country chart for October 26, 2024|magazine=Billboard|access-date=October 22, 2024|url-access=subscription}}</ref>
 |-
 | rowspan="3"| 2016
 ! scope="row"| "Bow Chicka Wow Wow"
@@ -169,39 +175,44 @@ Patrick is married to fellow singer [[Mitchell Tenpenny]].<ref>{{cite web|url= h
 |
 | align="left"| ''Greatest Show on Dirt''
 |-
+| 2024
+! scope="row"| "Golden Child"
+| 47
+| 
+| align="left"| ''Golden Child''
+|-
 | colspan="10" style="font-size:85%"| "—" denotes releases that did not chart or were not released to that territory
 |}
 
 ===Promotional singles===
 {| class="wikitable plainrowheaders" style="text-align:center;"
 |-
-! Year
-! Single
-! Album
+! scope="col"| Year
+! scope="col"| Title
+! scope="col"| Album
 |-
 | 2022
 ! scope="row"| "My Left Hand"
-| {{n/a|Non-album single}}
+| {{Non-album single}}
 |-
 | rowspan="2"| 2023
 ! scope="row"| "She's No Good for Me"
 | rowspan="2"| ''Greatest Show on Dirt''
 |-
 ! scope="row"| "Ours"
-|-
 |}
 
 ===Guest singles===
 {| class="wikitable plainrowheaders" style="text-align:center;"
 |-
-! rowspan="2"| Year
-! rowspan="2" style="width:12em;"| Single
-! rowspan="2"| Artist
-! colspan="2"| Peak positions
-! rowspan="2"| Album
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2"| Artist
+! scope="col" colspan="2"| Peak positions
+! scope="col" rowspan="2"| Album
 |- style="font-size:smaller;"
-! width="65"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country"/>
-! width="65"| [[Country Airplay|US<br>Country Airplay]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0223.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=February 23, 2024|access-date=February 24, 2024}}</ref>
+! scope="col" width="65"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country"/>
+! scope="col" width="65"| [[Country Airplay|US<br>Country Airplay]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0223.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=February 23, 2024|access-date=February 24, 2024}}</ref>
 |-
 | 2022
 ! scope="row"| "You Ain't"
@@ -221,25 +232,25 @@ Patrick is married to fellow singer [[Mitchell Tenpenny]].<ref>{{cite web|url= h
 ===Other charted songs===
 {| class="wikitable plainrowheaders" style="text-align:center;"
 |-
-! rowspan="2"| Year
-! rowspan="2" style="width:16em;"| Single
-! Peak<br />positions
-! rowspan="2" style="width:16em;"| Album
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col"| Peak<br />positions
+! scope="col" rowspan="2" style="width:16em;"| Album
 |- style="font-size:smaller;"
-! [[Canada AC|CAN<br />AC]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/meghan-patrick/chart-history/cac/ |title=Meghan Patrick Chart History - Canada AC |magazine=[[Billboard (magazine)|Billboard]] |accessdate=December 15, 2020}}</ref>
+! scope="col"| [[Canada AC|CAN<br />AC]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/meghan-patrick/chart-history/cac/ |title=Meghan Patrick Chart History - Canada AC |magazine=[[Billboard (magazine)|Billboard]] |accessdate=December 15, 2020}}</ref>
 |-
 | 2020
 ! scope="row"| "[[I'll Be Home for Christmas]]"
 | 37
-| {{N/A|Non-album single}}
+| {{N/A|Non-album song}}
 |}
 
 ===Music videos===
 {| class="wikitable plainrowheaders"
 |-
-! Year
-! style="width:16em;"| Video
-! Director
+! scope="col"| Year
+! scope="col"| Title
+! scope="col"| Director
 |-
 | rowspan="3"| 2016
 ! scope="row"| "Bow Chicka Wow Wow"
@@ -262,8 +273,8 @@ Patrick is married to fellow singer [[Mitchell Tenpenny]].<ref>{{cite web|url= h
 |-
 ! scope="row"| "Walls Come Down"
 |-
-| rowspan="1"| 2019
-! scope="row"| "Wild As Me"
+| 2019
+! scope="row"| "Wild as Me"
 | rowspan="5"| Sean Hagwell
 |-
 | 2020
@@ -277,14 +288,14 @@ Patrick is married to fellow singer [[Mitchell Tenpenny]].<ref>{{cite web|url= h
 ! scope="row"| "Cool About It"
 |-
 | rowspan="4"| 2023
-! scope="row"| She's No Good For Me
+! scope="row"| "She's No Good for Me"
 | rowspan="4"| Ford Fairchild
 |-
-! scope="row"| Ours
+! scope="row"| "Ours"
 |-
-! scope="row"| Greatest Show On Dirt
+! scope="row"| "Greatest Show on Dirt"
 |-
-! scope="row"| Red Roses & Red Flags
+! scope="row"| "Red Roses & Red Flags"
 |}
 
 ==Awards and nominations==

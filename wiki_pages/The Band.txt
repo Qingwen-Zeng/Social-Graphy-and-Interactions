@@ -4,7 +4,7 @@
 {{Infobox musical artist
 | name              = The Band
 | image             = The Band (1969).png
-| caption           = The Band in 1969. Left to right: [[Richard Manuel|Richard Manuel]], [[Garth Hudson|Garth Hudson]], [[Levon Helm|Levon Helm]], [[Robbie Robertson|Robbie Robertson]] and [[Rick Danko|Rick Danko]].
+| caption           = The Band in 1969. Left to right: [[Richard Manuel]], [[Garth Hudson]], [[Levon Helm]], [[Robbie Robertson]] and [[Rick Danko]].
 | alt               = The Band sitting on a log
 | image_upright     = 1.2
 | alias             = The Hawks<br />Levon and the&nbsp;Hawks<br />Canadian Squires<br />The Crackers
@@ -19,7 +19,7 @@
 | past_members      = [[Rick Danko]]<br />[[Levon Helm]]<br />[[Garth Hudson]]<br />[[Richard Manuel]]<br />[[Robbie Robertson]]<br />[[Jim Weider]]<br />[[Stan Szelest]]<br />[[Randy Ciarlante]]<br />[[Richard Bell (musician)|Richard Bell]]
 }}
 
-'''The Band''' was a Canadian-American [[rock music|rock]] band formed in [[Toronto, Ontario]], in 1967. It consisted of Canadians [[Rick Danko]] (bass, guitar, vocals, fiddle), [[Garth Hudson]] (organ, keyboards, accordion, saxophone), [[Richard Manuel]] (piano, drums, vocals), [[Robbie Robertson]] (guitar, vocals, piano, percussion), and American [[Levon Helm]] (drums, vocals, mandolin, guitar, bass). The Band's music combined elements of [[Americana (music)|Americana]], [[Folk music|folk]], rock, [[jazz]] and [[country music|country]], which influenced artists such as [[George Harrison]], [[Elton John]], [[the Grateful Dead]], [[Eric Clapton]] and [[Wilco]]. 
+'''The Band''' was a Canadian-American [[rock music|rock]] band formed in [[Toronto, Ontario]], in 1967. It consisted of Canadians [[Rick Danko]] (bass, guitar, vocals, fiddle), [[Garth Hudson]] (organ, keyboards, accordion, saxophone), [[Richard Manuel]] (piano, drums, vocals), [[Robbie Robertson]] (guitar, vocals, piano, percussion), and American [[Levon Helm]] (drums, vocals, mandolin, guitar, bass). The Band's music combined elements of [[Americana (music)|Americana]], [[Folk music|folk]], rock, [[jazz]] and [[country music|country]], which influenced artists such as [[George Harrison]], [[Elton John]], [[the Grateful Dead]], [[Eric Clapton]] and [[Wilco]].
 
 Between 1958 and 1963, the group was known as the Hawks, a backing band for [[rockabilly]] singer [[Ronnie Hawkins]]. In the mid-1960s, they gained recognition for being the backing group for [[Bob Dylan]], with his [[Bob Dylan World Tour 1966|1966 concert tour]] being notable as Dylan's first with an electric band. After leaving Dylan and changing their name to The Band, they released several records to critical and popular acclaim, most notably their 1968 debut, ''[[Music from Big Pink]]'' and its succeeding album, 1969's ''[[The Band (album)|The Band]]''. According to [[AllMusic]], ''Music from Big Pink''<nowiki/>'s influence on several generations of musicians has been substantial: [[Pink Floyd]] member [[Roger Waters]] deemed it the "second-most influential record in the history of rock and roll",<ref>{{cite web|last=Moon|first=Tom|author-link=Tom Moon|date=June 1, 2018|url=https://www.npr.org/2018/07/01/624729592/50-years-on-the-bands-music-from-big-pink-haunts-us-still|title=50 Years On, The Band's 'Music From Big Pink' Haunts Us Still|publisher=[[NPR]]|language=en-US|access-date=December 10, 2020}}</ref> and music journalist [[Al Aronowitz]] called it "country soul ... a sound never heard before".<ref>{{cite magazine |url=https://www.rollingstone.com/music/music-news/the-beginnings-of-the-band-getting-started-meeting-bob-dylan-and-music-from-big-pink-91781/ |url-access=subscription |archive-url=https://web.archive.org/web/20181105140956/https://www.rollingstone.com/music/music-news/the-beginnings-of-the-band-getting-started-meeting-bob-dylan-and-music-from-big-pink-91781/amp/ |archive-date=November 5, 2018 |title=The Beginnings of the Band: Getting Started, Meeting Bob Dylan and 'Music From Big Pink' |magazine=[[Rolling Stone]] |date= August 24, 1968 |access-date=February 27, 2020}}{{cbignore}}</ref> Their most popular songs included "[[The Weight]]" (1968), "[[The Night They Drove Old Dixie Down]]" (1969), and "[[Up on Cripple Creek]]" (1969).
 
@@ -526,7 +526,6 @@ PlotData =
 
 ==External links==
 {{Sister project links|commons=category:The Band|d=Q600344|n=no|b=no|s=no|v=no|voy=no|species=no|mw=no|m=no|wikt=no|q=no}}
-* {{Curlie|Arts/Music/Bands_and_Artists/B/Band%2C_The/}}
 * [http://www.thebandmusic.net/ The Band&nbsp;– A Musical History], official site from Capitol Records
 * [http://theband.hiof.no/ The Band web site], extensive fan-operated site
 * {{Discogs artist|The Band}}
@@ -537,7 +536,7 @@ PlotData =
 * [https://canadianbands.com/artists/band/ Article at canadianbands.com]
 * {{Rock and Roll Hall of Fame}}
 *
-[https://www.ksmithart.com/rock/the-rolling-stones-tattoo-you-c584f-64nar/ Fan Art at Kerry Smith Art: Off The Record collection]
+* [https://www.ksmithart.com/rock/the-rolling-stones-tattoo-you-c584f-64nar/ Fan Art at Kerry Smith Art: Off The Record collection]
 
 {{The Band|state=expanded}}
 {{Rick Danko}}

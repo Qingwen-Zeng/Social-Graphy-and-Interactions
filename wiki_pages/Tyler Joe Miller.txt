@@ -67,6 +67,12 @@ Miller is a [[carpenter]] and [[painter]] by trade. He owns a non-profit organiz
 * Label: MDM
 * Format: Digital download, streaming
 |-
+! scope="row"| ''Going Home''
+|
+* Release date: October 25, 2024
+* Label: Tyler Joe Miller Music Inc.
+* Format: Digital download, streaming
+|-
 |}
 
 ===Singles===
@@ -94,7 +100,7 @@ Miller is a [[carpenter]] and [[painter]] by trade. He owns a non-profit organiz
 * "Back to Drinkin' Whiskey": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2023-06-17|title=Canada Country chart for June 17, 2023|magazine=Billboard|access-date=June 13, 2023|url-access=subscription}}
 * "Shoulda Known Better": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2023-11-04|title=Canada Country chart for November 4, 2023|magazine=Billboard|access-date=October 31, 2023|url-access=subscription}}
 * "Broken Man": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-06-29|title=Canada Country chart for June 29, 2024|magazine=Billboard|access-date=June 25, 2024|url-access=subscription}}
-* "What Good Is a Memory": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-12|title=Canada Country chart for October 12, 2024|magazine=Billboard|access-date=October 8, 2024|url-access=subscription}}</ref>
+* "What Good Is a Memory": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-26|title=Canada Country chart for October 26, 2024|magazine=Billboard|access-date=October 22, 2024|url-access=subscription}}</ref>
 |-
 | 2019
 ! scope="row"| "[[Pillow Talkin']]"
@@ -128,7 +134,7 @@ Miller is a [[carpenter]] and [[painter]] by trade. He owns a non-profit organiz
 | 8
 |
 * MC: Gold{{Certification Cite Ref|region=Canada|type=single|title=Wild as Her|artist=Tyler Joe Miller|refname="WAH"}}
-| rowspan="4"| ''Spillin' My Truth''
+| align="left" rowspan="4"| ''Spillin' My Truth''
 |-
 ! scope="row"| "[[Never Met a Beer]]"<br/>{{small|(with [[Matt Lang]])}}
 | —
@@ -151,11 +157,11 @@ Miller is a [[carpenter]] and [[painter]] by trade. He owns a non-profit organiz
 | —
 | 10
 |
-| rowspan="2" {{TBA}}
+| align="left" rowspan="2"| ''Going Home''
 |-
 ! scope="row"| "What Good Is a Memory"
 | —
-| 37
+| 26
 |
 |}
 
@@ -172,7 +178,7 @@ Miller is a [[carpenter]] and [[painter]] by trade. He owns a non-profit organiz
 |-
 | 2024
 ! scope="row"| "Takes Me Back"
-| align="left" {{TBA}}
+| align="left"| ''Going Home''
 |}
 
 ===Music videos===

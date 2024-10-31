@@ -3,7 +3,7 @@
 {{Infobox musical artist
 | name             = Chris LeDoux
 | image            = Chris LeDoux promo photo.png
-| caption          = LeDoux in May 1999
+| caption          = LeDoux in 1999
 | birth_name       = Christopher Lee LeDoux<ref>{{cite web | url=https://repertoire.bmi.com/Search/Catalog?num=Ik7dfDtu1Xp6b%252bdT%252bHRDSQ%253d%253d&cae=EXUbCKDA%252br169YV0FkVmbw%253d%253d&partType=WriterList&search=%7B%22Main_Search_Text%22%3A%22lean%20mean%20and%20hungry%22%2C%22Sub_Search_Text%22%3Anull%2C%22Main_Search%22%3A%22Title%22%2C%22Sub_Search%22%3Anull%2C%22Search_Type%22%3A%22all%22%2C%22View_Count%22%3A100%2C%22Page_Number%22%3A0%2C%22Part_Type%22%3Anull%2C%22Part_Id%22%3Anull%2C%22Part_Id_Sub%22%3Anull%2C%22Part_Name%22%3Anull%2C%22Part_Cae%22%3Anull%2C%22Original_Search%22%3Anull%2C%22DisclaimerViewed%22%3Anull%7D&resetPageNumber=True&partIdSub=YO0HedHMatLb45JzS23DVw%253d%253d | title=Search results for LeDoux, Christopher Lee | publisher=BMI | accessdate=September 13, 2024}}</ref>
 | birth_date       = {{Birth date|1948|10|2}}
 | birth_place      = [[Biloxi, Mississippi]], U.S.

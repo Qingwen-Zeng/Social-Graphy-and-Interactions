@@ -1,17 +1,16 @@
-{{short description|American singer-songwriter}}
+{{Short description|American singer-songwriter}}
 {{BLP sources|date=April 2023}}
 {{Infobox musical artist
 | name            = Adrienne Young
 | image           = Adrienne Young Little Sadie Little Grill Harrisonburg VA June 2008.jpg
 | caption         = [[Little Grill Collective]], June 27, 2008<br>"Buy Fresh, Buy Local" benefit
-| image_size      =
 | alias           =
 | origin          = [[Tallahassee, Florida]], United States
 | genre           = [[bluegrass music|Bluegrass]], [[country music|country]], [[old-time music]], [[American folk music]]
 | instrument      = [[Vocals]], [[Acoustic guitar]], [[Clawhammer]] [[Banjo]]
 | years_active    =
 | label           =
-| associated_acts = Little Sadie
+| current_member_of = Little Sadie
 | website         = [http://www.adrienneyoung.com/ Official Website]
 }}
 

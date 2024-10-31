@@ -122,7 +122,7 @@ On February 11, 2023, Bailey performed at BetMGM’s West [[Super Bowl]] Fest he
 |-
 ! scope="col" style="width:3em;font-size:85%;"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100">{{cite magazine|title=Bailey Zimmerman Chart History: Hot 100|url=https://www.billboard.com/artist/bailey-zimmerman/chart-history/hsi/|magazine=[[Billboard (magazine)|Billboard]]|access-date=July 9, 2024}}</ref>
 ! scope="col" style="width:3em;font-size:85%;"| [[Hot Country Songs|US<br />Country]]<br /><ref name="Country Songs">{{cite magazine|title=Bailey Zimmerman Chart History: Hot Country Songs|url=https://www.billboard.com/artist/bailey-zimmerman/chart-history/csi/|magazine=Billboard|access-date=July 9, 2024}}</ref>
-! scope="col" style="width:3em;font-size:85%;"| [[Country Airplay|US<br />Country Airplay]]<br /><ref name="Country Airplay">{{cite magazine|title=Bailey Zimmerman Chart History: Country Airplay|url=https://www.billboard.com/artist/bailey-zimmerman/chart-history/csa/|magazine=Billboard|access-date=October 12, 2024}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Country Airplay|US<br />Country Airplay]]<br /><ref name="Country Airplay">{{cite magazine|title=Bailey Zimmerman Chart History: Country Airplay|url=https://www.billboard.com/artist/bailey-zimmerman/chart-history/csa/|magazine=Billboard|access-date=October 19, 2024}}</ref>
 ! scope="col" style="width:3em;font-size:85%;"| [[ARIA Charts|AUS]]<br /><ref>{{cite web|url=https://www.aria.com.au/charts/singles-chart/2023-04-10|title=ARIA Top 50 Singles Chart|publisher=[[Australian Recording Industry Association]]|date=April 10, 2023|access-date=April 7, 2023}}</ref>
 ! scope="col" style="width:3em;font-size:85%;"| [[Canadian Hot 100|CAN]]<br /><ref name="Can Hot">{{cite magazine|title=Bailey Zimmerman Chart History: Canadian Hot 100|url=https://www.billboard.com/artist/bailey-zimmerman/chart-history/can/|magazine=Billboard|access-date=August 27, 2024}}</ref>
 ! scope="col" style="width:3em;font-size:85%;"| [[Canada Country|CAN<br />Country]]<br /><ref name="Can Country">{{cite magazine|title=Bailey Zimmerman Chart History: Canada Country|url=https://www.billboard.com/artist/bailey-zimmerman/chart-history/ccw/|magazine=Billboard|access-date=August 27, 2024}}</ref>
@@ -171,7 +171,7 @@ On February 11, 2023, Bailey performed at BetMGM’s West [[Super Bowl]] Fest he
 |-
 ! scope="row" | "[[Holy Smokes (Bailey Zimmerman song)|Holy Smokes]]"
 | 2024
-| 54 || 13 || 33<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1011.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 11, 2024|access-date=October 12, 2024}}</ref> || — || 46 || 46 || 19 || —
+| 54 || 13 || 31<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1018.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 18, 2024|access-date=October 19, 2024}}</ref> || — || 46 || 46 || 19 || —
 |
 * MC: Gold<ref name="MC" />
 | {{TBA}}

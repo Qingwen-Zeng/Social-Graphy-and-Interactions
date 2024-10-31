@@ -73,6 +73,12 @@ In December 2013, he married his wife, Brittney Marie (née Cole) Kelley.<ref>{{
 |
 * Release date: May 10, 2024<ref>{{Cite web |last=Anderson |first=Liza |date=2024-03-06 |title=Brian Kelley To Tell His 'Tennessee Truth' In May |url=https://musicrow.com/2024/03/brian-kelley-to-tell-his-tennessee-truth-in-may/ |access-date=2024-03-07 |website=MusicRow.com |language=en-US}}</ref>
 * Label: Nashville South / [[Big Machine Records|Big Machine]]
+* Format: CD, digital download, streaming
+|-
+!scope="row"| ''Ed & Mary Margaret's Son''
+|
+* To be released: October 25, 2024<ref>{{cite web|url=https://open.spotify.com/prerelease/6TSECT0AoKyI0PNBFsyqJY?si=lo6oiPoqSAaVp9BzE9SDCg|title=Ed & Mary Margaret's Son – Brian Kelley|website=Spotify|accessdate=October 17, 2024}}</ref>
+* Label: Nashville South / Big Machine
 |}
 
 ===Extended plays===
@@ -104,12 +110,16 @@ In December 2013, he married his wife, Brittney Marie (née Cole) Kelley.<ref>{{
 | rowspan="2"|''Tennessee Truth''
 |-
 ! scope="row"| "Acres"<ref>{{cite web|url=https://assets.countryaircheck.com/public/cce3e9fb-96ec-416e-9328c0e143d11843/Issue-914-June-10-2024.pdf|title=Country Aircheck Weekly June 10, 2024, Issue 914|date=June 10, 2024|website=Country Aircheck|access-date=June 10, 2024}}</ref>
-|rowspan=2|2024
+|rowspan=3|2024
 | —
 |-
 ! scope="row"| "Make America Great Again"<ref>{{cite web | url=https://www.usatoday.com/story/entertainment/music/2024/07/20/brian-kelley-new-song-make-america-great-again/74481428007/ | title=Brian Kelley of Florida Georgia Line duo announces 'Make America Great Again' solo single | publisher=[[USA Today]] | date=July 20, 2024 | accessdate=July 26, 2024}}</ref>
 | —
 |{{tba}}
+|-
+! scope="row"| "If I Go First"<ref>{{cite web | url=https://digital.abcaudio.com/news/brian-kelley-confronts-reality-if-i-go-first | title=Brian Kelley confronts reality in "If I Go First" | publisher=ABC Radio | date=October 8, 2024 | accessdate=October 17, 2024}}</ref>
+| —
+|''Ed & Mary Margaret's Son''
 |}
 
 ==See also==

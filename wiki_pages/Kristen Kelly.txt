@@ -28,6 +28,23 @@ Kelly independently released her FIRE ep in 2015 and has released 3 new singles 
 
 ==Discography==
 
+==Studio albums==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Something Worth Saying, Pt. 2''<ref>{{cite news|url=https://music.apple.com/gb/album/something-worth-saying-pt-2/1589596314|title=Something Worth Saying, Pt. 2 by Kristen Kelly|website=[[Apple Music]]|date=November 16, 2021}}</ref>
+| 
+* Release date: November 16, 2021
+* Label: self-released
+|-
+! scope="row"| ''Warrior''<ref>{{cite news|url=https://music.apple.com/gb/album/warrior/1729852994|title=Warrior by Kristen Kelly|website=[[Apple Music]]|date=February 16, 2024}}</ref>
+| 
+* Release date: February 16, 2024
+* Label: [[Sony Music|Sony]]
+|}
+
 ===Extended plays===
 {| class="wikitable plainrowheaders" style="text-align:center;"
 |-
@@ -43,6 +60,7 @@ Kelly independently released her FIRE ep in 2015 and has released 3 new singles 
 | 
 * Release date: June 9, 2015
 * Label: self-released
+|-
 |}
 
 ===Singles===
@@ -78,20 +96,17 @@ Kelly independently released her FIRE ep in 2015 and has released 3 new singles 
 | —
 | —
 |-
-|2020
-|“Ashes”
+| rowspan="3"| 2020
+! scope="row"| "Ashes"
 |
+|
+| rowspan="3" {{NA}}
+|-
+! scope="row"| "Country Music"<br />{{small|(featuring [[Craig Campbell (singer)|Craig Campbell]])}}
 |
 |
 |-
-|2020
-|“Country Music” featuring Craig Campbell
-|
-|
-| rowspan="2" |Something Worth Saying, PT. 1
-|-
-|2020
-|“Thank God For The Neon” 
+! scope="row"| "Thank God for the Neon" 
 |
 |
 |-

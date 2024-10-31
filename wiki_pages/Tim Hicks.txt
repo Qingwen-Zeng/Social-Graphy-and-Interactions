@@ -200,7 +200,7 @@ In 2021, he released the extended play ''Campfire Troubador'',<ref>{{cite web |t
 * "Dodge Out of Hell": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2022-12-24|title=Canada Country chart for December 24, 2022|magazine=Billboard|access-date=December 20, 2022|url-access=subscription}}
 * "Talk to Time": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2023-07-15|title=Canada Country chart for July 15, 2023|magazine=Billboard|access-date=July 11, 2023|url-access=subscription}}
 * "Yee to the Haw": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2023-12-02|title=Canada Country chart for December 2, 2023|magazine=Billboard|access-date=November 28, 2023|url-access=subscription}}
-* "One More": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-12|title=Canada Country chart for October 12, 2024|magazine=Billboard|access-date=October 8, 2024|url-access=subscription}}</ref>
+* "One More": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-10-26|title=Canada Country chart for October 26, 2024|magazine=Billboard|access-date=October 22, 2024|url-access=subscription}}</ref>
 |-
 | 2012
 ! scope="row"| "[[Get By (Tim Hicks song)|Get By]]"
@@ -342,7 +342,7 @@ In 2021, he released the extended play ''Campfire Troubador'',<ref>{{cite web |t
 | 2024
 ! scope="row"| "One More"
 | —
-| 24
+| 23
 |
 |-
 | colspan="6" style="font-size:85%"| "—" denotes releases that did not chart

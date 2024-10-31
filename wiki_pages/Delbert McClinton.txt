@@ -81,10 +81,10 @@ McClinton performed on the Frankie Miller album ''[[Frankie Miller's Double Take
 |
 |
 |
-| rowspan="2"| Clean
+| rowspan="2"| Clean/[[Atlantic Records|Atlantic]]
 |-
 | 1973
-| ''Subject to Change''
+| ''Subject to Change'' (Delbert & Glen)
 |
 |
 |
@@ -96,7 +96,7 @@ McClinton performed on the Frankie Miller album ''[[Frankie Miller's Double Take
 |
 |
 |
-| rowspan="3"| ABC
+| rowspan="3"| [[ABC Records|ABC]]
 |-
 | 1976
 | ''Genuine Cowhide''
@@ -133,17 +133,17 @@ McClinton performed on the Frankie Miller album ''[[Frankie Miller's Double Take
 |
 | style="text-align:center;"| 34 
 |
-| rowspan="2"| Capitol
+| rowspan="2"| [[Capitol Records|Capitol]]
 |-
 | 1981
-| ''Plain from the Heart''
+| ''Plain' from the Heart''
 |
 |
 | style="text-align:center;"| 181
 |
 |-
 | 1987
-| ''Honky Tonkin'''
+| ''Honky Tonkin' ''
 |
 |
 |
@@ -151,12 +151,12 @@ McClinton performed on the Frankie Miller album ''[[Frankie Miller's Double Take
 | MCA
 |-
 | rowspan="2"| 1989
-| ''Honky Tonkin'''
+| ''Honky Tonkin' (I Guess I Done Me Some)''
 |
 |
 |
 |
-| rowspan="2"| Alligator
+| rowspan="2"| [[Alligator Records|Alligator]]
 |-
 | ''Live from Austin''
 |
@@ -202,7 +202,7 @@ McClinton performed on the Frankie Miller album ''[[Frankie Miller's Double Take
 |
 | Mercury
 |-
-| ''Honky Tonk 'n Blues''
+| ''Honky Tonk 'n' Blues''
 |
 |
 |
@@ -240,7 +240,7 @@ McClinton performed on the Frankie Miller album ''[[Frankie Miller's Double Take
 | style="text-align:center;"| 3
 |-
 | 2003
-| ''[[Live (Delbert McClinton album)|Live]]''
+| ''[[Live (Delbert McClinton album)|Live]]'' (at the Bergen Musicfest)
 |
 | style="text-align:center;"| 44
 |
@@ -289,7 +289,7 @@ McClinton performed on the Frankie Miller album ''[[Frankie Miller's Double Take
 |
 | style="text-align:center;"| 
 | style="text-align:center;"| 18
-| rowspan="2"| Hot Shot
+| rowspan="3"| Hot Shot
 |-
 | 2019
 | ''[[Tall, Dark, and Handsome (album)|Tall, Dark & Handsome]]''
@@ -297,6 +297,13 @@ McClinton performed on the Frankie Miller album ''[[Frankie Miller's Double Take
 |
 | style="text-align:center;"| 
 | style="text-align:center;"| 15
+|-
+| 2022
+| ''Outdated Emotion''
+| style="text-align:center;"|
+|
+| style="text-align:center;"| 
+| style="text-align:center;"|
 |}
 
 ===Compilation albums===
@@ -307,31 +314,31 @@ McClinton performed on the Frankie Miller album ''[[Frankie Miller's Double Take
 !Label
 |-
 | rowspan="2"| 1978
-| ''Very Early Delbert McClinton Volume 1''
+| ''Very Early Delbert McClinton, Vol. 1''
 | LeCam
 |-
-| ''Very Early Delbert McClinton Volume 2''
+| ''Very Early Delbert McClinton, Vol. 2''
 | LeCam
 |-
 | 1989
-| ''The Best of Delbert McClinton''
+| ''Best of Delbert McClinton''
 | Curb
 |-
 | rowspan="2"| 1994
-| ''Classics, Vol. 1: The Jealous Kind'' (reissue of 1980 album)
+| ''Classics Volume One (The Jealous Kind)'' <small>reissue of 1980 album</small>
 | Curb
 |-
-| ''Classics, Vol. 2: Plain from the Heart'' (reissue of 1981 album)
+| ''Classics Volume Two (Plain' from the Heart)'' <small>reissue of 1981 album</small>
 | rowspan="2"| Curb
 |-
 | 1995
-| ''Great Songs: Come Together''
+| ''The Great Songs – Come Together''
 |-
 | rowspan="2"| 1999
-| ''Crazy Cajun Recordings''
+| ''The Crazy Cajun Recordings''
 | Edsel
 |-
-| ''The Ultimate Collection''
+| ''Ultimate Collection''
 | Hip-O
 |-
 | rowspan="2"| 2000
@@ -342,8 +349,8 @@ McClinton performed on the Frankie Miller album ''[[Frankie Miller's Double Take
 | Hip-O
 |-
 | 2003
-| ''The Best of Delbert McClinton'', 20th Century Masters, Millennium Collection
-| MCA
+| ''The Best of Delbert McClinton: 20th Century Masters/The Millennium Collection''
+| MCA Nashville
 |-
 | 2006
 | ''The Definitive Collection''
@@ -374,7 +381,7 @@ McClinton performed on the Frankie Miller album ''[[Frankie Miller's Double Take
 | style="text-align:center;"|—
 | style="text-align:center;"|—
 | style="text-align:center;"|
-| ''Very Early Delbert McClinton Volume 1''
+| ''Very Early Delbert McClinton, Vol. 1''
 |-
 |1972
 |"I Received a Letter" <small>(Delbert & Glen)</small>
@@ -412,7 +419,7 @@ McClinton performed on the Frankie Miller album ''[[Frankie Miller's Double Take
 | style="text-align:center;"|—
 | style="text-align:center;"|—
 | style="text-align:center;"|—
-|''Plain from the Heart''
+|''Plain' from the Heart''
 |-
 |1990
 |"I'm with You"

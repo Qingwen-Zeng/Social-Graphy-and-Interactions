@@ -64,7 +64,7 @@ Kent's major label debut and third studio album, ''[[Blacktop (album)|Blacktop]]
 |
 * Released: September 6, 2024
 * Label: RCA Nashville
-| — || — || —
+| — || — || 19
 |}
 
 === Singles ===
@@ -80,7 +80,7 @@ Kent's major label debut and third studio album, ''[[Blacktop (album)|Blacktop]]
 ! scope="col" style="width:3em;font-size:85%;"| [[Hot Country Songs|US<br />Country]]<br /><ref name="billboard"/><ref>{{cite magazine | url=https://bulletins.billboard.com/country/country_update_2023_0515.pdf | title=Billboard Country Update | magazine=Billboard | date=May 15, 2023 | page=4 |access-date=May 16, 2023}}</ref>
 ! scope="col" style="width:3em;font-size:85%;"| [[Country Airplay|US<br />Country<br />Airplay]]<br /><ref name="BCU">{{cite magazine | url=https://bulletins.billboard.com/country/country_update_2023_0512.pdf | title=Billboard Country Update | magazine=Billboard | date=May 12, 2023 | page=5 |access-date=May 13, 2023}}
 * {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0108.pdf|title=Billboard Country Update|magazine=Billboard|access-date=January 9, 2024}}
-* {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1011.pdf|title=Billboard Country Update|magazine=Billboard|access-date=October 12, 2024}}</ref>
+* {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1018.pdf|title=Billboard Country Update|magazine=Billboard|access-date=October 19, 2024}}</ref>
 ! scope="col" style="width:3em;font-size:85%;"| [[Canada Country|CAN<br />Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-01-13|title=Canada Country: Week of January 13, 2024|magazine=Billboard|access-date=January 9, 2024|url-access=subscription}}</ref>
 |-
 !scope="row"| "[[Wild as Her#Corey Kent version|Wild as Her]]"
@@ -98,7 +98,7 @@ Kent's major label debut and third studio album, ''[[Blacktop (album)|Blacktop]]
 |-
 !scope="row"| "This Heart"<ref>{{cite web | url=https://musicrow.com/single-track-releases/ | title=Single/Track Releases }}</ref>
 | 2024
-| — || 37 || 53 || —
+| — || 37 || 52 || —
 |
 | ''Black Bandana''
 |}

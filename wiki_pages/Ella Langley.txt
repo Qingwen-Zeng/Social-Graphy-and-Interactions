@@ -62,9 +62,9 @@ Langley's full-length debut studio album, ''[[Hungover (album)|Hungover]]'', was
 ! scope="col" colspan="10"| Peak chart positions
 ! scope="col" rowspan="2"| Album
 |- style="font-size:smaller;"
-! scope="col" width="45"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/hsi/ | title=Riley Green Chart History: Billboard Hot 100 | magazine=Billboard | access-date=October 8, 2024}}</ref>
-! scope="col" width="45"| [[Hot Country Songs|US Country]]<br /><ref name="Country Songs">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/csi/ | title=Riley Green Chart History: Country Songs | magazine=Billboard | access-date=October 8, 2024}}</ref>
-! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1004.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 4, 2024|access-date=October 5, 2024}}</ref>
+! scope="col" width="45"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/hsi/ | title=Riley Green Chart History: Billboard Hot 100 | magazine=Billboard | access-date=October 15, 2024}}</ref>
+! scope="col" width="45"| [[Hot Country Songs|US Country]]<br /><ref name="Country Songs">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/csi/ | title=Riley Green Chart History: Country Songs | magazine=Billboard | access-date=October 22, 2024}}</ref>
+! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_1018.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=October 18, 2024|access-date=October 19, 2024}}</ref>
 ! scope="col" width="45"| [[ARIA Charts|AUS]]<br /><ref>{{cite magazine|title=The ARIA Report: Week Commencing 29 July 2024|magazine=The ARIA Report|publisher=[[Australian Recording Industry Association]]|issue=1795|page=4|date=July 29, 2024}}</ref>
 ! scope="col" width="45"| [[Canadian Hot 100|CAN]]<br /><ref name="Canadian Hot 100">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/can/ | title=Riley Green Chart History: Canadian Hot 100 | magazine=Billboard | access-date=August 27, 2024}}</ref>
 ! scope="col" width="45"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/ccw/ | title=Riley Green Chart History: Canada Country | magazine=Billboard | access-date=October 12, 2024}}</ref>
@@ -75,7 +75,7 @@ Langley's full-length debut studio album, ''[[Hungover (album)|Hungover]]'', was
 |-
 ! scope="row"| "[[You Look Like You Love Me]]"<br />{{small|(featuring [[Riley Green (singer)|Riley Green]])}}
 | 2024
-| 33 || 10 || 12 || 67 || 33 || 20 || 66 || 19 || 59 || 89
+| 30 || 9 || 10 || 67 || 33 || 20 || 66 || 19 || 59 || 89
 | align="left" | ''Hungover''
 |}
 

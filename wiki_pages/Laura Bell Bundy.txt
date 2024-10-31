@@ -690,6 +690,7 @@ Broadway – [[Palace Theatre (New York City)|Palace Theatre]]
 {{Reflist}}
 
 ==External links==
+{{cc}}
 * {{Official website}}
 * {{IBDB name}}
 * {{IMDb name}}

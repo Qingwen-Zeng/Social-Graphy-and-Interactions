@@ -24,14 +24,9 @@
 * record producer
 }}
 | years_active      = 1969–present
-| label             = 
-| associated_acts   = {{flatlist|
-* [[Asleep at the Wheel]]
-* [[Willie Nelson]]
-}}
+| label             = [[Arista Nashville]], Bismeaux
+| current_member_of = [[Asleep at the Wheel]]
 | website           = [http://www.raybenson.com www.raybenson.com]|
-| current_members   = 
-| past_members      = 
 }}
 
 '''Ray Benson Seifert''' (born March 16, 1951) is an American musician, actor and voice actor who is the frontman of the [[Western swing]] band [[Asleep at the Wheel]].
@@ -39,11 +34,11 @@
 ==Biography==
 [[File:RayBensonApr09.jpg|thumb|237px|right|Ray Benson performing in April 2009]]
 
-Benson was raised [[Jews|Jewish]].<ref>{{cite web | url=https://jewishjournal.com/culture/arts/66413/ray-benson-asleep-at-the-wheel-the-biggest-jew-in-country-music-video/ | title=Ray Benson (Asleep at the Wheel): The biggest Jew in country music &#91;VIDEO&#93; | date=7 October 2008 }}</ref> In 1970, Benson, a native of [[Philadelphia]], formed Asleep at the Wheel with friends [[Lucky Oceans]] and Leroy Preston in Paw Paw, West Virginia. They were soon joined by Gene Dobkin, a classmate of Benson's at [[Antioch College]], and Chris O'Connell. The group relocated to [[Austin, Texas|Austin]] in 1973 after a suggestion from [[Willie Nelson]].
+Benson was raised [[Jews|Jewish]].<ref>{{cite web | url=https://jewishjournal.com/culture/arts/66413/ray-benson-asleep-at-the-wheel-the-biggest-jew-in-country-music-video/ | title=Ray Benson (Asleep at the Wheel): The biggest Jew in country music &#91;VIDEO&#93; | date=7 October 2008 }}</ref> In 1970, Benson, a native of [[Philadelphia]], formed Asleep at the Wheel with friends [[Lucky Oceans]] and Leroy Preston in Paw Paw, West Virginia. They were soon joined by Gene Dobkin, a classmate of Benson's at [[Antioch College]], and Chris O'Connell. The group relocated to [[Austin, Texas|Austin]] in 1973 after a suggestion from [[Willie Nelson]]. Since then, the group has released more than twenty albums and earned nine [[Grammy]] awards.
 
-Since then, the group has released more than twenty albums and earned nine [[Grammy]] awards. Though the band's lineup has changed greatly over the years (about 90 people have been part of Asleep at the Wheel at some point), Benson has always remained at the helm as the band's driving force.
+Benson released one solo single, "Four Scores and Seven Beers Ago", via [[Arista Nashville]] in 1991.<ref name="whitburn2013"/>
 
-In addition to his work with Asleep at the Wheel, Benson is also an accomplished producer whose credits include albums by [[Dale Watson (singer)|Dale Watson]], [[Suzy Bogguss]], [[Aaron Watson]], James Hand and [[Carolyn Wonderland]]; also single tracks for Willie Nelson, [[Aaron Neville]], [[Brad Paisley]], [[Pam Tillis]], [[Trace Adkins]], [[Merle Haggard]], and [[Vince Gill]].
+In addition to his work with Asleep at the Wheel, Benson is also a record producer whose credits include albums by [[Dale Watson (singer)|Dale Watson]], [[Suzy Bogguss]], [[Aaron Watson]], James Hand and [[Carolyn Wonderland]]; also single tracks for Willie Nelson, [[Aaron Neville]], [[Brad Paisley]], [[Pam Tillis]], [[Trace Adkins]], [[Merle Haggard]], and [[Vince Gill]].
 
 In 2003, Benson released his first solo album entitled ''Beyond Time''.
 
@@ -106,25 +101,6 @@ In February 2009, Asleep at the Wheel and Willie Nelson released ''[[Willie and 
 |-
 |}
 
-===Music videos===
-{| class="wikitable plainrowheaders"
-! Year
-! style="width:20em;"| Video
-! Director
-|-
-| 1998
-! scope="row"| "Texas" <small>(with [[Charlie Daniels]] and [[Lee Roy Parnell]])</small>
-| [[Peter Zavadil]]
-|-
-|1992
-!Live from Austintx
-|Gary Menotti
-|-
-|
-!
-|
-|}
-
 ==References==
 {{Reflist|2}}
 
@@ -146,6 +122,7 @@ In February 2009, Asleep at the Wheel and Willie Nelson released ''[[Willie and 
 [[Category:Jewish American musicians]]
 [[Category:American country guitarists]]
 [[Category:American male guitarists]]
+[[Category:Arista Nashville artists]]
 [[Category:Asleep at the Wheel members]]
 [[Category:Grammy Award winners]]
 [[Category:Singer-songwriters from Pennsylvania]]
