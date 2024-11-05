@@ -1,5 +1,0 @@
-#REDIRECT [[Billy Craddock]]
-
-{{Redirect category shell|
-{{R from move}}
-}}

@@ -1,5 +1,0 @@
-#REDIRECT [[Ronald Wallace]]
-
-{{Redirect category shell|
-{{R from move}}
-}}

@@ -1,5 +1,0 @@
-#REDIRECT [[Donald Cox]]
-
-{{Redirect category shell|
-{{R from ambiguous term}}
-}}
